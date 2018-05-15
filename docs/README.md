@@ -1,3 +1,4 @@
 # ThreeFold Tokens
 
-Some initial information from github about tokens.
+THREEFOLD TOKEN
+a digital currency backed by neutral and sustainable internet capacity
