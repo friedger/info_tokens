@@ -1,6 +1,7 @@
 How To Get Tokens
 
 Step 1: Buy BTC (or ETH)
+
 You can do it on following exchanges, depending on your region:
 
 [Buy BTC/XRP/ETH in Europe]
