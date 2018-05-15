@@ -20,7 +20,7 @@ When you have your BTC, you can buy TFT on the following exchanges:
 
 [http://btc-alpha.com/](http://btc-alpha.com/)
 
-[http://bitmeex.pro](http://bitmeex.pro) - will be ready in 2 weeks.
+[http://bitmeex.pro](http://bitmeex.pro) - will start operations in June.
 
 [Use ThreeFold Decentralized Exchange App] - new decentralized exchage wallet, based on atomic swaps tecnology. Expected toime to lauch in June.
 
