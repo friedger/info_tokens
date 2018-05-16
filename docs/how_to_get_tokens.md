@@ -4,21 +4,23 @@ Step 1: Buy BTC (or ETH)
 
 You can do it on following exchanges, depending on your region:
 
-[Buy BTC/XRP/ETH in Europe]
+Buy BTC/XRP/ETH in Europe
+
 Popular options are 
-[Cex.io](Cex.io)
-[Coinbase](https://www.coinbase.com/)
+[Cex.io](https://cex.io/buy-bitcoins)
+[Coinbase](https://www.coinbase.com/buy-bitcoin)
 
 [Buy BTC/XRP/ETH in US]
-For US the most popular option is to buy BTC/ETH from [Coinbase](https://www.coinbase.com/)
+For US the most popular option is to buy BTC/ETH from [Coinbase](https://www.coinbase.com/buy-bitcoin)
 
 [Buy BTC/XRP/ETH middle east / Africa]
-[bitoasis.net](bitoasis.net)
+[bitoasis.net](https://bitoasis.net/en/front/faq)
 
 
 When you have your BTC, you can buy TFT on the following exchanges:
 
 [http://btc-alpha.com/](http://btc-alpha.com/)
+
 
 [http://bitmeex.pro](http://bitmeex.pro) - will start operations in June.
 
