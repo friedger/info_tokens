@@ -21,8 +21,8 @@ For US the most popular option is to buy BTC/ETH from [Coinbase](https://www.coi
 When you have your BTC, you can buy TFT on the following exchanges:
 * [http://btc-alpha.com/](https://btc-alpha.com/)
 We have two markets currently: 
-- [BTC-TFT](https://btc-alpha.com/exchange/TFT_BTC/)
-- [USD-TFT](https://btc-alpha.com/exchange/TFT_USD/)
+1. [BTC-TFT](https://btc-alpha.com/exchange/TFT_BTC/)
+2. [USD-TFT](https://btc-alpha.com/exchange/TFT_USD/)
 
 * [http://bitmeex.pro](http://bitmeex.pro) - will start operations in June.
 
@@ -30,7 +30,7 @@ We have two markets currently:
 
 * Buy directly from farmers of farmer cooperatives - On the token website, there are list of active farming cooperatives. You can reach them and ask if they want to sell some amount of tokens.
 Here are some of them: 
-[https://www.mazraa.io/](Mazraa) - UAE
-[https://bettertoken.com/](Bettertoken) - Belgium
-[https://bancadati.farm/](Bancadati) - Switzerland
-[https://www.gigeurope.tech/](GIG Europe) - Switzerland
+1. [https://www.mazraa.io/](Mazraa) - UAE
+2. [https://bettertoken.com/](Bettertoken) - Belgium
+3. [https://bancadati.farm/](Bancadati) - Switzerland
+4. [https://www.gigeurope.tech/](GIG Europe) - Switzerland
