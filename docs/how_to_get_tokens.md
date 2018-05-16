@@ -19,7 +19,10 @@ For US the most popular option is to buy BTC/ETH from [Coinbase](https://www.coi
 ## Step 2: Buy TFT
 
 When you have your BTC, you can buy TFT on the following exchanges:
-* [http://btc-alpha.com/](https://btc-alpha.com/exchange/TFT_BTC/)
+* [http://btc-alpha.com/](https://btc-alpha.com/)
+We have two markets currently: 
+- [BTC-TFT](https://btc-alpha.com/exchange/TFT_BTC/)
+- [USD-TFT](https://btc-alpha.com/exchange/TFT_USD/)
 
 * [http://bitmeex.pro](http://bitmeex.pro) - will start operations in June.
 
