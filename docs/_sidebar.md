@@ -1,5 +1,5 @@
-* [Home](/)   : this is our wiki system, content is ...
-* [How To Get Tokens](how_to_get_tokens.md): explain general concept, how it works
+* [Home](/) 
+* [How To Get Tokens](how_to_get_tokens.md)
     * [Buy BTC/XRP/ETH in Europe]
     * [Buy BTC/XRP/ETH in US]
     * [Buy BTC/XRP/ETH middle east / Africa]
