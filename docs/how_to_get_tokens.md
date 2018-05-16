@@ -23,6 +23,11 @@ When you have your BTC, you can buy TFT on the following exchanges:
 
 * [http://bitmeex.pro](http://bitmeex.pro) - will start operations in June.
 
-* [Use ThreeFold Decentralized Exchange App] - new decentralized exchage wallet, based on atomic swaps tecnology. Expected toime to lauch in June.
+* Use ThreeFold Decentralized Exchange App - new decentralized exchage wallet, based on atomic swaps tecnology. Expected toime to lauch in June.
 
-* [buy from certain cooperatives] - On the token website, there are list of active farming cooperatives. You can reach them and ask if they want to sell some amount of tokens. 
+* Buy directly from farmers of farmer cooperatives - On the token website, there are list of active farming cooperatives. You can reach them and ask if they want to sell some amount of tokens.
+Here are some of them: 
+[https://www.mazraa.io/](Mazraa) - UAE
+[https://bettertoken.com/](Bettertoken) - Belgium
+[https://bancadati.farm/](Bancadati) - Switzerland
+[https://www.gigeurope.tech/](GIG Europe) - Switzerland
