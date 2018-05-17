@@ -21,3 +21,8 @@ After registration, log in to your account.
 3. Copy your TFT address and send your deposit there. You can scan QR code of the address from your mobile phone. Or you can just copy address through messenger for example. 
 4. Send your TFT to the btc-alpha. 
 5. Wait until funds will arrive. In normal situation it may take up to 40 minutes. 
+
+## Exchange Panel 
+On the main screen you will see several sections:
+1. List of all markets. You can type TFT to easily find TFT market. Click on it to switch onto it. 
+2. Price and 
