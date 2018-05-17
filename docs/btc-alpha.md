@@ -1,9 +1,9 @@
 # How to use BTC Alpha
 
 ## Registration
-In order to register on [http://btc-alpha.com](BTC-Alpha) exchange, you need to provide only email and password.
+In order to register on [BTC-Alpha](http://btc-alpha.com) exchange, you need to provide only email and password.
 No complex verification procedures required. 
-Link to [https://btc-alpha.com/accounts/register/](sign up).
+Link to [sign up](https://btc-alpha.com/accounts/register/).
 After registration, you will receive email with email verification link. Please open your mailbox and clik on the link.
 
 ## Log In
