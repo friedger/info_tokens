@@ -25,4 +25,5 @@ After registration, log in to your account.
 ## Exchange Panel 
 On the main screen you will see several sections:
 1. List of all markets. You can type TFT to easily find TFT market. Click on it to switch onto it. 
-2. Price and 
+2. Central part of the screen shows price charts and market movements. Please read more about [candlestick chart](https://www.investopedia.com/terms/c/candlestick.asp) if you want to understand better how to read the chart. 
+3. 
