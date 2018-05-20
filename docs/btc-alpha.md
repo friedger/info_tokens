@@ -6,6 +6,8 @@ No complex verification procedures required.
 Link to [sign up](https://btc-alpha.com/accounts/register/).
 After registration, you will receive email with email verification link. Please open your mailbox and clik on the link.
 
+![Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-registration.png "Registration Screen")
+
 ## Log In
 After registration, log in to your account.
 
