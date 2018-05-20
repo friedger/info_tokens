@@ -10,6 +10,8 @@ After registration, you will receive email with email verification link. Please 
 
 ## Log In
 After registration, log in to your account.
+![Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-signin.png "Login Screen")
+
 
 ## Deposit BTC
 1. Go to Finance section of your account.
