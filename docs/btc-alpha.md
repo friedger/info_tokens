@@ -40,3 +40,7 @@ On the main screen you will see several sections:
 3. Chat / Twitter / Wallets section. You can change between the three by clicking on a top panel.
 4. List of all sell orders currently available on the market. Please note that price is set in BTC if you select BTC market. 
 5. Window where you can put your buy order. You set amount, price, and click "Buy". You can automatically prepupulate the field by clicking on a specific SELL order. Order will be executed automaticlly as soon as it will match corresponding SELL order.
+6. Window where you can put your sell order. You set amount, price, and click "Sell". You can automatically prepupulate the field by clicking on a specific BUY order. Order will be executed automaticlly as soon as it will match corresponding BUY order.
+7. List of all buy orders currently available on the market. Please note that price is set in BTC if you select BTC market.
+8. List of your active orders. If your order will not be matched and executed immediately, it will be visible in this section. You can cancel your standing orders at any time. 
+9. List of all recent deals on the market with their price, size and date.  
