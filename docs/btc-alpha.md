@@ -45,9 +45,17 @@ On the main screen you will see several sections:
 8. List of your active orders. If your order will not be matched and executed immediately, it will be visible in this section. You can cancel your standing orders at any time. 
 9. List of all recent deals on the market with their price, size and date. 
 
-## withdrawal TFT or BTC
+## Withdrawal TFT or BTC
 1. Go to Finance section of your account.
 ![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section.png "Finance Screen")
 2. Locate BTC or TFT in the list and click "Withdraw". Select respective currency (BTC or TFT) in the popup list (not BTC-Alpha Codes)
 3. On a withdrwa dialog fill up the amount field and destination address.
 ![Withdraw](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-withdraw.png "Withdraw Screen")
+
+## Security
+1. It is not recommended to keep your funds permanently on exchange or use exchange as a wallet, because exchange is more likey to be hacked than your personal wallet.
+2. It is highly recommended to set up Two-Factor authentication for your account. In order to do that, 
+a. Install Authy or Google authenticator on your mobile phone: https://authy.com/download/ https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en, https://itunes.apple.com/ae/app/google-authenticator/id388497605?mt=8
+b. Set up second factor by using step-by-step guide on a TWO FACTOR AUTH page.
+![Two Factor Auth](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-two-factor.png "Withdraw Screen")
+
