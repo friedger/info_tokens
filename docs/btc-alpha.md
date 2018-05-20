@@ -10,17 +10,21 @@ After registration, you will receive email with email verification link. Please 
 
 ## Log In
 After registration, log in to your account.
-![Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-signin.png "Login Screen")
+![LogIn](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-signin.png "Login Screen")
 
 
 ## Deposit BTC
 1. Go to Finance section of your account.
+![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section.png "Finance Screen")
 2. Find BTC and click Deposit
+![BTC](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-btc-deposit.png "BTC Screen")
 3. Copy your bitcoin address and send your deposit there.
+![BTC](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-btc-deposit2.png "BTC Screen")
 4. Wait until funds will arrive. In normal situation it may take up to 40 minutes. 
 
 ## Deposit TFT
 1. Go to Finance section of your account.
+![Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section.png "Login Screen")
 2. Find TFT and click Deposit
 3. Copy your TFT address and send your deposit there. You can scan QR code of the address from your mobile phone. Or you can just copy address through messenger for example. 
 4. Send your TFT to the btc-alpha. 
