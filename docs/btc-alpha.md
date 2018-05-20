@@ -43,4 +43,11 @@ On the main screen you will see several sections:
 6. Window where you can put your sell order. You set amount, price, and click "Sell". You can automatically prepupulate the field by clicking on a specific BUY order. Order will be executed automaticlly as soon as it will match corresponding BUY order.
 7. List of all buy orders currently available on the market. Please note that price is set in BTC if you select BTC market.
 8. List of your active orders. If your order will not be matched and executed immediately, it will be visible in this section. You can cancel your standing orders at any time. 
-9. List of all recent deals on the market with their price, size and date.  
+9. List of all recent deals on the market with their price, size and date. 
+
+## withdrawal TFT or BTC
+1. Go to Finance section of your account.
+![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section.png "Finance Screen")
+2. Locate BTC or TFT in the list and click "Withdraw". Select respective currency (BTC or TFT) in the popup list (not BTC-Alpha Codes)
+3. On a withdrwa dialog fill up the amount field and destination address.
+![Withdraw](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-withdraw.png "Withdraw Screen")
