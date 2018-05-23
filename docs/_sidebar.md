@@ -1,7 +1,7 @@
 * [Home](/) 
 * [How To Get Tokens](how_to_get_tokens.md)
 * [BTC-Alpha Step by Step Guide](btc-alpha.md)
-* [Wallet Howto]
+* [Wallet Howto](wallet.md)
 * [Token Properties]
 * Technology
     * [Why Rivine](https://github.com/rivine/rivine/blob/master/doc/whitepaper.md)
