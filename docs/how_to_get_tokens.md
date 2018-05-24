@@ -9,6 +9,7 @@ You can do it on following exchanges, depending on your region:
 Popular options are 
 * [Cex.io](https://cex.io/buy-bitcoins)
 * [Coinbase](https://www.coinbase.com/buy-bitcoin)
+* [Kraken](https://www.kraken.com/)
 
 ### Buy BTC/XRP/ETH in US
 For US the most popular option is to buy BTC/ETH from [Coinbase](https://www.coinbase.com/buy-bitcoin)
