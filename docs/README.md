@@ -4,6 +4,8 @@
 
 a digital currency backed by neutral and sustainable internet capacity
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4exjbFvnGkk/0.jpg)](https://www.youtube.com/watch?v=4exjbFvnGkk)
+
 For additional information, please refer to our official channels: 
 
 Website: [threefoldtoken.com](https://threefoldtoken.com/) 
