@@ -4,15 +4,12 @@
 * [Wallet Howto](wallet.md)
 * [Token Properties]
 * Technology
-    * [Why Rivine](https://github.com/rivine/rivine/blob/master/doc/whitepaper.md)
-    * [Atomic Swaps](https://github.com/rivine/rivine/blob/master/doc/atomicswap/atomicswap.md)
-    * [decentralized exchange]
-* Why use our token inside your solution
-* How to integrate in our own app
+    * [Rivine blockchain](rivine_blockchain.md)
+    * [Atomic Swaps & Decentralized Exchange](atomic_swaps.md)
+* [Use ThreeFoldToken inside your solution](use_tft_in_your_solution.md)
+* [How to integrate in our own app](integrate_in_the_app
 * Circles
-    * ...
 * Presentations
-    * ...
 * Tools
     * this website, why this approach
     * mattermost 
