@@ -19,7 +19,7 @@ For this we use the ThreeFold Chain client, `tfchainc`.
 <a id="get-binaries"></a>
 ## Get the ThreeFold Chain binaries
 
-Creating and using a ThreeFold wallet from the command line is done through the **ThreeFold Chain client**, `tfchainc`. 
+Creating and using a ThreeFold wallet from the command line is done through the **ThreeFold Chain client**, `tfchainc`.
 
 See [Getting the ThreeFold Chain Binaries](get_binaries.md) for instructions on how to get the ThreeFold Chain client.
 
@@ -57,7 +57,7 @@ Initializing a new ThreeFold wallet is done by using the ThreeFold Chain client 
 ./tfchainc wallet init
 ```
 
-This will ask you to enter and confirm a **passphrase**, and as a result you will get a **seed**, that will allow you to recover your wallet at any point, from any other computer. 
+This will ask you to enter and confirm a **passphrase**, and as a result you will get a **seed**, that will allow you to recover your wallet at any point, from any other computer.
 
 > Make sure to save your seed in a safe place.
 
@@ -155,7 +155,7 @@ BlockStakes:         0 BS
 ```
 
 By executing the ThreeFold Chain client without any additional option (`./tfchainc`) you can check the `height` of the ThreeFold chain:
-```bash 
+```bash
 Synced: Yes
 Block:  1f57f7f95e3f5ed16fd1dd0b3b8068b33d8766f5e647bcf2fe251837fa246a48
 Height: 35
@@ -163,7 +163,7 @@ Target: [0 0 46 154 118 247 78 176 79 95 18 157 50 4 71 45 235 179 185 47 73 58 
 ```
 
 Note that in this case the `height` is still `35`. Once the transaction is confirmed the `height` will be higher, at least `36`:
-```bash 
+```bash
 Synced: Yes
 Block:  72cc5ebbfa62126287e71c7516a0d5e3ead91eaa73314b89dbe24880b9bd26eb
 Height: 36
@@ -212,7 +212,7 @@ Height: 39
 Target: [0 0 46 154 118 247 78 176 79 95 18 157 50 4 71 45 235 179 185 47 73 58 53 110 23 100 136 183 34 255 127 215]
 ```
 
-Once the transaction is confirmed you will see that the `height` will be `40` or higher. 
+Once the transaction is confirmed you will see that the `height` will be `40` or higher.
 
 <a id="explorer"></a>
 ## Check transaction in the Explorer
@@ -223,24 +223,24 @@ See [Install the ThreeFold Chain Explorer](tfchain_explorer.md) for instructions
 
 Specify your receiving address `015c1172cb8f9a970c9bb6bcbd7a51e31b0d54e997db1709f751f107afb51e7601282c1c87b200` in the **Search by hash** field, which will show the **coin output** of your first transaction:
 
-![](images/explorer1.png)
+![](img/explorer1.png)
 
 
 Clicking the **Parent transaction** link shows the full transaction:
 
-![](images/explorer2.png)
+![](img/explorer2.png)
 
 
 Clicking the second output, brings you back to your updated (`Has Been Spent` changed to `Yes`) **coin output** of the transaction:  
 
-![](images/explorer3.png)
+![](img/explorer3.png)
 
 
 Clicking ID of the output:
 
-![](images/explorer4.png)
+![](img/explorer4.png)
 
 
 Clicking the parent transaction:
 
-![](images/explorer5.png)
+![](img/explorer5.png)
