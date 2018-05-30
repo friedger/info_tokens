@@ -1,7 +1,8 @@
 * [Home](/) 
 * [How To Get Tokens](how_to_get_tokens.md)
 * [BTC-Alpha Step by Step Guide](btc-alpha.md)
-* [Wallet Howto](wallet.md)
+* [Command Line wallet](command_line_wallet.md)
+* [Mobile Wallet](mobile_wallet.md)
 * [Token Properties]
 * Technology
     * [Rivine blockchain](rivine_blockchain.md)
