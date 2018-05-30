@@ -12,6 +12,8 @@ Token website: [tftokens.com](http://www.tftokens.com/)
 
 Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info) 
 
+Foundation wiki: [https://threefoldfoundation.github.io/info_foundation/](https://threefoldfoundation.github.io/info_foundation/)
+
 Whitepaper pdf: [threefoldtoken.com/pdf/tf_whitepaper.pdf](https://threefoldtoken.com/pdf/tf_whitepaper.pdf)
 
 Youtube channel: [youtube.com/c/ThreeFoldFoundation](https://www.youtube.com/c/ThreeFoldFoundation)
