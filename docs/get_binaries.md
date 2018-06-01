@@ -4,9 +4,7 @@ There are two ThreeFold Chain binaries:
 - the ThreeFold Chain **client** (`tfchainc`)
 - and the ThreeFold Chain **daemon** (`tfchaind`)
 
-The ThreeFold Chain binaries are available for Mac OS, Linux and Windows from the [releases](https://github.com/threefoldfoundation/tfchain/releases) directory:
-
-![](images/releases.png)
+The ThreeFold Chain binaries are available for Mac OS, Linux and Windows from the [releases](https://github.com/threefoldfoundation/tfchain/releases) directory.
 
 From the command line download the zip file and extract it to any location of choice:
 ```bash
