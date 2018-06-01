@@ -10,8 +10,8 @@
     * [Run a TF Chain (blockchain) Node](create_node.md)
     * [Get TF Chain binaries](get_binaries.md)
 * [How to integrate in our own app](integrate_in_the_app.md)
-* Circles
-* Presentations
+* [Circles](circles.md)
+* [Presentations](presentations.md]
 * Tools
     * this website, why this approach
     * mattermost 
