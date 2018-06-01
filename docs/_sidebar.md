@@ -11,8 +11,5 @@
     * [Get TF Chain binaries](get_binaries.md)
 * [How to integrate in our own app](integrate_in_the_app.md)
 * [Circles](circles.md)
-* [Presentations](presentations.md]
-* Tools
-    * this website, why this approach
-    * mattermost 
-    * trello
+* [Presentations](presentations.md)
+* [Tools](tools.md)
