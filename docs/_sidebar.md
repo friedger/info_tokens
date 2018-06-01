@@ -7,8 +7,10 @@
 * Technology
     * [Rivine blockchain](rivine_blockchain.md)
     * [Atomic Swaps & Decentralized Exchange](atomic_swaps.md)
+    * [Run a TF Chain (blockchain) Node](create_node.md)
+    * [Get TF Chain binaries](get_binaries.md)
 * [Use ThreeFoldToken inside your solution](use_tft_in_your_solution.md)
-* [How to integrate in our own app](integrate_in_the_app
+* [How to integrate in our own app](integrate_in_the_app.md)
 * Circles
 * Presentations
 * Tools
