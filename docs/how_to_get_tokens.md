@@ -11,10 +11,10 @@ Popular options are
 * [Coinbase](https://www.coinbase.com/buy-bitcoin)
 * [Kraken](https://www.kraken.com/)
 
-### Buy BTC/XRP/ETH in US
-For US the most popular option is to buy BTC/ETH from [Coinbase](https://www.coinbase.com/buy-bitcoin)
+### Buy BTC/XRP/ETH in the US
+For the US the most popular option is to buy BTC/ETH from [Coinbase](https://www.coinbase.com/buy-bitcoin)
 
-### Buy BTC/XRP/ETH middle east / Africa
+### Buy BTC/XRP/ETH Middle East / Africa
 [bitoasis.net](https://bitoasis.net/en/front/faq)
 
 ## Step 2: Buy TFT
