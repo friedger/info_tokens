@@ -9,7 +9,7 @@
     * [Atomic Swaps & Decentralized Exchange](atomic_swaps.md)
     * [Run a TF Chain (blockchain) Node](create_node.md)
     * [Get TF Chain binaries](get_binaries.md)
-* [How to integrate in our own app](integrate_in_the_app.md)
+* [How to integrate in your app](integrate_in_the_app.md)
 * [Circles](circles.md)
 * [Presentations](presentations.md)
 * [Tools](tools.md)
