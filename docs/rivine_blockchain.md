@@ -1,6 +1,6 @@
 # Rivine Blockchain
 
-Content: TBD.
+[Rivine Whitepaper](https://raw.githubusercontent.com/rivine/rivine/master/doc/whitepaper.md ':include :type=markdown')
 
 [Rivine github repositry](https://github.com/rivine/rivine)
 
