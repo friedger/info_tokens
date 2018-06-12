@@ -4,6 +4,7 @@
 * [Command Line wallet](command_line_wallet.md)
 * [Mobile Wallet](mobile_wallet.md)
 * [Token Properties](token_properties.md)
+    * [Token Generation Rules](token_generation_rules.md)
 * Technology
     * [Rivine blockchain](rivine_blockchain.md)
     * [Atomic Swaps & Decentralized Exchange](atomic_swaps.md)
