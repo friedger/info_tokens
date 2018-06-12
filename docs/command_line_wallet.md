@@ -1,2 +1,4 @@
 
-[Token Generation Rules](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/concepts/token_generation_rules.md ':include :type=markdown')
+[Command Line Wallet](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/howto/wallet.md ':include :type=markdown')
+
+https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/howto/wallet.md
