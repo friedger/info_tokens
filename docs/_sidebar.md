@@ -6,6 +6,7 @@
 * [Token Properties](token_properties.md)
     * [Token Goals](token_goals.md)
     * [Token Generation Rules](token_generation_rules.md)
+    * [Token Issuance Economy](token_issuance_economy.md)
 * Technology
     * [Rivine blockchain](rivine_blockchain.md)
     * [Atomic Swaps & Decentralized Exchange](atomic_swaps.md)
