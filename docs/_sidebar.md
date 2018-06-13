@@ -4,7 +4,7 @@
 * [Command Line wallet](command_line_wallet.md)
 * [Mobile Wallet](mobile_wallet.md)
 * [Token Properties](token_properties.md)
-    * [Token Goals](token_goals.md)
+    * [Token Benefits](token_benefits.md)
     * [Token Generation Rules](token_generation_rules.md)
     * [Token Issuance Economy](token_issuance_economy.md)
 * Technology
