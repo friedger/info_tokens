@@ -9,7 +9,8 @@
 The TF Chain has been built using our the Rivine.io blockchain stack. It is a distributed, “proof-of-stake” blockchain.  As a multi-chain platform, the TF Chain is not constrained in terms of scalability and slow transaction processing times as others are, and it does not consume huge  amounts of energy for mining purposes.
 
 
-[](https://github.com/threefoldfoundation/info_tokens/blob/master/docs/img/token_cycle.png?raw=true)
+![Image](https://github.com/threefoldfoundation/info_tokens/blob/master/docs/img/token_cycle.png?raw=true)
+
 
 ThreeFold Tokens can be bought from any of the ThreeFold Farmers or by means of Ripple, Ethereum or Bitcoin using the TF Exchange. The TF Grid launched at the end of March 2018 and the first group of TF Farmers agreed to sell Tokens at a price higher than US $0.10 per Token for at least the first month. This ensures a Token launching price of $0.10.  Please contact the ThreeFold Foundation if you would like to purchase TF asset-backed utility Tokens now, and we can point you to Farmers who are willing to sell.
 
