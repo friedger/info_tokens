@@ -1,10 +1,11 @@
-# Token Goals Are Threefold:
+# Token Benefits are ThreeFold:
 
-**Utility** - The TFT is designed to have specific commercial utility as the designated currency for buying and selling IT Capacity on the TF Grid. 
+**Value Backed** - 
+100% of ThreeFold Tokens are asset backed by the fastest growing commodity in the world, the internet. Tokens only get generated when servers get connected to the internet. Each token is at least 6 times undervalued compared to the commercial value of the newly connected capacity.
 
-**Green** - The ThreeFold Chain Operating System (Zero-OS) runs on a decentralized and distributed network of dedicated hyper-efficient Zero-Node (Node) infrastructure, which enables extreme scalability delivered at an extremely low carbon footprint.
+**Good For The Planet** - 
+The ThreeFold Token is a result of mining useful internet capacity. We call this farming. The ThreeFold Blockchain is 100% energy neutral. The produced internet capacity uses up to 10 times less energy, it removes the need for centralized power-hungry data centers.
 
-**Neutral** - The ThreeFold Foundation is building a neutral and digitally responsible world by connecting humanity to a decentralized, distributed, neutral, and green internet owned by all of us. The ThreeFold Foundation does not have any shareholders and is not owned or controlled by any other corporation. The ThreeFold Foundation is only a promotion organization. All technology used by ThreeFold is open source. All users and ThreeFold Nodes are registered on a blockchain-based identity management platform enhancing security and privacy.  ​
-
-The TF Chain has been built using our the Rivine.io blockchain stack. It is a distributed, “proof-of-stake” blockchain.  As a multi-chain platform, the TF Chain is not constrained in terms of scalability and slow transaction processing times as others are, and it does not consume huge  amounts of energy for mining purposes.
+**Reliable & Secure** - 
+The ThreeFold Blockchain does not suffer from the “Blockchain Dilemma Problem”. Our blockchain is fast, scalable and secure at the same time, which is to date not possible with other blockchain technologies. This is a major breakthrough.
 
