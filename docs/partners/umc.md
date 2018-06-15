@@ -4,7 +4,6 @@ The essence of the partnership agreement is the mutual use of technologies and s
 Threefold builds an ecosystem of decentralized and energy efficient IT capacity, which will back the ThreeFold Token.
 ThreeFold technology enables IT to consume up to 10 times less energy. Moreover, the technology is self-recovering and does not require the involvement of IT professionals.
 
-
-Несколько слов о компании UMC Technologies Limited:
-UMC - это революционный проект, который выводит маркетинг в мессенджерах на новый уровень. 
-Платформа UMC основана на блокчейн технологиях и работает с использованием высокоскоростного искусственного интеллекта. Это делает рекламу в мессенджерах эффективной, надежной и максимально удобной. Все действия могут выполняться быстро и легко через удобный интерфейс.
+UMC Technologies Limited
+UMC - is a revolutionary project, that brings messenger marking to the new level. 
+UMC platform is built on blockchain and is working with hish-speed artificial intilligence. It makes advertisement in messengers efficient, reliable and really convenient. Everything can be exectude quickly and efficiently through user-friendly interface. 
