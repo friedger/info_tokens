@@ -3,7 +3,7 @@
 --- 
 
 * [What are ThreeFold tokens?]()
-* [Why buy ThreeFold tokens?](token_benifits.md)
+* [Why buy ThreeFold tokens?](why_buy_tft.md)
 * [How to buy ThreeFold Tokens](how_to_get_tokens.md)
 * [Buying & selling tokens using the TF wallet](mobile_wallet.md)
 * [Buying tokens using BTC-Alpha, step by step guide](btc-alpha.md)
