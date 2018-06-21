@@ -1,4 +1,4 @@
-# How to use BTC Alpha
+# Buying ThreeFold Tokens using BTC-Alpha
 
 ## Registration
 In order to register on [BTC-Alpha](http://btc-alpha.com) exchange, you need to provide only email and password.
