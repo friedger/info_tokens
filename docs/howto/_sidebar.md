@@ -2,5 +2,5 @@
 
 ----
 
-* [How To](/how to/readme.md)
-    * [Command Line Wallet](/command_line_wallet.md)
+* [How To](/howto/readme.md)
+    * [Command Line Wallet](/howto/command_line_wallet.md)
