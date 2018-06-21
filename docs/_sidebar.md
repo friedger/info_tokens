@@ -11,4 +11,4 @@
 * [Value of the Token](token_issuance_economy.md)
 * [Token Properties](token_properties.md)
 * [Technology](technology/readme.md)
-* [How To](how to/readme.md)
+* [How To](howto/readme.md)
