@@ -1,4 +1,4 @@
-# Buying & selling tokens using the ThreeFold Wallet
+# Buying & Selling Tokens using the ThreeFold Wallet
 
 ## Registration and login
 For the first use of the wallet, you will have to register your account. You will get account on [ItsYou.online](Itsyou.online) identity portal.

@@ -1,2 +1,1 @@
-
-[Run a TF Chain node](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/howto/create_node.md ':include :type=markdown')
+[Run a TF Chain node](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/tf_technology/create_node.md ':include :type=markdown')

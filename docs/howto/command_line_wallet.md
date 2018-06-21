@@ -1,2 +1,1 @@
-
-[Command Line Wallet](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/howto/wallet.md ':include :type=markdown')
+[Command Line Wallet](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/tf_technology/wallet.md ':include :type=markdown')
