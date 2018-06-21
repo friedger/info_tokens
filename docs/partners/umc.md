@@ -6,6 +6,6 @@ The essence of the partnership agreement is the mutual use of technologies and s
 Threefold builds an ecosystem of decentralized and energy efficient IT capacity, which will back the ThreeFold Token.
 ThreeFold technology enables IT to consume up to 10 times less energy. Moreover, the technology is self-recovering and does not require the involvement of IT professionals.
 
-UMC Technologies Limited
-UMC - is a revolutionary project, that brings messenger marking to the new level. 
-UMC platform is built on blockchain and is working with hish-speed artificial intilligence. It makes advertisement in messengers efficient, reliable and really convenient. Everything can be exectude quickly and efficiently through user-friendly interface. 
+UMC Technologies Limited (UMC) makes advertisement in messengers efficient, reliable and convenient. Everything can be exectuted quickly and efficiently through a user-friendly interface. Thus UMC that brings messenger marking to a new level. UMC platform is built on blockchain and is working with hish-speed Artificial Intelligence (AI).
+
+UMC - ThreeFold partnership will be mutually beneficial: it will increase visibility of the ThreeFold Grid through UMC's high-profile project [link here to some of the UMC media coverage], and will give UMC a neutral and plentiful internet capacity platform to run its AI on. Follow ThreeFold news on [ThreeFold telegram channel](https://t.me/threefoldtoken) and UMC news on [UMC telegram group](https://t.me/UMC_community_EN).
