@@ -13,11 +13,11 @@ Token website: [tftokens.com](http://www.tftokens.com/)
 
 Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info) 
 
-Foundation wiki: [https://threefoldfoundation.github.io/info_foundation/](https://threefoldfoundation.github.io/info_foundation/)
+Foundation Wiki: [https://threefoldfoundation.github.io/info_foundation/](https://threefoldfoundation.github.io/info_foundation/)
 
-Whitepaper pdf: [threefoldtoken.com/pdf/tf_whitepaper.pdf](https://threefoldtoken.com/pdf/tf_whitepaper.pdf)
+Whitepaper (pdf): [threefoldtoken.com/pdf/tf_whitepaper.pdf](https://threefoldtoken.com/pdf/tf_whitepaper.pdf)
 
-Youtube channel: [youtube.com/c/ThreeFoldFoundation](https://www.youtube.com/c/ThreeFoldFoundation)
+YouTube channel: [youtube.com/c/ThreeFoldFoundation](https://www.youtube.com/c/ThreeFoldFoundation)
 
 ThreeFold Telegram Chat, English: [t.me/threefoldtoken_chat](https://t.me/threefoldtoken_chat)
 
@@ -27,6 +27,6 @@ ThreeFold Telegram Farmers Chat: [t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw](https://
 
 Facebook: [facebook.com/ThreeFoldCommunity](https://www.facebook.com/ThreeFoldCommunity)
 
-LinkedIn (LI): [linkedin.com/company/threefold-foundation/](https://www.linkedin.com/company/threefold-foundation/)
+LinkedIn: [linkedin.com/company/threefold-foundation/](https://www.linkedin.com/company/threefold-foundation/)
 
 You can read Kristof’s latest articles at [medium.com/@despiegk](https://medium.com/@despiegk)
