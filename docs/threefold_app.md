@@ -42,18 +42,26 @@ After having associated your ThreeFold app to your ItsYou.online profile, your n
 After having set your PIN code, a private key will be created for you. This key is a unique combination 24 words, also referred to as a **seed**. 
 
 In order to access your private key, click **Settings** in the app menu:
+
 ![Settings](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-settings.png "Settings")
 
 
 Then click **Security**:
+
 ![Security](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-security.png "Security")
 
 And finally, click the ThreeFold private key:
+
 ![Seed](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-seed.png "Seed")
+
 
 We recommend making a screenshot of this screen, print it on paper and store it safely offline.
 
-> **ThreeFold does not have any access to or maintain records of your private key. It is your personal responsibility to keep your 24-word private key in a safe place. Do not share your private key with anyone, it is strictly personal. Loosing your private key, means loosing access to your Wallet and all your ThreeFold tokens. And anybody with access to your private key can take ownership of your wallet and tokens**
+> **ThreeFold does not have any access to or maintain records of your private key. It is your personal responsibility to keep your 24-word private key in a safe place.**
+
+> **Do not share your private key with anyone, it is strictly personal. Loosing your private key, means loosing access to your Wallet and all your ThreeFold tokens.**
+
+> **Anybody with access to your private key can take ownership of your ThreeFold wallet and ThreeFold tokens**
 
 > **In order to access your wallet from another wallet (on another phone or online) you will need your private key (seed), without this private key your account cannot be recovered on another device or online wallet.**
 
