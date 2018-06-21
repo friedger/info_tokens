@@ -1,20 +1,13 @@
-* [Home](/) 
-* [How To Get Tokens](how_to_get_tokens.md)
-* [BTC-Alpha Step by Step Guide](btc-alpha.md)
-* [Command Line wallet](command_line_wallet.md)
-* [Mobile Wallet](mobile_wallet.md)
+* [Home](/)
+
+--- 
+
+* [What are ThreeFold tokens?]()
+* [Why buy ThreeFold tokens?](token_benifits.md)
+* [How to buy ThreeFold Tokens](how_to_get_tokens.md)
+* [Buying & selling tokens using the TF wallet](mobile_wallet.md)
+* [Buying tokens using BTC-Alpha, step by step guide](btc-alpha.md)
+* [Farming Tokens](token_generation_rules.md)
+* [Value of the Token](token_issuance_economy.md)
 * [Token Properties](token_properties.md)
-    * [Token Benefits](token_benefits.md)
-    * [Token Generation Rules](token_generation_rules.md)
-    * [Token Issuance Economy](token_issuance_economy.md)
-* Technology
-    * [Rivine blockchain](rivine_blockchain.md)
-    * [Atomic Swaps & Decentralized Exchange](atomic_swaps.md)
-    * [Run a TF Chain (blockchain) Node](create_node.md)
-    * [Get TF Chain binaries](get_binaries.md)
-* [How to integrate in your app](integrate_in_the_app.md)
-* Partners
-    * [UMC](partners/umc.md)
-* [Circles](circles.md)
-* [Presentations](presentations.md)
-* [Tools](tools.md)
+* [Technology](technology/readme.md)
