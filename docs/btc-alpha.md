@@ -19,7 +19,7 @@ Registration to the [BTC-Alpha](http://btc-alpha.com) exchange is simple, you on
 
 In order to register go to their [Sign Up](https://btc-alpha.com/accounts/register) page:
 
-[Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-registration-new.png "Registration Screen")
+![Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-registration.png "Registration Screen")
 
 After registration, you will receive an email with an email verification link.
 
