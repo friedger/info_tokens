@@ -10,5 +10,5 @@
 * [Farming Tokens](token_generation_rules.md)
 * [Value of the Token](token_issuance_economy.md)
 * [Token Properties](token_properties.md)
-* [Technology](technology/readme.md)
-* [How To](howto/readme.md)
+* [Technology](technology/README.md)
+* [How To](howto/README.md)

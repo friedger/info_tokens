@@ -1,4 +1,6 @@
-# [UMC](http://umccoin.io/) 
+# UMC
+
+[UMC](http://umccoin.io/) 
 
 UMC Technologies Limited and ThreeFold have concluded a partnership agreement on mutual cooperation.
 The essence of the partnership agreement is the mutual use of technologies and services of both companies. UMC company will use server capacity of ThreeFold Grid to host its software. ThreeFold Foundation will use the UMC platform to advertise its product.
