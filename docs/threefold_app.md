@@ -2,7 +2,7 @@
 
 ThreeFold created a ThreeFold app, available for iOS and Android phones. This ThreeFold app, includes a ThreeFold wallet. 
 
-> Currently the ThreeApp app only allows you to manage one single ThreeFold wallet at the same time, and only one wallet address.
+> Currently the ThreeFold app only allows you to manage one single ThreeFold wallet at the same time, and only one wallet address.
 
 Follow the steps below in order to setup your ThreeFold wallet, and receive and send your first ThreeFold tokens.
 
@@ -12,6 +12,7 @@ Follow the steps below in order to setup your ThreeFold wallet, and receive and 
 - [Receive tokens](#receive)
 - [Send tokens](#send)
 - [Transactions](#transactions)
+- [Buying ThreeFold tokens using BTC-Alpha](btc-alpha)
 
 <a id='iyo'><a>
 
@@ -23,7 +24,7 @@ In case you already have an [ItsYou.online](itsyou.online) account, click the bl
 
 ![Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-registration-300.png "Registration Screen")
 
-In both cases your ThreeApp app will be associated with your ItsYou.online profile.
+In both cases your ThreeFold app will be associated with your ItsYou.online profile.
 
 
 <a id='pin'><a>
@@ -96,9 +97,17 @@ Click on the **Send** tokens button. Enter recipient address and amount to send.
 
 ![Send](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-send-300.jpg "Send")
 
-## Help and manuals
-You can find list of exchanges and manual how to use them in the Exchanges section:
+<a id='btc-app'><a>
+
+## Buying ThreeFold tokens using BTC-Alpha
+
+Next to receiving ThreeFold tokens from other ThreeFold app user, as documented above, you can of course also buy tokens on public crypto currency exchanges, such as BTC-Alpha, which is actual the first one that offers ThreeFold tokens.
+
+A list of all public crypto currency exchanges that offer ThreeFold is available from within the ThreeFold app. You can access this list by clicking **Exchanges** from the ThreeFold app navigation menu:
+
 
 ![Exchanges](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-300.jpg "Exchanges")
-![Exchanges Manual](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-manual-300.jpg "Exchanges Manual")
 
+Selecting one of the listed exchanges will show you all details, for instance here for BTC-Alpha: you get a full user manual documenting all steps to buy ThreeFold tokens:
+
+![Exchanges Manual](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-manual-300.jpg "Exchanges Manual")
