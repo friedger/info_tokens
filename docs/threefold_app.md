@@ -71,43 +71,62 @@ We recommend making a screenshot of this screen, print it on paper and store it 
 
 ## Receive tokens
 
-At the bottom of the wallet click **Receive* button.
+In order to acquire ThreeFold tokens who have basically two options:
+- Buy them on a public crypto currency exchange, such as BTC-Alpha, as documented here below in [Buying ThreeFold tokens using BTC-Alpha](#btc-alpha)
+- Or receive ThreeFold tokens from someone who sends them to you from their online or offline wallet, such as the ThreeFold app, as documented here below in [Send tokens](#send)
 
-You will see the address to which ThreeFold tokens can be send as QR code and as a text string. You can scan this QR code from another smartphone or just copy the address as shown and send it to your counterpart. By clicking the address text the address is copied, allowing you to paste it in a chat or email message. 
+For both options you need your wallet address, which you can lookup in the ThreeFold app by navigating to your wallet from the navigation menu, en then clicking the **Receive** button:
 
 ![Receive](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-receive-300.jpg "Receive")
 
-
-<a id='transactions'><a>
-
-## Transactions
-When you will start using your service, you will see your wallet balance and transactions list on the main screen:
-
-![Transactions List](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-list-300.jpg "Transactions List")
-
-When you click on the specific transaction, you will see details:
-
-![Transaction](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-300.jpg "Transaction")
+Here you see the wallet address in two formats:
+- As a QR code, which can be scanned from the wallet app of the sender, as documented here below in [Send tokens](#send) 
+- Or in full text format, which can be copied by clicking it, and then past the address into  a chat or email message. 
 
 
 <a id='send'><a>
 
 ## Send tokens
-Click on the **Send** tokens button. Enter recipient address and amount to send. Current transaction fees is 0.1 TFT.
+
+Also sending ThreeFold tokens is simple. First navigate to your wallet from ThreeFold app navigation menu, and then click the  the **Send** button:
 
 ![Send](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-send-300.jpg "Send")
+
+In order to specify address of the receiving party you have two options:
+- Either scan the QR code from the sender
+- Or copy enter (copy/paster) the full text address 
+
+Next to the recipient address, enter the amount to send, and you're ready to go. 
+
+> Current transaction fee is 0.1 TFT.
+
+
+<a id='transactions'><a>
+
+## Transactions
+
+Next to receiving en sending tokens, your wallet also keeps track of all your transactions, and your balance of course.
+
+To see your balance click **Transactions** in your wallet:
+
+![Transactions List](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-list-300.jpg "Transactions List")
+
+Under the number of ThreeFold tokens you own (your balance) you see all (send and receive) transactions. Clicking any of the transactions bring wil show you all details of the transaction: 
+
+![Transaction](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-300.jpg "Transaction")
+
 
 <a id='btc-alpha'><a>
 
 ## Buying ThreeFold tokens using BTC-Alpha
 
-Next to receiving ThreeFold tokens from other ThreeFold app user, as documented above, you can of course also buy tokens on public crypto currency exchanges, such as BTC-Alpha, which is actual the first one that offers ThreeFold tokens.
+Next to receiving ThreeFold tokens from other ThreeFold app users, as documented [above](#receive), you can of course also buy ThreeFold tokens on public crypto currency exchanges, such as BTC-Alpha, which is actual the first one that offers ThreeFold tokens.
 
 A list of all public crypto currency exchanges that offer ThreeFold is available from within the ThreeFold app. You can access this list by clicking **Exchanges** from the ThreeFold app navigation menu:
 
 
 ![Exchanges](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-300.jpg "Exchanges")
 
-Selecting one of the listed exchanges will show you all details, for instance here for BTC-Alpha: you get a full user manual documenting all steps to buy ThreeFold tokens:
+Selecting one of the listed exchanges will show you all details, for instance here for BTC-Alpha you get a full user manual documenting all steps to buy ThreeFold tokens:
 
 ![Exchanges Manual](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-manual-300.jpg "Exchanges Manual")
