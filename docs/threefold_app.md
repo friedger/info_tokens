@@ -17,7 +17,7 @@ Follow the steps below in order to setup your ThreeFold wallet, and receive and 
 
 ## Registration and login
 
-In order to use the ThreeFold app you need an [ItsYou.online](itsyou.online) account. No worries in case you don't have an [ItsYou.online](itsyou.online) account yet, just click the green **I AM NEW HER** button that you see when you start the ThreeFold app for the very fist time, and  the ThreeFold app will guide you through the process of creating your [ItsYou.online](itsyou.online) account.
+In order to use the ThreeFold app you need an [ItsYou.online](itsyou.online) account. No worries in case you don't have an [ItsYou.online](itsyou.online) account yet, just click the green **I AM NEW HERE** button that you see when you start the ThreeFold app for the very fist time, and  the ThreeFold app will guide you through the process of creating your [ItsYou.online](itsyou.online) account.
 
 In case you already have an [ItsYou.online](itsyou.online) account, click the blue **I AM MEMBER** button, which will invite you to login with your [ItsYou.online](itsyou.online) profile.
 
@@ -74,7 +74,7 @@ At the bottom of the wallet click **Receive* button.
 
 You will see the address to which ThreeFold tokens can be send as QR code and as a text string. You can scan this QR code from another smartphone or just copy the address as shown and send it to your counterpart. By clicking the address text the address is copied, allowing you to paste it in a chat or email message. 
 
-![Receive](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-receive.jpg "Receive")
+![Receive](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-receive-300.jpg "Receive")
 
 
 <a id='transactions'><a>
@@ -82,11 +82,11 @@ You will see the address to which ThreeFold tokens can be send as QR code and as
 ## Transactions
 When you will start using your service, you will see your wallet balance and transactions list on the main screen:
 
-![Transactions List](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-list.jpg "Transactions List")
+![Transactions List](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-list-300.jpg "Transactions List")
 
 When you click on the specific transaction, you will see details:
 
-![Transaction](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction.jpg "Transaction")
+![Transaction](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-300.jpg "Transaction")
 
 
 <a id='send'><a>
@@ -94,11 +94,11 @@ When you click on the specific transaction, you will see details:
 ## Send tokens
 Click on the **Send** tokens button. Enter recipient address and amount to send. Current transaction fees is 0.1 TFT.
 
-![Send](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-send.jpg "Send")
+![Send](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-send-300.jpg "Send")
 
 ## Help and manuals
 You can find list of exchanges and manual how to use them in the Exchanges section:
 
-![Exchanges](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges.jpg "Exchanges")
-![Exchanges Manual](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-manual.jpg "Exchanges Manual")
+![Exchanges](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-300.jpg "Exchanges")
+![Exchanges Manual](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-manual-300.jpg "Exchanges Manual")
 
