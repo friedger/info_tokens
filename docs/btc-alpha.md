@@ -73,7 +73,7 @@ You can use this address from any other public crypto currency exchange such as 
 4. Wait until the transaction is fully processed, this typically takes up to 40 minutes.
 
 
-<a id='buy-TFT'></a>
+<a id='buy-tft'></a>
 
 ## Buy TFT
 
@@ -83,6 +83,10 @@ You can use this address from any other public crypto currency exchange such as 
 
 ## Deposit TFT
 
+Alternatively to buying TFT as documented above in [Buy TFT](#buy-tft), you can also deposit TFT from any other TFT wallet, for instance from your ThreeFold app wallet. 
+
+Here are the steps:
+
 1. From the navigation menu under your profile name, again go to the **Finance** section:
 ![Finance](img/btc-alpha-finance-section.png "Finance Screen")
 
@@ -91,8 +95,9 @@ You can use this address from any other public crypto currency exchange such as 
 
 3. Copy your TFT address and send your deposit there. You can scan QR code of the address from your mobile phone. Or you can just copy address through messenger for example. 
 
-4. Send your TFT to the btc-alpha. 
+4. Send your TFT to the btc-alpha from your ThreeFold app wallet using the following address: 
 ![TFT](img/btc-alpha-tft-deposit2.png "TFT Screen")
+
 5. Wait until the transaction is fully processed, this typically takes up to 40 minutes. 
 
 
