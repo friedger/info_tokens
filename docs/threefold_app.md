@@ -12,7 +12,7 @@ Follow the steps below in order to setup your ThreeFold wallet, and receive and 
 - [Receive tokens](#receive)
 - [Send tokens](#send)
 - [Transactions](#transactions)
-- [Buying ThreeFold tokens using BTC-Alpha](btc-alpha)
+- [Buying ThreeFold tokens using BTC-Alpha](#btc-alpha)
 
 <a id='iyo'><a>
 
