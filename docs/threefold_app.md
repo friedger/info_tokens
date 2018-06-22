@@ -1,6 +1,6 @@
 # Receiving & sending ThreeFold Tokens using the ThreeFold App
 
-ThreeFold created a ThreeFold app, available for iOS and Android phones. This ThreeFold app, includes a ThreeFold wallet. 
+ThreeFold created a ThreeFold app, available for iOS and Android phones. This ThreeFold app includes a ThreeFold wallet. 
 
 > Currently the ThreeFold app only allows you to manage one single ThreeFold wallet at the same time, and only one wallet address.
 

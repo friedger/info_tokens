@@ -1,61 +1,128 @@
 # Buying ThreeFold Tokens using BTC-Alpha
 
-## Registration
-In order to register on [BTC-Alpha](http://btc-alpha.com) exchange, you need to provide only email and password.
-No complex verification procedures required. 
-Link to [sign up](https://btc-alpha.com/accounts/register/).
-After registration, you will receive email with email verification link. Please open your mailbox and clik on the link.
+Here are the steps to follow in order to buy ThreeFold tokens using BTC-Alpha:
+- [Registration](#registration)
+- [Login](#login)
+- [Enable two-factor authentication](#2fa)
+- [Deposit BTC](#deposit-btc)
+- [Buy TFT](#buy-tft)]
+- [Deposit TFT](#deposit-tft)
+- [Exchange](#exchange-panel)
+- [Withdraw TFT](#withdraw)
 
-![Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-registration.png "Registration Screen")
+
+<a id='registration'></a>
+
+## Registration
+
+Registration to the [BTC-Alpha](http://btc-alpha.com) exchange is simple, you only need to provide your email address and a password, so no complex verification procedures required. 
+
+In order to register go to their [Sign Up](https://btc-alpha.com/accounts/register) page:
+
+[Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-registration-new.png "Registration Screen")
+
+After registration, you will receive an email with an email verification link.
+
+
+<a id='login'></a>
 
 ## Log In
-After registration, log in to your account.
-![LogIn](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-signin.png "Login Screen")
 
+Once you finished registration, log in to your account using your email address and password:
+
+![LogIn](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-login.png "Login Screen")
+
+
+<a id='2fa'></a>
+
+## Enable two-factor authentication
+
+> It is not recommended to keep your funds permanently on a public exchange or use a public exchange as a wallet, because exchanges are more likely to be hacked than your personal wallet.
+
+It is highly recommended to enable two-factor authentication (2FA) for your BTC-Alpha account.
+
+In order to do that first install **Authy** or **Google Authenticator** on your mobile phone:
+    - https://authy.com/download/
+    - https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en
+    - https://itunes.apple.com/ae/app/google-authenticator/id388497605?mt=8
+
+Then configure 2FA by go through the process on **TWO FACTOR AUTH** page:
+
+![Two Factor Auth](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-two-factor.png "Withdraw Screen")
+
+
+<a id='deposit-btc'></a>
 
 ## Deposit BTC
-1. Go to Finance section of your account.
-![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section.png "Finance Screen")
-2. Find BTC and click Deposit
+
+First we will transfer Bitcoins to your BTC wallet at BTC-Alpha, which we will then use to buy TFT.
+
+Here are the steps to transfer Bitcoins into your BTC wallet at BTC-Alpha:
+
+1. From the navigation menu under your profile name, go to the **Finance** section:
+![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section-300.png "Finance Screen")
+
+2. Find BTC and click **Deposit**:
 ![BTC](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-btc-deposit.png "BTC Screen")
-3. Copy your bitcoin address and send your deposit there.
+
+3. Copy your Bitcoin address and send your deposit there:
 ![BTC](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-btc-deposit2.png "BTC Screen")
-4. Wait until funds will arrive. In normal situation it may take up to 40 minutes. 
+
+You can use this address from any other public crypto currency exchange such as [Kraken](https://www.kraken.com) to transfer Bitcoins to your Bitcoin wallet at BTC-Alpha. If you don't own yet any Bitcoins, you should first register at one of public crypto currency exchanges such as [Kraken](https://www.kraken.com), deposit fiat money and by buy Bitcoins.
+
+4. Wait until the transaction is fully processed, this typically takes up to 40 minutes.
+
+
+<a id='buy-TFT'></a>
+
+## Buy TFT
+
+@TODO
+
+<a id='deposit-tft'></a>
 
 ## Deposit TFT
-1. Go to Finance section of your account.
+
+1. From the navigation menu under your profile name, again go to the **Finance** section:
 ![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section.png "Finance Screen")
-2. Find TFT and click Deposit
+
+2. Find TFT and click **Deposit**:
 ![TFT](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-tft-deposit.png "TFT Screen")
+
 3. Copy your TFT address and send your deposit there. You can scan QR code of the address from your mobile phone. Or you can just copy address through messenger for example. 
+
 4. Send your TFT to the btc-alpha. 
 ![TFT](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-tft-deposit2.png "TFT Screen")
-5. Wait until funds will arrive. In normal situation it may take up to 40 minutes. 
+5. Wait until the transaction is fully processed, this typically takes up to 40 minutes. 
 
-## Exchange Panel 
+
+<a id='exchange-panel'></a>
+
+## Exchange Panel
+
 On the main screen you will see several sections:
 ![BTC-Alpha](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-sections.jpg "TFT Screen")
+
 1. List of all markets. You can type TFT to easily find TFT market. Click on it to switch onto it. 
 2. Central part of the screen shows price charts and market movements. Please read more about [candlestick chart](https://www.investopedia.com/terms/c/candlestick.asp) if you want to understand better how to read the chart. 
 3. Chat / Twitter / Wallets section. You can change between the three by clicking on a top panel.
 4. List of all sell orders currently available on the market. Please note that price is set in BTC if you select BTC market. 
-5. Window where you can put your buy order. You set amount, price, and click "Buy". You can automatically prepupulate the field by clicking on a specific SELL order. Order will be executed automaticlly as soon as it will match corresponding SELL order.
-6. Window where you can put your sell order. You set amount, price, and click "Sell". You can automatically prepupulate the field by clicking on a specific BUY order. Order will be executed automaticlly as soon as it will match corresponding BUY order.
+5. Window where you can put your buy order. You set amount, price, and click "Buy". You can automatically pre-populate the field by clicking on a specific SELL order. Order will be executed automatically as soon as it will match corresponding SELL order.
+6. Window where you can put your sell order. You set amount, price, and click "Sell". You can automatically pre-populate the field by clicking on a specific BUY order. Order will be executed automatically as soon as it will match corresponding BUY order.
 7. List of all buy orders currently available on the market. Please note that price is set in BTC if you select BTC market.
 8. List of your active orders. If your order will not be matched and executed immediately, it will be visible in this section. You can cancel your standing orders at any time. 
 9. List of all recent deals on the market with their price, size and date. 
 
-## Withdrawal TFT or BTC
-1. Go to Finance section of your account.
-![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section.png "Finance Screen")
-2. Locate BTC or TFT in the list and click "Withdraw". Select respective currency (BTC or TFT) in the popup list (not BTC-Alpha Codes)
-3. On a withdrwa dialog fill up the amount field and destination address.
-![Withdraw](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-withdraw.png "Withdraw Screen")
 
-## Security
-1. It is not recommended to keep your funds permanently on exchange or use exchange as a wallet, because exchange is more likey to be hacked than your personal wallet.
-2. It is highly recommended to set up Two-Factor authentication for your account. In order to do that, 
-a. Install Authy or Google authenticator on your mobile phone: https://authy.com/download/ https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en, https://itunes.apple.com/ae/app/google-authenticator/id388497605?mt=8
-b. Set up second factor by using step-by-step guide on a TWO FACTOR AUTH page.
-![Two Factor Auth](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-two-factor.png "Withdraw Screen")
+<a id='Withdraw'></a>
+
+## Withdraw TFT
+
+1. From the navigation menu under your profile name, go to the **Finance** section:
+![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section.png "Finance Screen")
+
+2. Locate TFT in the list and click **Withdraw**, select TFT in the popup list (not BTC-Alpha Codes)
+
+3. On a withdrawal dialog fill up the amount field and destination address:
+![Withdraw](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-withdraw.png "Withdraw Screen")
 
