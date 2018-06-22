@@ -97,7 +97,7 @@ Click on the **Send** tokens button. Enter recipient address and amount to send.
 
 ![Send](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-send-300.jpg "Send")
 
-<a id='btc-app'><a>
+<a id='btc-alpha'><a>
 
 ## Buying ThreeFold tokens using BTC-Alpha
 
