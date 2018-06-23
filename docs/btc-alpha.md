@@ -73,9 +73,6 @@ You can use this address from any other public crypto currency exchange such as 
 
 4. Wait until the transaction is fully processed, this typically takes up to 40 minutes.
 
-
-<a id='buy-tft'></a>
-
 <a id='exchange-panel'></a>
 
 ## Exchange Panel
