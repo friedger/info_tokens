@@ -106,7 +106,7 @@ On the main screen you will see several sections:
 ## Withdraw TFT
 
 1. From the navigation menu under your profile name, go to the **Finance** section:
-![Finance](img/btc-alpha-finance-section.png "Finance Screen")
+![Finance](img/btc-alpha-finance-section-300.png "Finance Screen")
 
 2. Locate TFT in the list and click **Withdraw**, select TFT in the popup list (not BTC-Alpha Codes)
 
