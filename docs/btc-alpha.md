@@ -98,7 +98,7 @@ On the main screen you will see several sections:
 2. Click on BTC Markets in [panel 1](#exchange-panel)
 3. Go to BTC-TFT Market in [panel 1](#exchange-panel)
 3. Enter amount of TFT to Buy in [panel 5](#exchange-panel)
-4. Enter desired price in bitcoins or pick up the price from sell orders in [panel 4]
+4. Enter desired price in bitcoins or pick up the price from sell orders in [panel 4](#exchange-panel)
 5. Click "Buy" button.
 
 <a id='Withdraw'></a>
