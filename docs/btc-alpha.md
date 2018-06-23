@@ -6,7 +6,7 @@ Here are the steps to follow in order to buy ThreeFold tokens using BTC-Alpha:
 - [Enable two-factor authentication](#2fa)
 - [Deposit BTC](#deposit-btc)
 - [Exchange](#exchange-panel)
-- [Buy TFT](#buy-tft)]
+- [Buy TFT](#buy-tft)
 - [Withdraw TFT](#withdraw)
 - [Deposit TFT](#deposit-tft)
 
