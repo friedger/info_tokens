@@ -1,4 +1,4 @@
-# Token Trade using the ThreeFold App
+# Using the ThreeFold App
 
 ThreeFold created a ThreeFold app, available for iOS and Android phones. This ThreeFold app includes a ThreeFold wallet. 
 

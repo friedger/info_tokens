@@ -1,6 +1,6 @@
-# Token Trade using BTC-Alpha
+# Using BTC-Alpha
 
-Here are the steps to follow in order to buy ThreeFold tokens using BTC-Alpha:
+Here are the steps to follow in order to buy and sell ThreeFold tokens using BTC-Alpha:
 - [Registration](#registration)
 - [Login](#login)
 - [Enable two-factor authentication](#2fa)
