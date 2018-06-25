@@ -8,7 +8,7 @@ This is actually a two-steps process:
 
 ## Buy Bitcoin (BTC)
 
-Here are some popular online crypto currency exchanges, grouped per region, from which you can buy Bitcoins:
+Here are some popular online cryptocurrency exchanges, grouped per region, from which you can buy Bitcoins:
 
 Europe | US | Middle East and Africa |
 --------|----|-----------------------|
@@ -21,7 +21,7 @@ Europe | US | Middle East and Africa |
 
 ## Exchange BTC for ThreeFold tokens (TFT)
 
-Currently we recommend exchanging your Bitcoin using [BTC-Alpha](#btc-alpha), they have two markets [BTC-TFT](https://btc-alpha.com/exchange/TFT_BTC/)
+Currently we recommend exchanging your Bitcoin using [BTC-Alpha](https://btc-alpha.com/), they have two markets [BTC-TFT](https://btc-alpha.com/exchange/TFT_BTC/)
 
 Follow the steps documented in [Using BTC-Alpha](/how_to_buy/btc-alpha.md).
 
