@@ -72,7 +72,7 @@ We recommend making a screenshot of this screen, print it on paper and store it 
 ## Receive tokens
 
 In order to acquire ThreeFold tokens you have basically two options:
-- Buy them on a public crypto currency exchange, such as BTC-Alpha, as documented here below in [Buying ThreeFold tokens using BTC-Alpha](#btc-alpha), and then transfer them from your online TFT wallet at BTC-Alpha to your offline ThreeFold app TFT wallet
+- Buy them on a public cryptocurrency exchange, such as BTC-Alpha, as documented here below in [Buying ThreeFold tokens using BTC-Alpha](#btc-alpha), and then transfer them from your online TFT wallet at BTC-Alpha to your offline ThreeFold app TFT wallet
 - Or receive ThreeFold tokens from someone who sends them to you from their online or offline TFT wallet, as documented here below in [Send tokens](#send)
 
 For both cases you need your offline TFT wallet address, which you can lookup in the ThreeFold app by navigating to your wallet from the navigation menu, and then clicking the **Receive** button:
@@ -120,9 +120,9 @@ Under the number of ThreeFold tokens you own (your balance) you see all (send an
 
 ## Buying ThreeFold tokens using BTC-Alpha
 
-Next to receiving ThreeFold tokens from other ThreeFold app users, as documented [above](#receive), you can of course also buy ThreeFold tokens on public crypto currency exchanges, such as BTC-Alpha, which is actual the first one that offers ThreeFold tokens. See [Using BTC-Alpha](/how_to_buy/btc-alpha.md) for instructions on how to use BTC-Alpha. 
+Next to receiving ThreeFold tokens from other ThreeFold app users, as documented [above](#receive), you can of course also buy ThreeFold tokens on public cryptocurrency exchanges, such as BTC-Alpha, which is actual the first one that offers ThreeFold tokens. See [Using BTC-Alpha](/how_to_buy/btc-alpha.md) for instructions on how to use BTC-Alpha. 
 
-A list of all public crypto currency exchanges that offer ThreeFold is available from within the ThreeFold app. You can access this list by clicking **Exchanges** from the ThreeFold app navigation menu:
+A list of all public cryptocurrency exchanges that offer ThreeFold is available from within the ThreeFold app. You can access this list by clicking **Exchanges** from the ThreeFold app navigation menu:
 
 ![Exchanges](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-300.jpg "Exchanges")
 
