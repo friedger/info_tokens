@@ -5,10 +5,11 @@ Here are the steps to follow in order to buy ThreeFold tokens using BTC-Alpha:
 - [Login](#login)
 - [Enable two-factor authentication](#2fa)
 - [Deposit BTC](#deposit-btc)
-- [Buy TFT](#buy-tft)]
-- [Deposit TFT](#deposit-tft)
 - [Exchange](#exchange-panel)
+- [Buy TFT](#buy-tft)
 - [Withdraw TFT](#withdraw)
+- [Deposit TFT](#deposit-tft)
+
 
 
 <a id='registration'></a>
@@ -72,12 +73,45 @@ You can use this address from any other public crypto currency exchange such as 
 
 4. Wait until the transaction is fully processed, this typically takes up to 40 minutes.
 
+<a id='exchange-panel'></a>
+
+## Exchange Panel
+
+On the main screen you will see several sections:
+<a id='exchange-panel-image'>![BTC-Alpha](img/btc-alpha-sections.jpg "TFT Screen")</a>
+
+1. List of all markets. You can type TFT to easily find TFT market. Click on it to switch onto it. 
+2. Central part of the screen shows price charts and market movements. Please read more about [candlestick chart](https://www.investopedia.com/terms/c/candlestick.asp) if you want to understand better how to read the chart. 
+3. Chat / Twitter / Wallets section. You can change between the three by clicking on a top panel.
+4. List of all sell orders currently available on the market. Please note that price is set in BTC if you select BTC market. 
+5. Window where you can put your buy order. You set amount, price, and click "Buy". You can automatically pre-populate the field by clicking on a specific SELL order. Order will be executed automatically as soon as it will match corresponding SELL order.
+6. Window where you can put your sell order. You set amount, price, and click "Sell". You can automatically pre-populate the field by clicking on a specific BUY order. Order will be executed automatically as soon as it will match corresponding BUY order.
+7. List of all buy orders currently available on the market. Please note that price is set in BTC if you select BTC market.
+8. List of your active orders. If your order will not be matched and executed immediately, it will be visible in this section. You can cancel your standing orders at any time. 
+9. List of all recent deals on the market with their price, size and date. 
 
 <a id='buy-tft'></a>
 
 ## Buy TFT
 
-@TODO
+1. Open main [exchange panel](#exchange-panel).
+2. Click on BTC Markets in [panel 1](#exchange-panel)
+3. Go to BTC-TFT Market in [panel 1](#exchange-panel)
+3. Enter amount of TFT to Buy in [panel 5](#exchange-panel)
+4. Enter desired price in bitcoins or pick up the price from sell orders in [panel 4](#exchange-panel)
+5. Click "Buy" button.
+
+<a id='Withdraw'></a>
+
+## Withdraw TFT
+
+1. From the navigation menu under your profile name, go to the **Finance** section:
+![Finance](img/btc-alpha-finance-section-300.png "Finance Screen")
+
+2. Locate TFT in the list and click **Withdraw**, select TFT in the popup list (not BTC-Alpha Codes)
+
+3. On a withdrawal dialog fill up the amount field and destination address:
+![Withdraw](img/btc-alpha-withdraw.png "Withdraw Screen")
 
 <a id='deposit-tft'></a>
 
@@ -101,33 +135,4 @@ Here are the steps:
 5. Wait until the transaction is fully processed, this typically takes up to 40 minutes. 
 
 
-<a id='exchange-panel'></a>
-
-## Exchange Panel
-
-On the main screen you will see several sections:
-![BTC-Alpha](img/btc-alpha-sections.jpg "TFT Screen")
-
-1. List of all markets. You can type TFT to easily find TFT market. Click on it to switch onto it. 
-2. Central part of the screen shows price charts and market movements. Please read more about [candlestick chart](https://www.investopedia.com/terms/c/candlestick.asp) if you want to understand better how to read the chart. 
-3. Chat / Twitter / Wallets section. You can change between the three by clicking on a top panel.
-4. List of all sell orders currently available on the market. Please note that price is set in BTC if you select BTC market. 
-5. Window where you can put your buy order. You set amount, price, and click "Buy". You can automatically pre-populate the field by clicking on a specific SELL order. Order will be executed automatically as soon as it will match corresponding SELL order.
-6. Window where you can put your sell order. You set amount, price, and click "Sell". You can automatically pre-populate the field by clicking on a specific BUY order. Order will be executed automatically as soon as it will match corresponding BUY order.
-7. List of all buy orders currently available on the market. Please note that price is set in BTC if you select BTC market.
-8. List of your active orders. If your order will not be matched and executed immediately, it will be visible in this section. You can cancel your standing orders at any time. 
-9. List of all recent deals on the market with their price, size and date. 
-
-
-<a id='Withdraw'></a>
-
-## Withdraw TFT
-
-1. From the navigation menu under your profile name, go to the **Finance** section:
-![Finance](img/btc-alpha-finance-section.png "Finance Screen")
-
-2. Locate TFT in the list and click **Withdraw**, select TFT in the popup list (not BTC-Alpha Codes)
-
-3. On a withdrawal dialog fill up the amount field and destination address:
-![Withdraw](img/btc-alpha-withdraw.png "Withdraw Screen")
 
