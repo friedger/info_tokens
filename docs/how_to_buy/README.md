@@ -1,8 +1,8 @@
 # How to buy ThreeFold tokens?
 
 There are actually two options to buy ThreeFold tokens:
-- [Buy from an online exchange](buy_from_exchange.md)
-- [Buy directly from farmers or farmer cooperatives](buy_from_farmer.md)
+- [Buy from an online exchange](/how_to_buy/buy_from_exchange.md)
+- [Buy directly from farmers or farmer cooperatives](/how_to_buy/buy_from_farmer.md)
 
 For the actual steps click the above links or the links in the left navigation menu. 
 
