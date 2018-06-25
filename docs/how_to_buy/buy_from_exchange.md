@@ -25,7 +25,7 @@ Currently we recommend exchanging your Bitcoin using [BTC-Alpha](https://btc-alp
 
 Follow the steps documented in [Using BTC-Alpha](/how_to_buy/btc-alpha.md).
 
-> We do not recommend keeping ThreeFold tokens permanently on an online TFT wallet, as provided by BTC-Alpha, because online wallets are more likely to get hacked than offline wallets. Instead we highly recommended transferring your ThreeFold tokens to an offline TFT wallet, such as the TFT wallet provided with the ThreeFold App; see [Using the ThreeFold App](/threefold_app.md) for instructions.
+> We do not recommend keeping ThreeFold tokens permanently in an online TFT wallet, as provided by BTC-Alpha, because online wallets are more likely to get hacked than offline wallets. Instead we highly recommended transferring your ThreeFold tokens to an offline TFT wallet, such as the TFT wallet provided with the ThreeFold App; see [Using the ThreeFold App](/threefold_app.md) for instructions.
 
 Other online cryptocurrency exchanges, coming soon:
 - [http://bitmeex.pro](http://bitmeex.pro)
