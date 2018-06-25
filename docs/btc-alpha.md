@@ -105,13 +105,20 @@ On the main screen you will see several sections:
 
 ## Withdraw TFT
 
-1. From the navigation menu under your profile name, go to the **Finance** section:
+> It is not recommended to keep your ThreeFold tokens permanently in an online wallet, as provided by online crypto currency exchanges such as BTC-Alpha, because online exchanges are more likely to get hacked than offline wallets. Instead we highly recommended to keep your ThreeFold tokens in an offline ThreeFold wallet, such as the one provided with the ThreeFold App.
+
+In order to withdraw your ThreeFold tokens from your TFT wallet on BTC-Alpha go through the following steps:
+
+1. Make sure you have the ThreeFold App installed as documented in [Token Trade using the ThreeFold App](threefold_app.md) and have the address of your ThreeFold App wallet copied, as documented in the [Receive tokens](threefold_app.md#receive) section
+
+2. From the navigation menu under your profile name, go to the **Finance** section:
 ![Finance](img/btc-alpha-finance-section-300.png "Finance Screen")
 
-2. Locate TFT in the list and click **Withdraw**, select TFT in the popup list (not BTC-Alpha Codes)
+3. Locate TFT in the list and click **Withdraw**, and select TFT in the popup list (not BTC-Alpha Codes)
 
-3. On a withdrawal dialog fill up the amount field and destination address:
+4. On a withdrawal dialog specify the amount of TFT to withdraw and destination address:
 ![Withdraw](img/btc-alpha-withdraw.png "Withdraw Screen")
+
 
 <a id='deposit-tft'></a>
 
