@@ -7,7 +7,6 @@
 * [How to buy ThreeFold Tokens](how_to_get_tokens.md)
 * [Token Trade using the ThreeFold App](threefold_app.md)
 * [Token Trade using BTC-Alpha](btc-alpha.md)
-* [Farming Tokens](token_generation_rules.md)
 * [Value of the Token](token_issuance_economy.md)
 * [Token Properties](token_properties.md)
 * [Technology](technology/README.md)
