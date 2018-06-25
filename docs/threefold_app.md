@@ -81,7 +81,7 @@ For both cases you need your offline TFT wallet address, which you can lookup in
 
 Here you see the TFT wallet address in two formats:
 - As a QR code, which can be scanned from the wallet app of the sender, as documented here below in [Send tokens](#send) 
-- Or in full text format, which can be copied by clicking it, and then past the address into a chat or email message. 
+- Or in full text format, which can be copied by clicking it, and then paste the address into a chat or email message. 
 
 
 <a id='send'><a>
