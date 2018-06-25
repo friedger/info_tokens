@@ -1,10 +1,10 @@
-# Receiving & sending ThreeFold Tokens using the ThreeFold App
+# Token Trade using the ThreeFold App
 
 ThreeFold created a ThreeFold app, available for iOS and Android phones. This ThreeFold app includes a ThreeFold wallet. 
 
 > Currently the ThreeFold app only allows you to manage one single ThreeFold wallet at the same time, and only one wallet address.
 
-Follow the steps below in order to setup your ThreeFold wallet, and receive and send your first ThreeFold tokens.
+Follow the steps below in order to setup your ThreeFold wallet, and receive and send your first ThreeFold tokens:
 
 - [Registration and login](#iyo)
 - [Set your PIN code](#pin)
