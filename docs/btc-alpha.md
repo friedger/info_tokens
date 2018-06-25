@@ -101,7 +101,7 @@ On the main screen you will see several sections:
 4. Enter desired price in bitcoins or pick up the price from sell orders in [panel 4](#exchange-panel)
 5. Click "Buy" button.
 
-<a id='Withdraw'></a>
+<a id='withdraw'></a>
 
 ## Withdraw TFT
 
