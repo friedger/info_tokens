@@ -10,11 +10,12 @@ This is actually a two-steps process:
 
 Here are some popular online crypto currency exchanges, grouped per region, from which you can buy Bitcoins:
 
-| Europe | US | Middle East and Africa |
-| - [Kraken](https://www.kraken.com/) | - [Coinbase](https://www.coinbase.com/buy-bitcoin) | - [bitoasis.net](https://bitoasis.net/en/front/faq) | 
-|--------|----|------------------------|
-| - [Coinbase](https://www.coinbase.com/buy-bitcoin)| | | 
-| - [Cex.io](https://cex.io/buy-bitcoins) | | | 
+Europe | US | Middle East and Africa |
+--------|----|-----------------------|
+- [Kraken](https://www.kraken.com/) | - [Coinbase](https://www.coinbase.com/buy-bitcoin) | - [bitoasis.net](https://bitoasis.net/en/front/faq)
+
+- [Coinbase](https://www.coinbase.com/buy-bitcoin)| |
+- [Cex.io](https://cex.io/buy-bitcoins) | |
 
 
 <a id='step2'></a>
