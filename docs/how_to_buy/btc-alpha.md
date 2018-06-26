@@ -90,7 +90,8 @@ You can use this address from any other online cryptocurrency exchange such as [
 ## Exchange Panel
 
 On the main screen you will see several sections:
-<a id='exchange-panel-image'>![BTC-Alpha](img/btc-alpha-sections.jpg "TFT Screen")</a>
+
+![BTC-Alpha](../img/btc-alpha-sections.jpg "TFT Screen")
 
 1. **List of all markets** You can type TFT to easily find the TFT market.
 
@@ -116,9 +117,13 @@ On the main screen you will see several sections:
 ## Buy TFT
 
 1. Open the [Exchange Panel](#exchange-panel)
+
 2. Click on BTC markets in [Panel 1](#exchange-panel) and go to BTC-TFT market
+
 3. Enter amount of TFT to buy in [Panel 5](#exchange-panel)
+
 4. Enter the desired price in Bitcoins or pick up the price from sell orders in [Panel 4](#exchange-panel)
+
 5. Click the **Buy** button
 
 
