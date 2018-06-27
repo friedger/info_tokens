@@ -1,6 +1,6 @@
 # ThreeFold Tokens
 
-![](/img/tft.png]
+![](/img/tft.png)
  
 ## New to ThreeFold?
 
