@@ -1,32 +1,47 @@
 # ThreeFold Tokens
 
-[![](https://images.unsplash.com/photo-1499334758287-dc8133b315e9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=29a7b95a9ad9b0825b929ec242afc300&auto=format&fit=crop&w=3450&q=80)](https://www.youtube.com/watch?v=4exjbFvnGkk)
+![](/img/tft.png]
+ 
+## New to ThreeFold?
 
-## A digital currency backed by neutral, sustainable and green internet capacity
+Watch the video on the [ThreeFold YouTube Channel](https://www.youtube.com/channel/UCKMNPuhs-8tHYfGd92krC8w): [ThreeFold Token - How it works](https://www.youtube.com/watch?v=4exjbFvnGkk)
 
+
+## Where to go next?
+
+This wiki, the **ThreeFold Tokens Wiki** brings together all information about the ThreeFold Token, abbreviated TFT.
+
+You are invited to contribute to this wiki by directly editing the sources files or by creating a issue with feedback or a change request on the [info_tokens GitHub repository](https://threefoldfoundation.github.io/info_tokens/#/).
+
+Next to this wiki, we have three additional Wiki that you might want to checkout:
+
+- [ThreeFold Foundation Wiki](http://wiki.threefold.me)
+- [ThreeFold Grid Wiki](http://grid_wiki.threefold.me)
+- [ThreeFold Technology Wiki](http://tech_wiki.threefold.me )
+
+
+## More online resources
 
 For additional information, please refer to our official channels: 
 
-Website: [threefoldtoken.com](https://threefoldtoken.com/) 
+- Website: [threefoldtoken.com](https://threefoldtoken.com/) 
 
-Token website: [tftokens.com](http://www.tftokens.com/)
+- Token website: [tftokens.com](http://www.tftokens.com/)
 
-Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info) 
+- Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info) 
 
-Foundation Wiki: [https://threefoldfoundation.github.io/info_foundation/](https://threefoldfoundation.github.io/info_foundation/)
+- Whitepaper (PDF): [threefoldtoken.com/pdf/tf_whitepaper.pdf](https://threefoldtoken.com/pdf/tf_whitepaper.pdf)
 
-Whitepaper (pdf): [threefoldtoken.com/pdf/tf_whitepaper.pdf](https://threefoldtoken.com/pdf/tf_whitepaper.pdf)
+- YouTube channel: [youtube.com/c/ThreeFoldFoundation](https://www.youtube.com/c/ThreeFoldFoundation)
 
-YouTube channel: [youtube.com/c/ThreeFoldFoundation](https://www.youtube.com/c/ThreeFoldFoundation)
+- ThreeFold Telegram Chat, English: [t.me/threefoldtoken_chat](https://t.me/threefoldtoken_chat)
 
-ThreeFold Telegram Chat, English: [t.me/threefoldtoken_chat](https://t.me/threefoldtoken_chat)
+- ThreeFold Telegram Chat, Russian: [t.me/threefoldtoken_chat_ru](https://t.me/threefoldtoken_chat_ru)
 
-ThreeFold Telegram Chat, Russian: [t.me/threefoldtoken_chat_ru](https://t.me/threefoldtoken_chat_ru)
+- ThreeFold Telegram Farmers Chat: [t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw](https://t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw)
 
-ThreeFold Telegram Farmers Chat: [t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw](https://t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw)
+- Facebook: [facebook.com/ThreeFoldCommunity](https://www.facebook.com/ThreeFoldCommunity)
 
-Facebook: [facebook.com/ThreeFoldCommunity](https://www.facebook.com/ThreeFoldCommunity)
+- LinkedIn: [linkedin.com/company/threefold-foundation/](https://www.linkedin.com/company/threefold-foundation/)
 
-LinkedIn: [linkedin.com/company/threefold-foundation/](https://www.linkedin.com/company/threefold-foundation/)
-
-You can read Kristof’s latest articles at [medium.com/@despiegk](https://medium.com/@despiegk)
+- You can read Kristof’s latest articles at [medium.com/@despiegk](https://medium.com/@despiegk)
