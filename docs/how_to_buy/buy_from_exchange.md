@@ -1,4 +1,4 @@
-## Buy ThreeFold tokens from an online exchange
+# Buy ThreeFold tokens from an online exchange
 
 This is actually a two-steps process:
 - First [buy Bitcoin (BTC)](#step1)
