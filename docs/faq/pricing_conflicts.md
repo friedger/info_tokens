@@ -1,1 +1,1 @@
-[Pricing Conflicts](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/faq/pricing_conflicts.md ':include :type=markdown')
+[Pricing Conflicts](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/faq/pricing_conflicts.md ':include :type=markdown')
