@@ -1,0 +1,1 @@
+[Cryptocurrency Exchanges](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/faq/exchanges.md ':include :type=markdown')

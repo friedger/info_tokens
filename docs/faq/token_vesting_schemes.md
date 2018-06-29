@@ -1,0 +1,1 @@
+[Token Vesting Schemes](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/faq/token_vesting_schemes.md ':include :type=markdown')

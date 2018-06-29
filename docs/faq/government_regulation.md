@@ -1,0 +1,1 @@
+[Government Regulation](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/faq/government_regulation.md ':include :type=markdown')
