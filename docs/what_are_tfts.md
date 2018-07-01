@@ -4,9 +4,8 @@
 
 > ThreeFold Token is backed by the fastest growing commodity in the world, the internet.
 
-Watch the YouTube video on ThreeFold tokens:
-
-<iframe src="https://www.youtube.com/watch?v=RJpI36DBXLE&feature=youtu.be" frameborder="0" width="750" height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+Watch the YouTube video on ThreeFold Tokens:
+https://www.youtube.com/watch?v=RJpI36DBXLE&feature=youtu.be
 
 
 ## Farming
