@@ -1,6 +1,6 @@
 # Why buy ThreeFold tokens?
 
-![](../img/join-700.png)
+![](/img/join-700.png)
 
 ## Value Backed 
 
