@@ -12,42 +12,42 @@ https://www.youtube.com/watch?v=RJpI36DBXLE&feature=youtu.be
 
 ThreeFold Tokens are produced through a process called farming.
 
-![](../img/farming-800.png)
+![](/img/farming-800.png)
 
 Farming happens when internet capacity is added to the ThreeFold Grid.
 
 Independent farmers earn ThreeFold Tokens by providing neutral and decentralized internet capacity, thus expending the usable Grid. Therefor no central entity controls the internet.
 
-![](../img/no_central_entity-800.png)
+![](/img/no_central_entity-800.png)
 
 
 ## Decentralized, Neutral & Secure
 
 The ThreeFold Grid and ThreeFold Tokens are decentralized, neutral and secure.
 
-![](../img/decentralized_neutral_secure-800.png)
+![](/img/decentralized_neutral_secure-800.png)
 
 
 ## ThreeFold Capacity
 
 ThreeFold Capacity can be used for anything, for instance for storage or computing power, which can be used for any workload.
 
-![](../img/used_for-800.png)
+![](/img/used_for-800.png)
 
 
 ## Only generated when capacity is added
 
 ThreeFold Tokens are generated only when new IT capacity is added to the ThreeFold Grid.
 
-![](../img/only_when_new_capacity_is_added.png-800.png)
+![](/img/only_when_new_capacity_is_added.png-800.png)
 
 No wasteful mining takes place and all farming is useable as internet capacity.
 
-![](../img/no_waste-800.png)
+![](/img/no_waste-800.png)
 
 ## No ICO
 
-![](../img/no_ico-800.png)
+![](/img/no_ico-800.png)
 
 ThreeFold tokens were conceived as the designated currency for buying and selling capacity on the ThreeFold Grid.
 
@@ -55,36 +55,36 @@ ThreeFold tokens were conceived as the designated currency for buying and sellin
 
 Rivine, ThreeFold's blockchain...
 
-![](../img/rivine-800.png)
+![](/img/rivine-800.png)
 
 A perfect platform for any financial transaction, especially suited for micro transactions, and it is endlessly scalable thanks for the farmers joining the Grid.
 
-![](../img/perfect_platform-800.png)
+![](/img/perfect_platform-800.png)
 
-![](../img/tft_can_be_used_for-800.png)
+![](/img/tft_can_be_used_for-800.png)
 
 
 ## Transactions Fee
 
 Very low, only one cent.
 
-![](../img/one_cent-800.png)
+![](/img/one_cent-800.png)
 
 
 ## Exchangeable
 
-![](../img/exchangeable-800.png)
+![](/img/exchangeable-800.png)
 
 
 ## Green
 
-![](../img/green-800.png)
+![](/img/green-800.png)
 
 ThreeFold tokens consume a fraction of the power of other platforms.
 
 
 ## What sets ThreeFold token apart...
 
-![](../img/set_apart-800.png)
+![](/img/set_apart-800.png)
 
 > ThreeFold Token is a digital currency or **utility token** backed by the ThreeFold neutral and decentralized grid of sustainable compute and storage capacity. ThreeFold tokens are farmed by adding capacity to this grid. The ThreeFold grid can ultimately issue a maximum of 100 billion tokens.
