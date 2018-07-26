@@ -26,7 +26,7 @@ For additional information, please refer to our official channels:
 
 - Website: [threefoldtoken.com](https://threefoldtoken.com/) 
 
-- Token website: [tftokens.com](http://www.tftokens.com/)
+- Token website: [tftokens.com](https://threefold.me/tokens/)
 
 - Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info) 
 
