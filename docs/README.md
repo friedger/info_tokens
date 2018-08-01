@@ -30,7 +30,7 @@ For additional information, please refer to our official channels:
 
 - Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info) 
 
-- Whitepaper (PDF): [threefoldtoken.com/pdf/tf_whitepaper.pdf](https://threefoldtoken.com/pdf/tf_whitepaper.pdf)
+- Whitepaper (PDF): [docs.google.com/document/d/16C3EKKBaK4_DyWFUcvdLnvDyN57h77e0Q1mWMpZL5vc/edit](https://docs.google.com/document/d/16C3EKKBaK4_DyWFUcvdLnvDyN57h77e0Q1mWMpZL5vc/edit)
 
 - YouTube channel: [youtube.com/c/ThreeFoldFoundation](https://www.youtube.com/c/ThreeFoldFoundation)
 
