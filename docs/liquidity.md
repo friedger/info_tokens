@@ -1,5 +1,5 @@
 
-ThreeFold Token: liquidity
+## ThreeFold Token: liquidity
 
 ThreeFold Token (TFT), is a young vibrant token, with the potential to become a leading cryptocurrency with market capitalization of US$1+ billion and daily trading volume of over US$10 million. It is the token of a new neutral green internet, backed by internet capacity,  
 
