@@ -35,7 +35,7 @@ ThreeFold Capacity can be used for anything, for instance for storage or computi
 ![](/img/used_for-800.png)
 
 
-## Only generated when capacity is added
+## Tokens are only generated when capacity is added
 
 ThreeFold Tokens are generated only when new IT capacity is added to the ThreeFold Grid.
 
