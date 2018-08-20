@@ -30,7 +30,7 @@ In order to register go to their [Sign Up](https://my.bitmeex.pro/registration) 
  
 After registration, you will receive an email with an email verification code. Copy and paste it in to the cell:
 
-
+![Confirmation](https://github.com/DeKyper/info_tokens/blob/master/docs/img/2%20confirmation.png)
 
 <a id='login'></a>
  
@@ -48,11 +48,11 @@ To complete verification and use this resource you need to follow next simple st
 
 - after [Login](#login) go to [your-profile](https://my.bitmeex.pro/profile) page.
 
-![Profile]()
+![Profile](https://github.com/DeKyper/info_tokens/blob/master/docs/img/3%20profile.png)
 
 - press [verification](https://my.bitmeex.pro/documents) button
 
-![verification]()
+![verification](https://github.com/DeKyper/info_tokens/blob/master/docs/img/4%20profile.png)
 
 - confirm your phone number [( 1; 1.1 )](#verificationscreenshot).
 - choose type of your ID document [( 2 )](#verificationscreenshot).
@@ -65,7 +65,9 @@ To complete verification and use this resource you need to follow next simple st
 
 ## Verification Screenshot
 
-![verificationscreenshot]()
+![verificationscreenshot](https://github.com/DeKyper/info_tokens/blob/master/docs/img/5%20Verification.png)
+
+![verificationscreenshot](https://github.com/DeKyper/info_tokens/blob/master/docs/img/6%20Number%20Verification.png)
 
 <a id='deposit-btc'></a>
 
@@ -74,15 +76,15 @@ To complete verification and use this resource you need to follow next simple st
 To deposit BTC to BITMEEX.pro you need to follow next steps:
 - On the main page [e-Wallet](https://my.bitmeex.pro/account) press "deposit" button in BTC cell.
 
-![DepostBTC]()
+![DepostBTC](https://github.com/DeKyper/info_tokens/blob/master/docs/img/7%20Bitcoin%20deposit.png)
 
 - press "proceed" button
 
-![Proceed BTC]()
+![Proceed BTC](https://github.com/DeKyper/info_tokens/blob/master/docs/img/8%20bitcoin%20confirmating.png)
 
 - make standart transaction to the BTC wallet from your.
 
-![transactionbtc]()
+![transactionbtc](https://github.com/DeKyper/info_tokens/blob/master/docs/img/9%20bitcoin%20sending.png)
 
 <a id='exchangebtc'></a>
 
