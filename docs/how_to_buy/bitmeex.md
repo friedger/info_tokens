@@ -17,7 +17,6 @@ So you need to have acquired Bitcoins or USD/EUR/AED on your bank account, go th
 - [Exchange using BTC](#exchangebtc)
 - [Deposit USD/EUR/AED](#buy-tft)
 - [Exchange using USD/EUR/AED](#exchangeusd)
-- [Withdraw TFT](#deposit-tft)
 
 <a id='registration'></a>
 
@@ -38,7 +37,7 @@ After registration, you will receive an email with an email verification code. C
  
 Once you finished registration, log in to your account using your email address and password:
 
-![LogIn]()
+![LogIn](https://github.com/DeKyper/info_tokens/blob/master/docs/img/log-in.png)
 
 <a id='verification'></a>
 
@@ -74,6 +73,7 @@ To complete verification and use this resource you need to follow next simple st
 ## Depost BTC
 
 To deposit BTC to BITMEEX.pro you need to follow next steps:
+
 - On the main page [e-Wallet](https://my.bitmeex.pro/account) press "deposit" button in BTC cell.
 
 ![DepostBTC](https://github.com/DeKyper/info_tokens/blob/master/docs/img/7%20Bitcoin%20deposit.png)
@@ -89,3 +89,45 @@ To deposit BTC to BITMEEX.pro you need to follow next steps:
 <a id='exchangebtc'></a>
 
 ## Exchange using BTC
+
+Here are the steps to exchange BTC to TFT:
+
+- Go to the main page [e-Wallet](https://my.bitmeex.pro/account) and press "Exchange" button:
+
+![Exchange BTC](https://github.com/DeKyper/info_tokens/blob/master/docs/img/10%20bitcoin%20exchange.png)
+
+- Choose exchange direction to TFT [(1)]() and amount of BTC that you want to exchange [(2)]():
+
+![Exchange BTC](https://github.com/DeKyper/info_tokens/blob/master/docs/img/11%20bitcoin%20final.png)
+
+<a id='buy-tft'></a>
+
+## Deposit USD/EUR/AED
+
+Here are the steps to deposit USD/EUR/AED to your BITMEEX.pro account:
+
+- On the main page [e-Wallet](https://my.bitmeex.pro/account) press "deposit" button in USD/EUR/AED cell.
+
+![Deposit USD](https://github.com/DeKyper/info_tokens/blob/master/docs/img/12%20USD%20deposit.png)
+
+- Confirm type of transaction:
+
+![Confirm USD](https://github.com/DeKyper/info_tokens/blob/master/docs/img/13%20USD%20proceed.png)
+
+- make a standart SWIFT-transaction in your bank using next requisites:
+
+![transaction USD](https://github.com/DeKyper/info_tokens/blob/master/docs/img/14%20USD%20bank%20data.png)
+
+## The steps are the same for USD/EUR/AED.
+
+<a id='exchangeusd'></a>
+
+## Exchange USD/EUR/AED
+
+- Go to the main page [e-Wallet](https://my.bitmeex.pro/account) and press "Exchange" button in USD/EUR/AED cell:
+
+![Exchange USD](https://github.com/DeKyper/info_tokens/blob/master/docs/img/15%20USD%20exchange.png)
+
+- Choose exchange direction to TFT [(1)]() and amount of USD/EUR/AED that you want to exchange [(2)]():
+
+![Exchange USD](https://github.com/DeKyper/info_tokens/blob/master/docs/img/16%20USD%20exchange.png)
