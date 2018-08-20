@@ -26,7 +26,7 @@ So you need to have acquired Bitcoins or USD/EUR/AED on your bank account, go th
  Registration to the [BITMEEX.pro](http://bitmeex.pro) exchange is more difficult than [BTC-Alpha](https://github.com/threefoldfoundation/info_tokens/blob/master/docs/how_to_buy/btc-alpha.md), because you need to provide your email address, password and verification procedures required.
  In order to register go to their [Sign Up](https://my.bitmeex.pro/registration) page:
  
- ![Registration]()
+ ![Registration](https://github.com/DeKyper/info_tokens/blob/master/docs/img/1%20registration.png)
  
  After registration, you will receive an email with an email verification link.
  
