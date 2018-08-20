@@ -7,7 +7,8 @@
 - TFT-USD
 - TFT-EUR
 - TFT-AED
- So you need to have acquired Bitcoins or USD/EUR/AED on your bank account, go through following steps to buy and sell ThreeFold tokens using BITMEEX.pro:
+
+So you need to have acquired Bitcoins or USD/EUR/AED on your bank account, go through following steps to buy and sell ThreeFold tokens using BITMEEX.pro:
 - [Registration](#registration)
 - [Login](#login)
 - [Verification](#verification)
