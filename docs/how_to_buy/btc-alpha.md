@@ -158,7 +158,7 @@ Here are the steps:
 
 1. From the navigation menu under your profile name, again go to the **Finance** section:
 
-![Finance](../img/btc-alpha-finance-section.png "Finance Screen")
+![Finance](../img/btc-alpha-finance-section-300.png "Finance Screen")
 
 2. Find TFT and click **Deposit**:
 
