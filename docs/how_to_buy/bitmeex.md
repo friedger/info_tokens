@@ -77,7 +77,7 @@ To deposit BTC to BITMEEX.pro you need to follow next steps:
 
 - On the main page [e-Wallet](https://my.bitmeex.pro/account) press "deposit" button in BTC cell.
 
-![DepostBTC](https://github.com/threefoldfoundation/info_tokens/blob/master/docs/img/7%20Bitcoin%20deposit.png)
+![DepostBTC](../img/7%20Bitcoin%20deposit.png)
 
 - press "proceed" button
 
