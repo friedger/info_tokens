@@ -44,7 +44,7 @@ Once you finished registration, log in to your account using your email address 
 
 ## Verification
 
-To complete verification and use this resource you need to follow next simple steps:
+To complete verification and use exchange you need to follow next steps:
 
 - after [Login](#login) go to [your-profile](https://my.bitmeex.pro/profile) page.
 
