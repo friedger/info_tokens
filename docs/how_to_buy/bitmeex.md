@@ -48,11 +48,11 @@ To complete verification and use exchange you need to follow next steps:
 
 - after [Login](#login) go to [your-profile](https://my.bitmeex.pro/profile) page.
 
-![Profile](../img/3%20profile.png)
+![Profile](../img/3-2%20profile.png)
 
 - press [verification](https://my.bitmeex.pro/documents) button
 
-![verification](../img/4%20profile.png)
+![verification](../img/4-2%20profile.png)
 
 - confirm your phone number [( 1; 1.1 )](#verificationscreenshot).
 - choose type of your ID document [( 2 )](#verificationscreenshot).
@@ -65,9 +65,9 @@ To complete verification and use exchange you need to follow next steps:
 
 ## Verification Screenshot
 
-![verificationscreenshot](../img/5%20Verification.png)
+![verificationscreenshot](../img/5-2%20Verification.png)
 
-![verificationscreenshot](../img/6%20Number%20Verification.png)
+![verificationscreenshot](../img/6-2%20Number%20Verification.png)
 
 <a id='deposit-btc'></a>
 
@@ -77,15 +77,15 @@ To deposit BTC to BITMEEX.pro you need to follow next steps:
 
 - On the main page [e-Wallet](https://my.bitmeex.pro/account) press "deposit" button in BTC cell.
 
-![DepostBTC](../img/7%20Bitcoin%20deposit.png)
+![DepostBTC](../img/7-2%20Bitcoin%20deposit.png)
 
 - press "proceed" button
 
-![Proceed BTC](../img/8%20bitcoin%20confirmating.png)
+![Proceed BTC](../img/8-2%20bitcoin%20confirmating.png)
 
 - make standart transaction to the BTC wallet from your.
 
-![transactionbtc](../img/9%20bitcoin%20sending.png)
+![transactionbtc](../img/9-2%20bitcoin%20sending.png)
 
 <a id='exchangebtc'></a>
 
@@ -109,15 +109,15 @@ Here are the steps to deposit USD/EUR/AED to your BITMEEX.pro account:
 
 - On the main page [e-Wallet](https://my.bitmeex.pro/account) press "deposit" button in USD/EUR/AED cell.
 
-![Deposit USD](../img/12%20USD%20deposit.png)
+![Deposit USD](../img/12-2%20USD%20deposit.png)
 
 - Confirm type of transaction:
 
-![Confirm USD](../img/13%20USD%20proceed.png)
+![Confirm USD](../img/13-2%20USD%20proceed.png)
 
 - make a standart SWIFT-transaction in your bank using next requisites:
 
-![transaction USD](../img/14%20USD%20bank%20data.png)
+![transaction USD](../img/14-2%20USD%20bank%20data.png)
 
 ## The steps are the same for USD/EUR/AED.
 
@@ -131,5 +131,4 @@ Here are the steps to deposit USD/EUR/AED to your BITMEEX.pro account:
 
 - Choose exchange direction to TFT [(1)]() and amount of USD/EUR/AED that you want to exchange [(2)]():
 
-![Exchange USD](https://github.com/threefoldfoundation
-/info_tokens/blob/master/docs/img/16%20USD%20exchange.png)
+![Exchange USD](https://github.com/threefoldfoundation/info_tokens/blob/development/docs/img/16%20USD%20exchange.png)
