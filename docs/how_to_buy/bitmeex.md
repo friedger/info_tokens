@@ -26,11 +26,11 @@ The following steps required in order to buy and sell ThreeFold tokens using BIT
 Registration on the [BITMEEX.pro](http://bitmeex.pro) exchange is more difficult than [BTC-Alpha](../how_to_buy/btc-alpha.md), because you need to provide your email address, password and verification procedures required.
 In order to register go to their [Sign Up](https://my.bitmeex.pro/registration) page:
 
-![Registration](../img/1%20registration.png)
+![Registration](../img/bitmeex-1-registration.png)
  
 After registration, you will receive an email with an email verification code. Copy and paste the code to the confirmation page and click **Confirm**:
 
-![Confirmation](../img/2%20confirmation.png)
+![Confirmation](../img/bitmeex-2-confirmation.png)
 
 <a id='login'></a>
  
@@ -38,7 +38,7 @@ After registration, you will receive an email with an email verification code. C
  
 Once you finished registration, log in to your account using your email address and password:
 
-![LogIn](../img/log-in.png)
+![LogIn](../img/bitmeex-3-login.png)
 
 <a id='verification'></a>
 
@@ -46,28 +46,28 @@ Once you finished registration, log in to your account using your email address 
 
 To complete verification and use the exchange you need to follow next steps:
 
-- Go to [your-profile](https://my.bitmeex.pro/profile) page
+- Go to your [Profile](https://my.bitmeex.pro/profile) page:
 
-![Profile](../img/3-2%20profile.png)
+![Profile](../img/bitmeex-4-profile.png)
 
-- Switch to the [verification](https://my.bitmeex.pro/documents) tab
+- Switch to the [Verification](https://my.bitmeex.pro/documents) tab:
 
-![verification](../img/4-2%20profile.png)
+![verification](../img/bitmeex-5-verification-tab.png)
 
-- Confirm your phone number [( 1; 1.1 )](#verificationscreenshot)
-- Choose type of your ID document [( 2 )](#verificationscreenshot)
-- Upload chosen type of your document [( 3 )](#verificationscreenshot)
-- Choose type of document "Proof of residency" [( 4 )](#verificationscreenshot)
-- Upload chosen type of document "Proof of residency" [( 5 )](#verificationscreenshot)
-- Upload your selfie with your ID and piece of paper with date of verification request [( 6 )](#verificationscreenshot)
+- Confirm your phone number [(1, 1.1)](#verificationscreenshot)
+- Choose type of your ID document [(2)](#verificationscreenshot)
+- Upload chosen type of your document [(3)](#verificationscreenshot)
+- Choose type of document "Proof of residency" [(4)](#verificationscreenshot)
+- Upload chosen type of document "Proof of residency" [(5)](#verificationscreenshot)
+- Upload your selfie with your ID and piece of paper with date of verification request [(6)](#verificationscreenshot)
 
 <a id='verificationscreenshot'></a>
 
 ## Verification Screenshot
 
-![verificationscreenshot](../img/5-2%20Verification.png)
+![verificationscreenshot](../img/bitmeex-6-verification.png)
 
-![verificationscreenshot](../img/6-2%20Number%20Verification.png)
+![verificationscreenshot](../img/bitmeex-6b-number-verification.png)
 
 <a id='deposit-btc'></a>
 
@@ -75,17 +75,17 @@ To complete verification and use the exchange you need to follow next steps:
 
 To deposit BTC to BITMEEX.pro you need to follow next steps:
 
-- On the main page [e-Wallet](https://my.bitmeex.pro/account) click **Deposit** in BTC cell:
+- On the [eWallet](https://my.bitmeex.pro/account) page click **Deposit** in the **BTC** cell:
 
-![DepositBTC](../img/7-2%20Bitcoin%20deposit.png)
+![DepositBTC](../img/bitmeex-7-bitcoin-deposit.png)
 
-- Click the "Proceed" button:
+- Click the **Proceed** button:
 
-![Proceed BTC](../img/8-2%20bitcoin%20confirmating.png)
+![Proceed BTC](../img/bitmeex-8-bitcoin-confirmation.png)
 
 - Use the provided BTC wallet address to send BTC from your BTC wallet of choice:
 
-![transactionbtc](../img/9-2%20bitcoin%20sending.png)
+![transactionbtc](../img/bitmeex-9-bitcoin-sending.png)
 
 <a id='exchangebtc'></a>
 
@@ -93,17 +93,17 @@ To deposit BTC to BITMEEX.pro you need to follow next steps:
 
 Here are the steps to exchange BTC to TFT:
 
-- Go to the main page [e-Wallet](https://my.bitmeex.pro/account) and click **Exchange** in the **Bitcoin** cell:
+- Go to the [eWallet](https://my.bitmeex.pro/account) page and click **Exchange** in the **Bitcoin** cell:
 
-![Exchange BTC](../img/10-2%20bitcoin%20exchange.png)
+![Exchange BTC](../img/bitmeex-10-bitcoin-exchange.png)
 
 - Choose exchange direction to TFT [(1)]() and amount of BTC that you want to exchange [(2)](), and then click the **Exchange** button [3]():
 
-![Exchange BTC](../img/11-2%20bitcoin%20exchange.png)
+![Exchange BTC](../img/bitmeex-11-bitcoin-exchange.png)
 
-- You will automatically be redirected to the main page:
+- You will automatically get redirected to the [eWallet](https://my.bitmeex.pro/account) page:
 
-![ExchangeBTC](../img/11-2-1%20bitcoin%20exchange.png)
+![ExchangeBTC](../img/bitmeex-11b-bitcoin-exchange.png)
 
 <a id='buy-tft'></a>
 
@@ -111,17 +111,17 @@ Here are the steps to exchange BTC to TFT:
 
 Here are the steps to deposit USD/EUR/AED to your BITMEEX.pro account:
 
-- On the main page [e-Wallet](https://my.bitmeex.pro/account) click **Deposit** in the **USD**, **EUR** or **AED** cell.
+- On the [eWallet](https://my.bitmeex.pro/account) page click **Deposit** in the **USD**, **EUR** or **AED** cell:
 
-![Deposit USD](../img/12-2%20USD%20deposit.png)
+![Deposit USD](../img/bitmeex-12-usd-deposit.png)
 
 - Confirm type of transaction:
 
-![Confirm USD](../img/13-2%20USD%20proceed.png)
+![Confirm USD](../img/bitmeex-13-usd-proceed.png)
 
 - Make a standard SWIFT-transaction in your bank using next requisites:
 
-![transaction USD](../img/14-2%20USD%20bank%20data.png)
+![transaction USD](../img/bitmeex-14-usd-bank-data.png)
 
 ## The steps are the same for USD/EUR/AED.
 
@@ -129,14 +129,14 @@ Here are the steps to deposit USD/EUR/AED to your BITMEEX.pro account:
 
 ## Exchange USD/EUR/AED
 
-- Go to the main page [e-Wallet](https://my.bitmeex.pro/account) and click **Exchange** in the **USD**, **EUR** or **AED** cell:
+- Go to the [eWallet](https://my.bitmeex.pro/account) page and click **Exchange** in the **USD**, **EUR** or **AED** cell:
 
-![Exchange USD](../img/15-2%20USD%20exchange.png)
+![Exchange USD](../img/bitmeex-15-usd-exchange.png)
 
 - Choose exchange direction to TFT [(1)]() and amount of USD/EUR/AED that you want to exchange [(2)](), click the **Exchange** button [3]():
 
-![Exchange USD](https://github.com/threefoldfoundation/info_tokens/blob/development/docs/img/16-2%20USD%20exchange.png)
+![Exchange USD](../img/bitmeex-16-usd-exchange.png)
 
-- You will automatically be redirected to the main page, showing the result of the exchange:
+- You will automatically get redirected to the [eWallet](https://my.bitmeex.pro/account) page, showing the result of the requested exchange:
 
-![ExchangeUSD](../img/17-2%20USDFINAL.png)
+![ExchangeUSD](../img/bitmeex-17-usd-final.png)
