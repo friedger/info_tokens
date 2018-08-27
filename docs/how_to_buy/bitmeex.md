@@ -93,7 +93,7 @@ To deposit BTC to BITMEEX.pro you need to follow next steps:
 
 Here are the steps to exchange BTC to TFT:
 
-- Go to the main page [e-Wallet](https://my.bitmeex.pro/account) and click **Exchange**:
+- Go to the main page [e-Wallet](https://my.bitmeex.pro/account) and click **Exchange** in the **Bitcoin** cell:
 
 ![Exchange BTC](../img/10-2%20bitcoin%20exchange.png)
 
@@ -111,7 +111,7 @@ Here are the steps to exchange BTC to TFT:
 
 Here are the steps to deposit USD/EUR/AED to your BITMEEX.pro account:
 
-- On the main page [e-Wallet](https://my.bitmeex.pro/account) click **Deposit** in the USD/EUR/AED cell.
+- On the main page [e-Wallet](https://my.bitmeex.pro/account) click **Deposit** in the **USD**, **EUR** or **AED** cell.
 
 ![Deposit USD](../img/12-2%20USD%20deposit.png)
 
@@ -129,7 +129,7 @@ Here are the steps to deposit USD/EUR/AED to your BITMEEX.pro account:
 
 ## Exchange USD/EUR/AED
 
-- Go to the main page [e-Wallet](https://my.bitmeex.pro/account) and click **Exchange** in the USD/EUR/AED cell:
+- Go to the main page [e-Wallet](https://my.bitmeex.pro/account) and click **Exchange** in the **USD**, **EUR** or **AED** cell:
 
 ![Exchange USD](../img/15-2%20USD%20exchange.png)
 
@@ -137,6 +137,6 @@ Here are the steps to deposit USD/EUR/AED to your BITMEEX.pro account:
 
 ![Exchange USD](https://github.com/threefoldfoundation/info_tokens/blob/development/docs/img/16-2%20USD%20exchange.png)
 
-- You will automatically be redirected to main page:
+- You will automatically be redirected to the main page, showing the result of the exchange:
 
 ![ExchangeUSD](../img/17-2%20USDFINAL.png)
