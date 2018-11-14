@@ -9,6 +9,7 @@
 - [What can be the impact of government regulation on cryptocurrencies?](/faq/government_regulation.md)
 - [How long does the farmer have to hold the subsidy ThreeFold token?](/faq/token_vesting_schemes.md)
 - [Is the ThreeFold token publicly traded on exchanges? If so, which exchanges?](/faq/exchanges.md)
+- [How to track your ThreeFold Tokens?](/faq/track.md)
 
 ## FAQs on other Wikis
 
