@@ -4,5 +4,4 @@
 You will get details about the balance and value of related transactions. 
 
 Alternatively, you can use standard explorer in a similar way: 
- https://explorer.threefoldtoken.com
- or https://explorer2.threefoldtoken.com/
+ https://explorer.threefoldtoken.com or https://explorer2.threefoldtoken.com/
