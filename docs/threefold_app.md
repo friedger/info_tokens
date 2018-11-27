@@ -18,9 +18,9 @@ Follow the steps below in order to setup your ThreeFold wallet, and receive and 
 
 ## Registration and login
 
-In order to use the ThreeFold app you need an [ItsYou.online](itsyou.online) account. No worries in case you don't have an [ItsYou.online](itsyou.online) account yet, just click the green **I AM NEW HERE** button that you see when you start the ThreeFold app for the very fist time, and  the ThreeFold app will guide you through the process of creating your [ItsYou.online](itsyou.online) account.
+In order to use the ThreeFold app you need an [ItsYou.online](https://itsyou.online) account. No worries in case you don't have an [ItsYou.online](https://itsyou.online) account yet, just click the green **I AM NEW HERE** button that you see when you start the ThreeFold app for the very fist time, and  the ThreeFold app will guide you through the process of creating your [ItsYou.online](https://itsyou.online) account.
 
-In case you already have an [ItsYou.online](itsyou.online) account, click the blue **I AM MEMBER** button, which will invite you to login with your [ItsYou.online](itsyou.online) profile.
+In case you already have an [ItsYou.online](https://itsyou.online) account, click the blue **I AM MEMBER** button, which will invite you to login with your [ItsYou.online](https://itsyou.online) profile.
 
 ![Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-registration-300.png "Registration Screen")
 
