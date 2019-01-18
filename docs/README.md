@@ -24,9 +24,9 @@ Next to this wiki, we have three additional Wiki that you might want to checkout
 
 For additional information, please refer to our official channels: 
 
-- Website: [threefoldtoken.com](https://threefoldtoken.com/) 
+- Website: [threefold.io](https://threefold.io) 
 
-- Token website: [tftokens.com](https://threefold.me/tokens/)
+- Token website: [tftokens.com](https://threefold.io/tokens/)
 
 - Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info) 
 
