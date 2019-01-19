@@ -22,14 +22,12 @@ You will get all instructuions and guidance by email.
 5. Enter your personal data, all fields required:
 ![mazraa-identification](../img/mazraa-identification.png)
 6. Upload your passport (id), back cover for the passport (id), proof of address and selfie with the passort
-![mazraa-documents](../img/mazraaa-documents.png)
+![mazraa-documents](../img/mazraa-documents.png)
 7. Wait until your documetns are approved. 
 8. Enter required analysis amount and your wallet addreess.
 ![mazraa-purchase](../img/mazraa-purchase.png)
-9. 
+9. Enter your credit card data.
+![credit card](../img/mazraa-credit_card.png)
 
-
-
-![Finance](../img/btc-alpha-finance-section-300.png "Finance Screen")
-
+In 2 working days you should get TFT on your wallet.
 
