@@ -47,41 +47,9 @@ This method is only recommended for technically skilled users. Core Client for T
 
 [Download](https://github.com/threefoldfoundation/tfchain)
 
-## Step 2. Read the guides on our wikis to get familiar with digital currencies
+## Step 2. Get ThreeFold Tokens
 
-and learn how to go from fiat currency to ThreeFold Tokens:
-
-### The quickest way to go from fiat currency to TFT
-
-Go from Fiat to Bitcoin, and Bitcoin to TFT:
-
-[Read More](https://threefoldfoundation.github.io/info_tokens/#/how_to_buy/buy_from_exchange)
-
-### Already have Bitcoin?
-
-We made an easy and digestible manual that explains how to exchange your BTC for TFT on the BTC-Alpha Exchange
-
-[Read More](https://threefoldfoundation.github.io/info_tokens/#/how_to_buy/btc-alpha?id=using-btc-alpha)
-
-## Step 3. Get ThreeFold Tokens
-
-### ON ONE OF THESE EXCHANGES
-
-[BTC-Alpha](https://btc-alpha.com/) ( Crypto Only )
-
-[Read Manual](https://threefoldfoundation.github.io/info_tokens/#/how_to_buy/btc-alpha?id=using-btc-alpha)
-
-### USING ATOMIC SWAPS (TECHNICAL USERS ONLY)
-
-[Command Line](https://github.com/threefoldfoundation/tfchain/blob/master/doc/atomicswap.md)
-
-[Read Manual](https://threefoldfoundation.github.io/info_tokens/#/technology/atomic_swaps)
-
-### THROUGH ONE OF THE FARMING COOPERATIVES
-
-[Mazraa](https://www.mazraa.io/) ( Dubai,UAE )
-
-[BetterToken](https://bettertoken.shop/) ( Lochristi, Belgium )
+### Take a look at purchase options and guidance - [How to buy ThreeFold tokens](/how_to_buy/README.md)
 
 # Token Utilization
 
