@@ -26,7 +26,7 @@ You will get all instructuions and guidance by email.
 ### 7. Wait until your documetns are approved. 
 ### 8. Enter required analysis amount and your wallet addreess.
 ![mazraa-purchase](../img/mazraa-purchase.png)
-### 9. Enter your credit card data.
+### 9. Enter your credit card data and press "Pay" button.
 ![credit card](../img/mazraa-credit_card.png)
 
 In two working days you should get TFT credited to your wallet.
