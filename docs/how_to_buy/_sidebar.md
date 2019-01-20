@@ -7,3 +7,4 @@
     * [Buy directly from farmers](/how_to_buy/buy_from_farmer.md)
     * [Using BTC-Alpha](/how_to_buy/btc-alpha.md)
     * [Using BITMEEX](/how_to_buy/bitmeex.md)
+    * [From Mazraa farm with credit card](/how_to_buy/mazraa.md)
