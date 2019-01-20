@@ -8,6 +8,5 @@
 * [Using the ThreeFold App](threefold_app.md)
 * [Value of the Token](token_issuance_economy.md)
 * [Token Properties](token_properties.md)
-* [Token Liquidity](liquidity.md)
 * [Technology](technology/README.md)
 * [FAQ](faq/README.md)
