@@ -1,1 +1,1 @@
-# ThreeFold Grid Tutorials
+**[ThreeFold Token Wiki](/docs/README.md)**

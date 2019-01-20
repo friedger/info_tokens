@@ -11,7 +11,7 @@ Watch the video on the [ThreeFold YouTube Channel](https://www.youtube.com/chann
 
 This wiki, the **ThreeFold Tokens Wiki** brings together all information about the ThreeFold Token, abbreviated TFT.
 
-You are invited to contribute to this wiki by directly editing the sources files or by creating a issue with feedback or a change request on the [info_tokens GitHub repository](https://threefoldfoundation.github.io/info_tokens/#/).
+You are invited to contribute to this wiki by directly editing the sources files or by creating a issue with feedback or a change request on the [info_tokens GitHub repository](https://github.com/threefoldfoundation/info_tokens/blob/master/docs/README.md).
 
 Next to this wiki, we have three additional Wiki that you might want to checkout:
 
@@ -24,9 +24,9 @@ Next to this wiki, we have three additional Wiki that you might want to checkout
 
 For additional information, please refer to our official channels: 
 
-- Website: [threefoldtoken.com](https://threefoldtoken.com/) 
+- Website: [threefold.io](https://threefold.io) 
 
-- Token website: [tftokens.com](https://threefold.me/tokens/)
+- Token website: [tftokens.com](https://threefold.io/tokens/)
 
 - Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info) 
 
