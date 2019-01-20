@@ -29,5 +29,5 @@ You will get all instructuions and guidance by email.
 9. Enter your credit card data.
 ![credit card](../img/mazraa-credit_card.png)
 
-In 2 working days you should get TFT on your wallet.
+In two working days you should get TFT on your wallet.
 
