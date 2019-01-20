@@ -6,6 +6,7 @@ There are actually two options to buy ThreeFold tokens:
 - [Using BTC-Alpha](/how_to_buy/btc-alpha.md)
 - [Using BITMEEX](/how_to_buy/bitmeex.md)
 - [From Mazraa farm with credit card](/how_to_buy/mazraa.md)
+- [Atomic swaps (Technical users only for now](/how_to_buy/atomicswapslink.md)
 
 For the actual steps click the above links or the links in the left navigation menu. 
 
