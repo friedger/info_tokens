@@ -39,7 +39,7 @@ ThreeFold Capacity can be used for anything, for instance for storage or computi
 
 ThreeFold Tokens are generated only when new IT capacity is added to the ThreeFold Grid.
 
-![](/img/only_when_new_capacity_is_added.png-800.png)
+![](/img/only_when_new_capacity_is_added-800.png)
 
 No wasteful mining takes place and all farming is useable as internet capacity.
 
