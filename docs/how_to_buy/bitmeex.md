@@ -97,7 +97,7 @@ Here are the steps to exchange BTC to TFT:
 
 ![Exchange BTC](../img/bitmeex-10-bitcoin-exchange.png)
 
-- Choose exchange direction to TFT [(1)]() and amount of BTC that you want to exchange [(2)](), and then click the **Exchange** button [3]():
+- Choose exchange direction to TFT (1) and amount of BTC that you want to exchange (2), and then click the **Exchange** button (3):
 
 ![Exchange BTC](../img/bitmeex-11-bitcoin-exchange.png)
 
@@ -133,7 +133,7 @@ Here are the steps to deposit USD/EUR/AED to your BITMEEX.pro account:
 
 ![Exchange USD](../img/bitmeex-15-usd-exchange.png)
 
-- Choose exchange direction to TFT [(1)]() and amount of USD/EUR/AED that you want to exchange [(2)](), click the **Exchange** button [3]():
+- Choose exchange direction to TFT (1) and amount of USD/EUR/AED that you want to exchange (2), click the **Exchange** button (3):
 
 ![Exchange USD](../img/bitmeex-16-usd-exchange.png)
 
