@@ -1,7 +1,4 @@
 * [Home](/)
-
-----
-
 * [Frequently Asked Questions](/faq/README.md)
     * [ThreeFold Tokens Value](/faq/current_value.md)
     * [Capacity Dependency](/faq/capacity_dependency.md)
