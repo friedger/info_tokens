@@ -1,1 +1,5 @@
-[Pricing Conflicts](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/faq/pricing_conflicts.md ':include :type=markdown')
+[Pricing Conflicts]
+```!!!include
+repo = "https://github.com/threefoldfoundation/info_grid/blob/master/docs/faq"
+name = "pricing_conflicts.md "
+```

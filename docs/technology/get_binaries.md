@@ -1,1 +1,5 @@
-[Get Binaries](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/technology/get_binaries.md ':include :type=markdown')
+[Get Binaries]
+```!!!include
+repo = "https://github.com/threefoldfoundation/info_grid/blob/master/docs/technology"
+name = "get_binaries.md"
+```

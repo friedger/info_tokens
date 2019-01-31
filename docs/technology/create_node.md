@@ -1,1 +1,5 @@
-[Run a TF Chain node](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/technology/create_node.md ':include :type=markdown')
+[Run a TF Chain node]
+```!!!include
+repo = "https://github.com/threefoldfoundation/info_grid/blob/master/docs/technology"
+name = "create_node.md"
+```

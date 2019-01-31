@@ -1,43 +1,56 @@
 ```
-## ERROR: threefold_app
+## ERROR: circles
 
-- in doc: doc:threefold_app:/Users/despiegk/code/github/threefoldfoundation/info_tokens/docs/threefold_app.md
+- in doc: doc:circles:/sandbox/code/github/threefoldfoundation/info_tokens/docs/circles.md
 
-**ERROR:** problem with link:[ItsYou.online](itsyou.online) account. No worries in case you don't have an [ItsYou.online](itsyou.online) account yet, just click the green **I AM NEW HERE** button that you see when you start the ThreeFold app for the very fist time, and  the ThreeFold app will guide you through the process of creating your [ItsYou.online](itsyou.online)
-found unsupported extension
+**ERROR:** problem with link:[docs/collaboration](docs/collaboration)
+ERROR: Cannot find doc with name:docs.collaboration (nr docs found:0)
 
-
-
-```
-```
-## ERROR: threefold_app
-
-- in doc: doc:threefold_app:/Users/despiegk/code/github/threefoldfoundation/info_tokens/docs/threefold_app.md
-
-**ERROR:** problem with link:[ItsYou.online](itsyou.online) account, click the blue **I AM MEMBER** button, which will invite you to login with your [ItsYou.online](itsyou.online)
-found unsupported extension
 
 
 
 ```
 ```
-## ERROR: threefold_app
+## ERROR: buy_from_farmer
 
-- in doc: doc:threefold_app:/Users/despiegk/code/github/threefoldfoundation/info_tokens/docs/threefold_app.md
+- in doc: doc:buy_from_farmer:/sandbox/code/github/threefoldfoundation/info_tokens/docs/how_to_buy/buy_from_farmer.md
 
-**ERROR:** problem with link:[ItsYou.online](itsyou.online) account. No worries in case you don't have an [ItsYou.online](itsyou.online) account yet, just click the green **I AM NEW HERE** button that you see when you start the ThreeFold app for the very fist time, and  the ThreeFold app will guide you through the process of creating your [ItsYou.online](itsyou.online)
-found unsupported extension
+**ERROR:** problem with link:[ThreeFold Tokens](https://tokens.threefold.me/)
+False
 
 
 
 ```
 ```
-## ERROR: threefold_app
+## ERROR: umc
 
-- in doc: doc:threefold_app:/Users/despiegk/code/github/threefoldfoundation/info_tokens/docs/threefold_app.md
+- in doc: doc:umc:/sandbox/code/github/threefoldfoundation/info_tokens/docs/partners/umc.md
 
-**ERROR:** problem with link:[ItsYou.online](itsyou.online) account, click the blue **I AM MEMBER** button, which will invite you to login with your [ItsYou.online](itsyou.online)
-found unsupported extension
+**ERROR:** problem with link:[UMC](http://umccoin.io/)
+False
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/sandbox/code/github/threefoldfoundation/info_tokens/docs/README.md
+
+**ERROR:** problem with link:[medium.com/@despiegk](https://medium.com/@despiegk)
+False
+
+
+
+```
+```
+## ERROR: tools
+
+- in doc: doc:tools:/sandbox/code/github/threefoldfoundation/info_tokens/docs/tools.md
+
+**ERROR:** problem with link:[Foundation Wiki - Circles Tools](/collaboration/circles_tools.md)
+ERROR: Cannot find doc with name:collaboration.circles_tools (nr docs found:0)
+
 
 
 
