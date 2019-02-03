@@ -1,1 +1,5 @@
-[Command Line Wallet](https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/technology/wallet.md ':include :type=markdown')
+[Command Line Wallet]
+```!!!include
+repo = "https://github.com/threefoldfoundation/info_grid/blob/master/docs/technology"
+name = "wallet.md"
+```
