@@ -5,5 +5,5 @@ ThreeFold Token Wiki, hosted on
 
 ## Repository Owners:
 
-* [Nickolay Babenko](https://github.com/nbabenko) 
+* [Nickolay Babenko](https://github.com/nbabenko), telegram: [@nbabenko](http://t.me/nbabenko)
 * [Adnan Fatayerji](https://github.com/AdnanFatayerji)
