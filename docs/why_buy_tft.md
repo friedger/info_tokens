@@ -17,7 +17,7 @@ The ThreeFold Token is a result of mining useful internet capacity. We call this
 
 The ThreeFold Blockchain does not suffer from the “Blockchain Dilemma Problem”. Our blockchain is fast, scalable and secure at the same time, which is to date not possible with other blockchain technologies. This is a major breakthrough.
 
-# How to buy and storage ThreeFold Tokens
+# How to buy and store ThreeFold Tokens
 
 ## Step 1. Download a ThreeFold Wallet
 
