@@ -16,9 +16,9 @@ Due to this fact, amount of tokens required to support liquidity on the market i
 
 # Token Issuance Economy
 
-![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/development/docs/img/token_cycle.png)
+![](/img/token_cycle.png)
 
-![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/development/docs/img/token_issuance_economy.png)
+![](/img/token_issuance_economy.png)
 
 1. Hardware connected to the ThreeFold Grid by installing Zero-OS
 2. Decentralized blockchain issues specific amount of ThreeFold Tokens (TFT) every month to the hardware owner to the wallet, specified wallet
