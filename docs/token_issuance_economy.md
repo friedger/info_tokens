@@ -27,3 +27,4 @@ Due to this fact, amount of tokens required to support liquidity on the market i
 5. When somebody wants to run workloads on farmer’s hardware, in order to reserve capacity he should use TFT. After reservation, TFT goes back to farmer.
 6. Anyone can buy TFT on open market or directly from farmer.
 
+References: [Commercial value of a ThreeFold Token (TFT)](https://info.grid.tf/#/concepts/commercial_token_value_calculation)
