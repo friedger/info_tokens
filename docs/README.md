@@ -26,6 +26,10 @@ For additional information, please refer to our official channels:
 
 - Website: [threefold.io](https://threefold.io) 
 
+- FreeFlowPages: [ThreeFoldFoundation Space](https://freeflowpages.com/s/threefoldfoundation/)
+
+- FreeFlowPages: [ThreeFold Tokens](https://freeflowpages.com/s/tf-tokens/)
+
 - Token website: [tftokens.com](https://threefold.io/tokens/)
 
 - Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info) 
