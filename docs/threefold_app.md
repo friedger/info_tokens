@@ -2,7 +2,7 @@
 
 ThreeFold created a ThreeFold app, available for iOS and Android phones. This ThreeFold app includes a ThreeFold wallet for safely keeping your ThreeFold tokens offline, and receiving and sending ThreeFold tokens from/to other offline and online wallets.  
 
-> Currently the ThreeFold app only allows you to manage one single ThreeFold wallet at the same time, and only one wallet address.
+The ThreeFold app allows you to manage multiple ThreeFold wallets and addresses at the same time.
 
 Follow the steps below in order to setup your ThreeFold wallet, and receive and send your first ThreeFold tokens:
 
@@ -18,20 +18,14 @@ Follow the steps below in order to setup your ThreeFold wallet, and receive and 
 
 ## Registration and login
 
-In order to use the ThreeFold app you need an [ItsYou.online](https://itsyou.online) account. No worries in case you don't have an [ItsYou.online](https://itsyou.online) account yet, just click the green **I AM NEW HERE** button that you see when you start the ThreeFold app for the very fist time, and  the ThreeFold app will guide you through the process of creating your [ItsYou.online](https://itsyou.online) account.
-
-In case you already have an [ItsYou.online](https://itsyou.online) account, click the blue **I AM MEMBER** button, which will invite you to login with your [ItsYou.online](https://itsyou.online) profile.
-
-![Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-registration-300.png "Registration Screen")
-
-In both cases your ThreeFold app will be associated with your ItsYou.online profile.
+In order to use the ThreeFold app you simply need to download the ThreeFold app available in the Appstore or Google Play Store. Register using your email address 
 
 
 <a id='pin'><a>
 
 ## Set your PIN code
 
-After having associated your ThreeFold app to your ItsYou.online profile, your next step will be to set a PIN code, which you'll need later each time when you start the ThreeFold app, and access your ThreeFold wallet.
+After having registered on your ThreeFold app, your next step will be to set a PIN code, which you'll need later each time when you start the ThreeFold app, and access your ThreeFold wallet.
 
 ![PIN](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-pin-300.jpg "PIN")
 
