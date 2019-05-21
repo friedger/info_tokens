@@ -1,7 +1,8 @@
-# Rivine Blockchain
-[Rivine GitHub repository](https://github.com/rivine/rivine)
+# ThreeFold Rivine Blockchain
+
+[ThreeFold Rivine GitHub repository](https://github.com/threefoldtech/rivine)
+
 ```
 !!!include
-repo = "https://github.com/rivine/rivine/blob/master/doc/"
-name = "whitepaper.md"
+link = "https://github.com/threefoldtech/rivine/blob/master/doc/whitepaper.md"
 ```
