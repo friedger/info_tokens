@@ -1,5 +1,4 @@
-[Command Line Wallet]
-```!!!include
-repo = "https://github.com/threefoldfoundation/info_grid/blob/master/docs/technology"
-name = "README.md"
+```
+!!!include
+link = "https://github.com/threefoldfoundation/info_tokens/blob/master/docs/technology/_sidebar.md"
 ```
