@@ -4,16 +4,11 @@
  
 ## New to ThreeFold?
 
-TEST
-
 Watch the video on the [ThreeFold YouTube Channel](https://www.youtube.com/channel/UCKMNPuhs-8tHYfGd92krC8w): [ThreeFold Token - How it works](https://www.youtube.com/watch?v=4exjbFvnGkk)
 
 <div style="overflow:hidden;">
    <iframe width="560" height="315" src="https://www.youtube.com/embed/4exjbFvnGkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-Test
-
 
 ## Where to go next?
 
