@@ -19,8 +19,8 @@ You are invited to contribute to this wiki by directly editing the sources files
 Next to this wiki, we have three additional Wiki that you might want to checkout:
 
 - [ThreeFold Foundation Wiki](http://wiki.threefold.me)
-- [ThreeFold Grid Wiki](http://grid_wiki.threefold.me)
-- [ThreeFold Technology Wiki](http://tech_wiki.threefold.me )
+- [ThreeFold Grid Wiki](https://wiki.grid.tf/#/)
+- [ThreeFold Technology Wiki](https://wiki.foundation.grid.tf/#/)
 
 
 ## More online resources
