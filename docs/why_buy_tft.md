@@ -5,6 +5,8 @@
 ## Value Backed 
 ![](https://threefold.io/svg/ic-benefits-01.svg)
 
+![](https://static.coindesk.com/wp-content/uploads/2018/12/bitcoin-image-860x430.jpg)
+
 100% of ThreeFold Tokens are asset backed by the fastest growing commodity in the world, the internet. Tokens only get generated when servers get connected to the internet. Each token is at least 6 times undervalued compared to the commercial value of the newly connected capacity.
 
 ## Good For The Planet
