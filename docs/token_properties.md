@@ -1,10 +1,11 @@
 # Token Properties
 
-* Block time: up to 10 minutes
+* Blockchain: [Rivine](/technology/rivine_blockchain.md)
+* Block time: 2 minutes
 * Divisible: yes
-* Backed: by capacity
+* Backed: IT Cloud capacity
 * Max Supply: 100,000,000,000
-* Consensus: [Proof of blockstake](https://github.com/rivine/rivine/blob/master/doc/ProofOfBlockStake.md)
+* Consensus: [Proof of blockstake](technology/proof_of_blockstake.md)
 * Atomic Swaps
 * Hashing: BLAKE2b
 * Multisig support: yes
