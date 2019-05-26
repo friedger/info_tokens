@@ -5,19 +5,15 @@
 ## Value Backed 
 ![](/img/ic-benefits-01.png)
 
-![](https://static.coindesk.com/wp-content/uploads/2018/12/bitcoin-image-860x430.jpg)
-
-![](https://threefold.io/img/img-20-solution.png)
-
 100% of ThreeFold Tokens are asset backed by the fastest growing commodity in the world, the internet. Tokens only get generated when servers get connected to the internet. Each token is at least 6 times undervalued compared to the commercial value of the newly connected capacity.
 
 ## Good For The Planet
-![](https://threefold.io/svg/ic-benefits-02.svg)
+![](/img/ic-benefits-02.png)
 
 The ThreeFold Token is a result of mining useful internet capacity. We call this farming. The ThreeFold Blockchain is 100% energy neutral. The produced internet capacity uses up to 10 times less energy, it removes the need for centralized power-hungry data centers.
 
 ## Reliable & Secure 
-![](https://threefold.io/svg/ic-benefits-05.svg)
+![](/img/ic-benefits-05.png)
 
 The ThreeFold Blockchain does not suffer from the “Blockchain Dilemma Problem”. Our blockchain is fast, scalable and secure at the same time, which is to date not possible with other blockchain technologies. This is a major breakthrough.
 
@@ -27,7 +23,7 @@ The ThreeFold Blockchain does not suffer from the “Blockchain Dilemma Problem�
 
 ### Before you do anything you will need to have a TFT wallet to send and receive TFTs.
 
-## iOS wallet ![](https://threefold.io/svg/ic-applelogo.svg)
+## iOS wallet ![](/img/ic-applelogo.png)
 
 A wallet that puts you in control of your funds and runs on your iPhone. We recommend people that are new to digital currencies to read the article about the ThreeFold App on our wiki first:
 
@@ -35,7 +31,7 @@ A wallet that puts you in control of your funds and runs on your iPhone. We reco
 
 [Download](https://itunes.apple.com/app/id1276543091)
 
-## Android wallet ![](https://threefold.io/svg/ic-androidlogo.svg)
+## Android wallet ![](/img/ic-androidlogo.png)
 
 Wallet that puts you in control of your funds and runs on your Android device. We recommend people that are new to digital currencies to read the article about the ThreeFold App on our wiki first:
 
@@ -43,7 +39,7 @@ Wallet that puts you in control of your funds and runs on your Android device. W
 
 [Download](https://play.google.com/store/apps/details?id=com.mobicage.rogerthat.em.be.threefold.token)
 
-## TFChain Core ![](https://threefold.io/svg/ic-chaincore.svg)
+## TFChain Core ![](/img/ic-chaincore.png)
 
 This method is only recommended for technically skilled users. Core Client for ThreeFold Blockchain that can be run on Windows, OSX, Linux in a pre-configured docker container.
 
@@ -62,18 +58,18 @@ Use ThreeFold Tokens in your project or business — “A Fast, scalable, secure
 
 ## Fast & Scalable 
 
-![](https://threefold.io/svg/ic-util-01.svg)
+![](/img/ic-util-01.png)
 
 High transaction volumes including a capacity to support micro transactions without compromising speed and performance.
 
 ## Low Fees & Liquid
 
-![](https://threefold.io/svg/ic-util-02.svg)
+![](/img/ic-util-02.png)
 
 Low network fees along with high liquidity availability to help your initiative thrive, min fee 0.01 USD (1 cent).
 
 ## Secure & Valuable
 
-![](https://threefold.io/svg/ic-util-03.svg)
+![](/img/ic-util-03.png)
 
 Dedicated decentralized nodes power the ThreeFold Token and it is backed by internet capacity.
