@@ -10,4 +10,4 @@ There are actually two options to buy ThreeFold tokens:
 
 For the actual steps click the above links or the links in the left navigation menu. 
 
-Next to buying ThreeFold tokens, you can also earn ThreeFold tokens as a ThreeFold Farmer, as documented in the [ThreeFold Grid Wiki](https://threefoldfoundation.github.io/info_grid/#/).
+Next to buying ThreeFold tokens, you can also earn ThreeFold tokens as a ThreeFold Farmer, as documented in the [ThreeFold Grid Wiki](https://wiki.grid.tf/#/).
