@@ -3,7 +3,7 @@
 ![](/img/join-700.png)
 
 ## Value Backed 
-![](/img/ic-benefits-01.svg)
+![](/img/ic-benefits-01.png)
 
 ![](https://static.coindesk.com/wp-content/uploads/2018/12/bitcoin-image-860x430.jpg)
 
