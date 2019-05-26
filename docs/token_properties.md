@@ -1,5 +1,6 @@
 # Token Properties
 
+* Blockchain: [Rivine](/technology/rivine_blockchain.md)
 * Block time: 2 minutes
 * Divisible: yes
 * Backed: IT Cloud capacity
