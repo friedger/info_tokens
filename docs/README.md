@@ -4,14 +4,11 @@
  
 ## New to ThreeFold?
 
-Watch the video on the [ThreeFold YouTube Channel](https://www.youtube.com/channel/UCKMNPuhs-8tHYfGd92krC8w): [ThreeFold Token - How it works](https://www.youtube.com/watch?v=4exjbFvnGkk)
+Watch the video on the [ThreeFold YouTube Channel](https://www.youtube.com/channel/UCKMNPuhs-8tHYfGd92krC8w)
 
 <div style="overflow:hidden;">
    <iframe width="560" height="315" src="https://www.youtube.com/embed/4exjbFvnGkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-Test
-
 
 ## Where to go next?
 
@@ -21,9 +18,9 @@ You are invited to contribute to this wiki by directly editing the sources files
 
 Next to this wiki, we have three additional Wiki that you might want to checkout:
 
-- [ThreeFold Foundation Wiki](http://wiki.threefold.me)
-- [ThreeFold Grid Wiki](http://grid_wiki.threefold.me)
-- [ThreeFold Technology Wiki](http://tech_wiki.threefold.me )
+- [ThreeFold Foundation Wiki](https://wiki.foundation.grid.tf/#/)
+- [ThreeFold Grid Wiki](https://wiki.grid.tf/#/)
+- [ThreeFold Technology Wiki](https://wiki.threefold.tech/#/)
 
 
 ## More online resources
@@ -38,9 +35,7 @@ For additional information, please refer to our official channels:
 
 - Token website: [tftokens.com](https://threefold.io/tokens/)
 
-- Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info) 
-
-- Whitepaper (PDF): [docs.google.com/document/d/16C3EKKBaK4_DyWFUcvdLnvDyN57h77e0Q1mWMpZL5vc/edit](https://docs.google.com/document/d/16C3EKKBaK4_DyWFUcvdLnvDyN57h77e0Q1mWMpZL5vc/edit)
+- Whitepaper: [docs.google.com/document/d/16C3EKKBaK4_DyWFUcvdLnvDyN57h77e0Q1mWMpZL5vc/edit](https://docs.google.com/document/d/16C3EKKBaK4_DyWFUcvdLnvDyN57h77e0Q1mWMpZL5vc/edit)
 
 - YouTube channel: [youtube.com/c/ThreeFoldFoundation](https://www.youtube.com/c/ThreeFoldFoundation)
 
