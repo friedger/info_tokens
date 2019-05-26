@@ -27,7 +27,7 @@ In order to use the ThreeFold app you simply need to download the ThreeFold app 
 
 After having registered on your ThreeFold app, your next step will be to set a PIN code, which you'll need later each time when you start the ThreeFold app, and access your ThreeFold wallet.
 
-![PIN](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-pin-300.jpg "PIN")
+![PIN](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-pin-300.jpg)
 
 
 <a id='seed'><a>
@@ -38,12 +38,12 @@ After having set your PIN code, a private key will be created for you. This key 
 
 In order to access your private key, click **Settings** in the app menu:
 
-![Settings](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-settings.png "Settings")
+![Settings](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-settings.png)
 
 
 Then click **Security**:
 
-![Security](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-security.png "Security")
+![Security](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-security.png)
 
 And finally, click the ThreeFold private key:
 
