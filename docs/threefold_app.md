@@ -47,7 +47,7 @@ Then click **Security**:
 
 And finally, click the ThreeFold private key:
 
-![Seed](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-seed.png "Seed")
+![Seed](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-seed.png)
 
 
 We recommend making a screenshot of this screen, print it on paper and store it safely offline.
@@ -71,7 +71,7 @@ In order to acquire ThreeFold tokens you have basically two options:
 
 For both cases you need your offline TFT wallet address, which you can lookup in the ThreeFold app by navigating to your wallet from the navigation menu, and then clicking the **Receive** button:
 
-![Receive](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-receive-300.jpg "Receive")
+![Receive](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-receive-300.jpg)
 
 Here you see the TFT wallet address in two formats:
 - As a QR code, which can be scanned from the wallet app of the sender, as documented here below in [Send tokens](#send) 
@@ -84,7 +84,7 @@ Here you see the TFT wallet address in two formats:
 
 Also sending ThreeFold tokens is simple. First navigate to your wallet from the ThreeFold app navigation menu, and then click the **Send** button:
 
-![Send](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-send-300.jpg "Send")
+![Send](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-send-300.jpg)
 
 In order to specify TFT wallet address of the receiving party you have two options:
 - Either scan the QR code from the sender
@@ -103,11 +103,11 @@ Next to receiving en sending tokens, your TFT wallet also keeps track of all you
 
 To see your balance click **Transactions** in your wallet:
 
-![Transactions List](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-list-300.jpg "Transactions List")
+![Transactions List](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-list-300.jpg)
 
 Under the number of ThreeFold tokens you own (your balance) you see all (send and receive) transactions. Clicking any of the transactions will show you all details of the transaction: 
 
-![Transaction](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-300.jpg "Transaction")
+![Transaction](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-300.jpg)
 
 
 <a id='btc-alpha'><a>
@@ -118,8 +118,8 @@ Next to receiving ThreeFold tokens from other ThreeFold app users, as documented
 
 A list of all public cryptocurrency exchanges that offer ThreeFold is available from within the ThreeFold app. You can access this list by clicking **Exchanges** from the ThreeFold app navigation menu:
 
-![Exchanges](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-300.jpg "Exchanges")
+![Exchanges](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-300.jpg)
 
 Selecting one of the listed exchanges will show you all details, for instance here for BTC-Alpha you get a full user manual documenting all steps to buy ThreeFold tokens:
 
-![Exchanges Manual](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-manual-300.jpg "Exchanges Manual")
+![Exchanges Manual](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-manual-300.jpg)
