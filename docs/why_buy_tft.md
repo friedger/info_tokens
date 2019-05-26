@@ -1,6 +1,6 @@
 # Why buy ThreeFold tokens?
 
-![](/img/join-700.png)
+![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/development/docs/img/join-700.png)
 
 ## Value Backed 
 ![](/img/ic-benefits-01.png)
