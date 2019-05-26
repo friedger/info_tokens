@@ -4,7 +4,7 @@
 * Divisible: yes
 * Backed: by capacity
 * Max Supply: 100,000,000,000
-* Consensus: [Proof of blockstake](technology/proof_of_blockstake)
+* Consensus: [Proof of blockstake](/technology/proof_of_blockstake)
 * Atomic Swaps
 * Hashing: BLAKE2b
 * Multisig support: yes
