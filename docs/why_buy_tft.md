@@ -27,7 +27,7 @@ The ThreeFold Blockchain does not suffer from the â€œBlockchain Dilemma Problemâ
 
 A wallet that puts you in control of your funds and runs on your iPhone. We recommend people that are new to digital currencies to read the article about the ThreeFold App on our wiki first:
 
-[Wiki How To](https://threefoldfoundation.github.io/info_tokens/#/threefold_app)
+[Wiki How To](/threefold_app)
 
 [Download](https://itunes.apple.com/app/id1276543091)
 
@@ -35,7 +35,7 @@ A wallet that puts you in control of your funds and runs on your iPhone. We reco
 
 Wallet that puts you in control of your funds and runs on your Android device. We recommend people that are new to digital currencies to read the article about the ThreeFold App on our wiki first:
 
-[Wiki How To](https://threefoldfoundation.github.io/info_tokens/#/threefold_app)
+[Wiki How To](/threefold_app)
 
 [Download](https://play.google.com/store/apps/details?id=com.mobicage.rogerthat.em.be.threefold.token)
 
