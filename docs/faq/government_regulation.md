@@ -7,3 +7,4 @@ Governments lag behind technology innovation, but is it fair to assume that they
 The ThreeFold token is has the following characteristics:
  - it is backed by the the gold of the digital age:  internet processing and storage Capacity
  - it is green token - no dirty mining as the TF Chain runs proof of stake blockchain technology
+ - supply and issuance of the token and is controlled by algorithm and tied to the amount of capacity available on the grid and cannot be manipulated by any party
