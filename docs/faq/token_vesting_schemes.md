@@ -1,4 +1,4 @@
 ```
 !!!include
-link = "https://raw.githubusercontent.com/threefoldfoundation/info_grid/master/docs/faq"
+link = "https://github.com/threefoldfoundation/info_grid/blob/master/docs/faq/token_vesting_schemes.md"
 ```
