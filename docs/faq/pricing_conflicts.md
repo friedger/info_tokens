@@ -1,5 +1,4 @@
-[Pricing Conflicts]
-```!!!include
-repo = "https://github.com/threefoldfoundation/info_grid/blob/master/docs/faq"
-name = "pricing_conflicts.md "
+```
+!!!include
+link = "https://github.com/threefoldfoundation/info_grid/blob/master/docs/faq/pricing_conflicts.md"
 ```
