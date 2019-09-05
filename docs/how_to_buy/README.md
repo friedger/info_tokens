@@ -1,6 +1,6 @@
-# How to buy ThreeFold tokens?
+# How to buy ThreeFold Tokens (TFT)?
 
-There are actually two options to buy ThreeFold tokens:
+Options to buy ThreeFold Tokens:
 - [From Mazraa farm (Credit card, Wire Transfer to UAE)](/how_to_buy/mazraa.md)
 - [Buy from an online exchange (Multiple options)](/how_to_buy/buy_from_exchange.md)
 - [Using BTC-Alpha (BTC)](/how_to_buy/btc-alpha.md) 
@@ -10,4 +10,5 @@ There are actually two options to buy ThreeFold tokens:
 
 For the actual steps click the above links or the links in the left navigation menu. 
 
-Next to buying ThreeFold tokens, you can also earn ThreeFold tokens as a ThreeFold Farmer, as documented in the [ThreeFold Grid Wiki](https://wiki.grid.tf/#/).
+Next to buying TFTs, you can also earn TFTs as a ThreeFold Farmer, as documented in the [ThreeFold Grid Wiki](https://wiki.grid.tf/#/).
+
