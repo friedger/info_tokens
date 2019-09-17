@@ -1,6 +1,6 @@
 # Buy from Mazraa farm
 
-[Mazraa](https://mazraa.io) is one of the first farmers on the ThreeFold grid. It is possible to buy ThreeFold tokens from Mazraa farm by 
+[Mazraa](https://mazraa.io) is one of the first farmers on the ThreeFold Grid. It is possible to buy ThreeFold Tokens from Mazraa farm by 
 * Wire transfer
 * Credit card
 
