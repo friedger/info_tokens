@@ -1,6 +1,6 @@
 # Buy ThreeFold tokens from an online exchange
 
-This is a two-steps process:
+This is a two-step process:
 - First, [buy Bitcoin (BTC)](#step1)
 - Then [exchange your BTC for ThreeFold tokens (TFT)](#step2)
 
