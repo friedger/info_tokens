@@ -27,7 +27,7 @@ The ThreeFold Blockchain does not suffer from the “Blockchain Dilemma Problem�
 
 A wallet that puts you in control of your funds and runs on your iPhone. We recommend people that are new to digital currencies to read the article about the ThreeFold App on our wiki first:
 
-[Wiki How To](/threefold_app)
+[Wiki How-To](/threefold_app)
 
 [Download](https://itunes.apple.com/app/id1276543091)
 
@@ -35,13 +35,13 @@ A wallet that puts you in control of your funds and runs on your iPhone. We reco
 
 Wallet that puts you in control of your funds and runs on your Android device. We recommend people that are new to digital currencies to read the article about the ThreeFold App on our wiki first:
 
-[Wiki How To](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/threefold_app)
+[Wiki How-To](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/threefold_app)
 
 [Download](https://play.google.com/store/apps/details?id=com.mobicage.rogerthat.em.be.threefold.token)
 
 ## TFChain Core ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-chaincore.png)
 
-This method is only recommended for technically skilled users. Core Client for ThreeFold Blockchain that can be run on Windows, OSX, Linux in a pre-configured docker container.
+This method is only recommended for technically skilled users. Core Client for ThreeFold Blockchain that can be run on Windows, OSX, Linux in a pre-configured Docker container.
 
 [Wiki How To](https://threefoldfoundation.github.io/info_tokens/#/technology/command_line_wallet)
 
@@ -60,7 +60,7 @@ Use ThreeFold Tokens in your project or business — “A Fast, scalable, secure
 
 ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-util-01.png)
 
-High transaction volumes including a capacity to support micro transactions without compromising speed and performance.
+High transaction volumes including a capacity to support microtransactions without compromising speed and performance.
 
 ## Low Fees & Liquid
 
