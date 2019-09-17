@@ -1,6 +1,6 @@
 
 # ThreeFold Token
-ThreeFold Tokens can be bought from any of the ThreeFold Farmers or by means of Ripple, Ethereum or Bitcoin using the ThreeFold Exchange. The ThreeFold Grid launched at the end of March 2018 and the first group of ThreeFold Farmers agreed to sell Tokens at a price higher than US $0.10 per Token for the first month. This ensured a Token launching price of $0.10.  
+ThreeFold Tokens can be bought from any of the ThreeFold Farmers or through Ripple, Ethereum or Bitcoin using the ThreeFold Exchange. The ThreeFold Grid launched at the end of March 2018 and the first group of ThreeFold Farmers agreed to sell Tokens at a price higher than US $0.10 per Token for the first month. This ensured a Token launching price of $0.10.  
 
 ### Utility Driven
 The ThreeFold Token has tangible, intrinsic value as it is backed by the internet capacity on the ThreeFold Grid. 
@@ -11,8 +11,8 @@ The community will have access to all metrics of the ThreeFold Grid required to 
 
 ### Economic value
 
-Given the nature of the issuance model, amount of tokens issued by the grid to the new farmers are always smaller than the amount of real capacity connected to the Grid. 
-Due to this fact, amount of tokens required to support liquidity on the market is growing faster, than the tokens available. As a result, with time every single token is getting more economic value behind.  
+Given the nature of the issuance model, the number of tokens issued by the grid to the new farmers is always smaller than the amount of real capacity connected to the Grid. 
+Due to this fact, the amount of tokens required to support liquidity on the market is growing faster, than the tokens available. As a result, with time every single token is getting more economic value behind.  
 
 # Token Issuance Economy
 
@@ -22,9 +22,9 @@ Due to this fact, amount of tokens required to support liquidity on the market i
 
 1. Hardware connected to the ThreeFold Grid by installing Zero-OS
 2. Decentralized blockchain issues specific amount of ThreeFold Tokens (TFT) every month to the hardware owner to the wallet, specified wallet
-3. Farmer can keep TFT for some time or sell to anybody else.
-4. Anybody can buy TFT on open market or directly from farmers
-5. When somebody wants to run workloads on farmer’s hardware, in order to reserve capacity he should use TFT. After reservation, TFT goes back to farmer.
-6. Anyone can buy TFT on open market or directly from farmer.
+3. Farmers can keep TFT for some time or sell to anybody else.
+4. Anybody can buy TFT on an open market or directly from farmers
+5. When somebody wants to run workloads on farmer’s hardware, to reserve capacity he should use TFT. After reservation, TFT goes back to the farmer.
+6. Anyone can buy TFT on an open market or directly from a farmer.
 
 References: [Commercial value of a ThreeFold Token (TFT)](https://info.grid.tf/#/concepts/commercial_token_value_calculation)
