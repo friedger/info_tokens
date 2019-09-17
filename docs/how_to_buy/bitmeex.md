@@ -2,14 +2,14 @@
 
 Bitmeex.pro is the cryptocurrency exchange that supports ThreeFold tokens.
  
-Bitmeex offers following trading options: 
+Bitmeex offers the following trading options: 
 - TFT-BTC
 - TFT-USD
 - TFT-EUR
 - TFT-AED
 
-In order to buy TFT you should have Bitcoins or USD/EUR/AED on your bank account.
-The following steps required in order to buy and sell ThreeFold tokens using BITMEEX.pro:
+To buy TFT you should have Bitcoins or USD/EUR/AED on your bank account.
+The following steps are required to buy and sell ThreeFold tokens using BITMEEX.pro:
 - [Registration](#registration)
 - [Login](#login)
 - [Verification](#verification)
@@ -23,8 +23,8 @@ The following steps required in order to buy and sell ThreeFold tokens using BIT
 
 ## Registration
  
-Registration on the [BITMEEX.pro](http://bitmeex.pro) exchange is more difficult than [BTC-Alpha](../how_to_buy/btc-alpha.md), because you need to provide your email address, password and verification procedures required.
-In order to register go to their [Sign Up](https://my.bitmeex.pro/registration) page:
+Registration on the [BITMEEX.pro](http://bitmeex.pro) exchange is more difficult than [BTC-Alpha](../how_to_buy/btc-alpha.md), because you need to provide your email address, password, and verification procedures required.
+To register, go to their [Sign Up](https://my.bitmeex.pro/registration) page:
 
 ![Registration](../img/bitmeex-1-registration.png)
  
@@ -44,7 +44,7 @@ Once you finished registration, log in to your account using your email address 
 
 ## Verification
 
-To complete verification and use the exchange you need to follow next steps:
+To complete verification and use the exchange you need to follow the next steps:
 
 - Go to your [Profile](https://my.bitmeex.pro/profile) page:
 
@@ -55,11 +55,11 @@ To complete verification and use the exchange you need to follow next steps:
 ![verification](../img/bitmeex-5-verification-tab.png)
 
 - Confirm your phone number [(1, 1.1)](#verificationscreenshot)
-- Choose type of your ID document [(2)](#verificationscreenshot)
-- Upload chosen type of your document [(3)](#verificationscreenshot)
-- Choose type of document "Proof of residency" [(4)](#verificationscreenshot)
-- Upload chosen type of document "Proof of residency" [(5)](#verificationscreenshot)
-- Upload your selfie with your ID and piece of paper with date of verification request [(6)](#verificationscreenshot)
+- Choose the type of your ID document [(2)](#verificationscreenshot)
+- Upload the chosen type of your document [(3)](#verificationscreenshot)
+- Choose the type of document "Proof of residency" [(4)](#verificationscreenshot)
+- Upload the chosen type of document "Proof of residency" [(5)](#verificationscreenshot)
+- Upload your selfie with your ID and piece of paper with the date of verification request [(6)](#verificationscreenshot)
 
 <a id='verificationscreenshot'></a>
 
@@ -73,7 +73,7 @@ To complete verification and use the exchange you need to follow next steps:
 
 ## Deposit BTC
 
-To deposit BTC to BITMEEX.pro you need to follow next steps:
+To deposit BTC to BITMEEX.pro you need to follow the next steps:
 
 - On the [eWallet](https://my.bitmeex.pro/account) page click **Deposit** in the **BTC** cell:
 
@@ -115,7 +115,7 @@ Here are the steps to deposit USD/EUR/AED to your BITMEEX.pro account:
 
 ![Deposit USD](../img/bitmeex-12-usd-deposit.png)
 
-- Confirm type of transaction:
+- Confirm the type of transaction:
 
 ![Confirm USD](../img/bitmeex-13-usd-proceed.png)
 
