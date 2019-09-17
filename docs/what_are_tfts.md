@@ -19,7 +19,7 @@ ThreeFold Tokens are produced through a process called farming.
 
 Farming happens when internet capacity is added to the ThreeFold Grid.
 
-Independent farmers earn ThreeFold Tokens by providing neutral and decentralized internet capacity, thus expending the usable Grid. Therefor no central entity controls the internet.
+Independent farmers earn ThreeFold Tokens by providing neutral and decentralized internet capacity, thus expending the usable Grid. Therefore no central entity controls the internet.
 
 ![](/img/no_central_entity-800.png)
 
@@ -60,7 +60,7 @@ Rivine, ThreeFold's blockchain...
 
 ![](/img/rivine-800.png)
 
-A perfect platform for any financial transaction, especially suited for micro transactions, and it is endlessly scalable thanks for the farmers joining the Grid.
+A perfect platform for any financial transaction, especially suited for microtransactions, and it is endlessly scalable thanks to the farmers joining the Grid.
 
 ![](/img/perfect_platform-800.png)
 
