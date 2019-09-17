@@ -18,7 +18,7 @@ So once you have acquired Bitcoins, go through following steps to buy and sell T
 - [Withdraw TFT](#withdraw)
 - [Deposit TFT](#deposit-tft)
 
-> As indicated here below in the section [Withdraw TFT](#withdraw), we highly recommend that you also install the [ThreeFold App](/threefold_app.md) to keep your ThreeFord Tokens offline in your ThreeFold App wallet.
+> As indicated here below in the section [Withdraw TFT](#withdraw), we highly recommend that you also install the [ThreeFold App](/threefold_app.md) to keep your ThreeFold Tokens offline in your ThreeFold App wallet.
 
 
 <a id='registration'></a>
