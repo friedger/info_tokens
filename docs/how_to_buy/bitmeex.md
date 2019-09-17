@@ -1,6 +1,6 @@
 # Using BITMEEX.pro
 
-Bitmeex.pro is the cryptocurrency exchange that supports ThreeFold tokens.
+Bitmeex.pro is the cryptocurrency exchange that supports ThreeFold Tokens.
  
 Bitmeex offers the following trading options: 
 - TFT-BTC
@@ -9,7 +9,7 @@ Bitmeex offers the following trading options:
 - TFT-AED
 
 To buy TFT you should have Bitcoins or USD/EUR/AED on your bank account.
-The following steps are required to buy and sell ThreeFold tokens using BITMEEX.pro:
+The following steps are required to buy and sell ThreeFold Tokens using BITMEEX.pro:
 - [Registration](#registration)
 - [Login](#login)
 - [Verification](#verification)
