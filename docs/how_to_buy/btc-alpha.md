@@ -2,13 +2,13 @@
 
 BTC-Alpha is the first online cryptocurrency exchange that supports ThreeFold tokens.
 
-They actually offer following trading options: 
+They offer the following trading options: 
 - [TFT-BTC](https://btc-alpha.com/exchange/TFT_BTC/)
 - [TFT-USD](https://btc-alpha.com/exchange/TFT_USD/)
 
-While BTC-Alpha supports buying ThreeFold tokens with USD (second option here above), we recommend that you first acquire Bitcoins as indicated in [Buy ThreeFold tokens from an online exchange](/how_to_buy/buy_from_exchange.md), and then exchange Bitcoins for ThreeFold tokens (the first option here above).
+While BTC-Alpha supports buying ThreeFold Tokens with USD (second option here above), we recommend that you first acquire Bitcoins as indicated in [Buy ThreeFold Tokens from an online exchange](/how_to_buy/buy_from_exchange.md), and then exchange Bitcoins for ThreeFold Tokens (the first option here above).
 
-So once you have acquired Bitcoins, go through following steps to buy and sell ThreeFold tokens using BTC-Alpha:
+So once you have acquired Bitcoins, go through following steps to buy and sell ThreeFold Tokens using BTC-Alpha:
 - [Registration](#registration)
 - [Login](#login)
 - [Enable two-factor authentication](#two-factor)
@@ -18,7 +18,7 @@ So once you have acquired Bitcoins, go through following steps to buy and sell T
 - [Withdraw TFT](#withdraw)
 - [Deposit TFT](#deposit-tft)
 
-> As indicated here below in the section [Withdraw TFT](#withdraw), we highly recommend that you also install the [ThreeFold App](/threefold_app.md) in order to keep your ThreeFord tokens offline in your ThreeFold App wallet.
+> As indicated here below in the section [Withdraw TFT](#withdraw), we highly recommend that you also install the [ThreeFold App](/threefold_app.md) to keep your ThreeFord Tokens offline in your ThreeFold App wallet.
 
 
 <a id='registration'></a>
@@ -27,7 +27,7 @@ So once you have acquired Bitcoins, go through following steps to buy and sell T
 
 Registration to the [BTC-Alpha](http://btc-alpha.com) exchange is simple, you only need to provide your email address and a password, so no complex verification procedures required. 
 
-In order to register go to their [Sign Up](https://btc-alpha.com/accounts/register) page:
+To register, go to their [Sign Up](https://btc-alpha.com/accounts/register) page:
 
 ![Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-registration.png)
 
@@ -51,12 +51,12 @@ Once you finished registration, log in to your account using your email address 
 
 It is highly recommended to enable two-factor authentication (2FA) for your BTC-Alpha account.
 
-In order to do that first install **Authy** or **Google Authenticator** on your mobile phone:
+To do that, first install **Authy** or **Google Authenticator** on your mobile phone:
     - https://authy.com/download/
     - https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en
     - https://itunes.apple.com/ae/app/google-authenticator/id388497605?mt=8
 
-Then configure 2FA by go through the process on **TWO FACTOR AUTH** page:
+Then configure 2FA by going through the process on **TWO FACTOR AUTH** page:
 
 ![Two Factor Auth](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-two-factor.png)
 
@@ -65,7 +65,7 @@ Then configure 2FA by go through the process on **TWO FACTOR AUTH** page:
 
 ## Deposit BTC
 
-First we will transfer Bitcoins to your BTC wallet at BTC-Alpha, which we will then use to buy TFT.
+First, we will transfer Bitcoins to your BTC wallet at BTC-Alpha, which we will then use to buy TFT.
 
 Here are the steps to transfer Bitcoins into your BTC wallet at BTC-Alpha:
 
@@ -81,7 +81,7 @@ Here are the steps to transfer Bitcoins into your BTC wallet at BTC-Alpha:
 
 ![BTC](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-btc-deposit2.png)
 
-You can use this address from any other online cryptocurrency exchange such as [Kraken](https://www.kraken.com) to transfer Bitcoins to your Bitcoin wallet at BTC-Alpha. If you don't own yet any Bitcoins, you should first register at one of online cryptocurrency exchanges such as [Kraken](https://www.kraken.com), deposit fiat money and by buy Bitcoins.
+You can use this address from any other online cryptocurrency exchange such as [Kraken](https://www.kraken.com) to transfer Bitcoins to your Bitcoin wallet at BTC-Alpha. If you don't own yet any Bitcoins, you should first register at one of the online cryptocurrency exchanges such as [Kraken](https://www.kraken.com), deposit fiat money and buy Bitcoins.
 
 4. Wait until the transaction is fully processed, this typically takes up to 40 minutes.
 
@@ -95,21 +95,21 @@ On the main screen you will see several sections:
 
 1. **List of all markets** You can type TFT to easily find the TFT market.
 
-2. **Central part of the screen shows price charts and market movements** Please read more about [candlestick chart](https://www.investopedia.com/terms/c/candlestick.asp) if you want to understand better how to read the chart. 
+2. **The central part of the screen shows price charts and market movements** Please read more about [candlestick chart](https://www.investopedia.com/terms/c/candlestick.asp) if you want to understand better how to read the chart. 
 
 3. **Chat, Twitter & Wallets section** You can change between the three by clicking on a top panel.
 
-4. **List of all sell orders currently available on the market** Please note that price is set in BTC if you select BTC market. 
+4. **List of all sell orders currently available on the market** Please note that price is set in BTC if you select the BTC market. 
 
-5. **Window where you can put your buy order** Here you set amount, price, and click **Buy**. You can automatically pre-populate the field by clicking on a specific SELL order. Order will be executed automatically as soon as it will match corresponding sell order.
+5. **The window where you can put your buy order** Here you set the amount, price, and click **Buy**. You can automatically pre-populate the field by clicking on a specific SELL order. The order will be executed automatically as soon as it will match the corresponding sell order.
 
-6. **Window where you can put your sell order** You set amount, price, and click **Sell**. You can automatically pre-populate the field by clicking on a specific BUY order. Order will be executed automatically as soon as it will match corresponding buy order.
+6. **The Window where you can put your sell order** Here you set the amount, price, and click **Sell**. You can automatically pre-populate the field by clicking on a specific BUY order. The order will be executed automatically as soon as it will match the corresponding buy order.
 
-7. **List of all buy orders currently available on the market** Please note that price is set in BTC if you select BTC market.
+7. **List of all buy orders currently available on the market** Please note that price is set in BTC if you select the BTC market.
 
 8. **List of your active orders** If your order will not be matched and executed immediately, it will be visible in this section. You can cancel your standing orders at any time.
 
-9. **List of all recent deals on the market with their price, size and date** 
+9. **List of all recent deals on the market with their price, size, and date** 
 
 
 <a id='buy-tft'></a>
@@ -120,7 +120,7 @@ On the main screen you will see several sections:
 
 2. Click on BTC markets in [Panel 1](#exchange-panel) and go to BTC-TFT market
 
-3. Enter amount of TFT to buy in [Panel 5](#exchange-panel)
+3. Enter the amount of TFT to buy in [Panel 5](#exchange-panel)
 
 4. Enter the desired price in Bitcoins or pick up the price from sell orders in [Panel 4](#exchange-panel)
 
@@ -131,9 +131,9 @@ On the main screen you will see several sections:
 
 ## Withdraw TFT
 
-> It is not recommended to keep your ThreeFold tokens permanently in an online TFT wallet, as provided by online cryptocurrency exchanges such as BTC-Alpha, because online wallets are more likely to get hacked than offline wallets. Instead we highly recommended to keep your ThreeFold tokens in an offline TFT wallet, such as the one provided with the ThreeFold App.
+> It is not recommended to keep your ThreeFold Tokens permanently in an online TFT wallet, as provided by online cryptocurrency exchanges such as BTC-Alpha, because online wallets are more likely to get hacked than offline wallets. Instead, we highly recommended keeping your ThreeFold Tokens in an offline TFT wallet, such as the one provided with the ThreeFold App.
 
-In order to withdraw your ThreeFold tokens from your online TFT wallet on BTC-Alpha go through the following steps:
+To withdraw your ThreeFold Tokens from your online TFT wallet on BTC-Alpha go through the following steps:
 
 1. Make sure you have the ThreeFold app installed as documented in [Token Trade using the ThreeFold App](/threefold_app.md) and have the address of your ThreeFold App wallet copied, as documented in the [Receive tokens](/threefold_app.md#receive) section
 
@@ -152,7 +152,7 @@ In order to withdraw your ThreeFold tokens from your online TFT wallet on BTC-Al
 
 ## Deposit TFT
 
-Alternatively to buying TFT as documented above in [Buy TFT](#buy-tft), you can also deposit TFT from any other TFT wallets, for instance from your ThreeFold app wallet. 
+Alternatively, to buying TFT as documented above in [Buy TFT](#buy-tft), you can also deposit TFT from any other TFT wallets, for instance from your ThreeFold app wallet. 
 
 Here are the steps:
 
@@ -164,7 +164,7 @@ Here are the steps:
 
 ![TFT](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-tft-deposit.png)
 
-3. Copy your TFT address and send your deposit there. You can scan QR code of the address from your mobile phone. Or you can copy the full text address from a chat message for instance. 
+3. Copy your TFT address and send your deposit there. You can scan the QR code of the address from your mobile phone. Or you can copy the full-text address from a chat message for instance. 
 
 4. Send your TFT to BTC-Alpha from your ThreeFold app wallet using the following address: 
 
