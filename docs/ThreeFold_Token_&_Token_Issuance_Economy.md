@@ -12,7 +12,7 @@ The community will have access to all metrics of the ThreeFold Grid required to 
 ### Economic value
 
 Given the nature of the issuance model, the number of tokens issued by the grid to the new farmers is always smaller than the amount of real capacity connected to the Grid. 
-Due to this fact, the amount of tokens required to support liquidity on the market is growing faster, than the tokens available. As a result, with time every single token is getting more economic value behind.  
+Due to this fact, the amount of tokens required to support liquidity on the market is growing faster than the tokens available. As a result, with time every single token is getting more economic value behind.  
 
 # Token Issuance Economy
 
