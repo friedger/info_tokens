@@ -48,12 +48,6 @@ No wasteful mining takes place and all farming is useable as internet capacity.
 
 ![](/img/no_waste-800.png)
 
-## No ICO
-
-![](/img/no_ico-800.png)
-
-ThreeFold tokens were conceived as the designated currency for buying and selling capacity on the ThreeFold Grid.
-
 ## Rivine
 
 Rivine, ThreeFold's blockchain...
@@ -86,8 +80,3 @@ Very low, only one cent.
 ThreeFold tokens consume a fraction of the power of other platforms.
 
 
-## What sets ThreeFold token apart...
-
-![](/img/set_apart-800.png)
-
-> ThreeFold Token is a digital currency or **utility token** backed by the ThreeFold neutral and decentralized grid of sustainable compute and storage capacity. ThreeFold tokens are farmed by adding capacity to this grid. The ThreeFold grid can ultimately issue a maximum of 100 billion tokens.
