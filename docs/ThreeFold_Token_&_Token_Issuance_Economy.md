@@ -38,5 +38,4 @@ Given the nature of the issuance model, the number of tokens issued by the grid 
 5. When somebody wants to run workloads on farmer’s hardware, to reserve capacity he should use TFT. After reservation, TFT goes back to the farmer.
 6. Anyone can buy TFT on an open market or directly from a farmer.
 
-References: [Commercial value of a ThreeFold Token (TFT)](https://info.grid.tf/#/concepts/commercial_token_value_calculation)
 
