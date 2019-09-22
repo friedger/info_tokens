@@ -1,8 +1,10 @@
 # What are ThreeFold Tokens?
 
-> ThreeFold Token (TFT) is a decentralized, neutral and secure digital currency.
+> ThreeFold Token (TFT) is a digital currency used to buy autonomous and decentralized Internet services (compute, storage, and application) on the ThreeFold Network.
 
-> ThreeFold Token is backed by the fastest growing commodity in the world, the internet.
+> A TFT represents a unit of reservation of autonomous Internet capacity on the ThreeFold Network. 
+
+> The TFT economy is supported by the fastest growing commodity in the world, the internet.
 
 Watch the YouTube video on ThreeFold Tokens:
 
@@ -13,7 +15,7 @@ Watch the YouTube video on ThreeFold Tokens:
 
 ## Farming
 
-ThreeFold Tokens are produced through a process called farming.
+ThreeFold Tokens are generated through a process called farming.
 
 ![](/img/farming-800.png)
 
@@ -26,7 +28,7 @@ Independent farmers earn ThreeFold Tokens by providing neutral and decentralized
 
 ## Decentralized, Neutral & Secure
 
-The ThreeFold Grid and ThreeFold Tokens are decentralized, neutral and secure.
+The ThreeFold Grid and ThreeFold Tokens are autonomous and decentralized making them neutral, energy efficient and secure.
 
 ![](/img/decentralized_neutral_secure-800.png)
 
@@ -50,11 +52,11 @@ No wasteful mining takes place and all farming is useable as internet capacity.
 
 ## Rivine
 
-Rivine, ThreeFold's blockchain...
+Rivine, ThreeFold's blockchain is a Proof of Blockstake protocol that powers the TFT. 
 
 ![](/img/rivine-800.png)
 
-A perfect platform for any financial transaction, especially suited for microtransactions, and it is endlessly scalable thanks to the farmers joining the Grid.
+A perfect platform for any financial transaction, especially suited for microtransactions, and it is endlessly scalable thanks to the farmers joining the Grid and the autonomous layer driving the ThreeFold Network.
 
 ![](/img/perfect_platform-800.png)
 
@@ -77,6 +79,6 @@ Very low, only one cent.
 
 ![](/img/green-800.png)
 
-ThreeFold tokens consume a fraction of the power of other platforms.
+TFTs consume a fraction of the power of other platforms.
 
 
