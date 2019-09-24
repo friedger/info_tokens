@@ -33,8 +33,6 @@ For additional information, please refer to our official channels:
 
 - FreeFlowPages: [ThreeFold Tokens Space](https://freeflowpages.com/s/tf-tokens/)
 
-- Token website: [tftokens.com](https://threefold.io/tokens/)
-
 - Whitepaper: [docs.google.com/document/d/16C3EKKBaK4_DyWFUcvdLnvDyN57h77e0Q1mWMpZL5vc/edit](https://docs.google.com/document/d/16C3EKKBaK4_DyWFUcvdLnvDyN57h77e0Q1mWMpZL5vc/edit)
 
 - YouTube channel: [youtube.com/c/ThreeFoldFoundation](https://www.youtube.com/c/ThreeFoldFoundation)
