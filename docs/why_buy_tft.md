@@ -2,20 +2,21 @@
 
 ThreeFold Token (TFT) is a decentralized digital currency  used to buy autonomous and decentralized Internet services (compute, storage, applications) on the ThreeFold Network – generated only when active capacity is added to the ThreeFold Grid.
 
-## Utility Driven 
+# Utility Driven 
 ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-benefits-01.png)
 
-The ThreeFold Token represents a unit of reservation of autonomous Internet capacity. 
+TFTs are the exclusive medium of exchange, generated only when active capacity is added to the ThreeFold Grid. The ThreeFold Token represents a unit of reservation of autonomous Internet capacity.
 
 ## Friendly to The Planet
 ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-benefits-02.png)
 
-The ThreeFold Token is generated a result of adding active internet capacity. We call this process farming. The ThreeFold's blockchain is 100% energy efficient. The produced internet capacity uses up to 10 times less energy, it removes the need for centralized power-hungry data centers.
+The ThreeFold Token is only generated as a result of adding active internet capacity (Farming) to the network and is completely consensus-driven (no mining).
 
-## Reliable & Secure 
+## Autonomous & Scalable 
 ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-benefits-05.png)
 
-The ThreeFold Blockchain does not suffer from the “Blockchain Dilemma Problem”. Our blockchain is fast, scalable and secure at the same time, which is to date not possible with other blockchain technologies. This is a major breakthrough.
+ThreeFold’s Network utilizes an autonomous layer; comprised of decentralized and autonomous agents (3Bots) that act as a neutral and secure system admins to manage the network nodes and the execution of transactions. 
+
 
 # How to buy and store ThreeFold Tokens
 
