@@ -1,6 +1,8 @@
 # Why buy ThreeFold tokens?
 
-ThreeFold Token (TFT) is a decentralized digital currency  used to buy autonomous and decentralized Internet services (compute, storage, applications) on the ThreeFold Network – generated only when active capacity is added to the ThreeFold Grid.
+ThreeFold Token (TFT) is not your average decentralized digital currency. TFT's are supported by a tangible underlying economy of autonomous and decentralized Internet infrastructure and services called the ThreeFold Network (compute, storage, applications). The TFT is woven into the fabric of powering and securing the entire network and is driven by an autonomous network layer for a secure,globally scalable, low cost, peer to peer, and inclusive. 
+
+ThreeFold Tokens (TFT) are a decentralized digital currency used to buy autonomous and decentralized Internet services (compute, storage, applications) on the ThreeFold Network – generated only when active capacity is added to the ThreeFold Grid.
 
 ## Utility Driven 
 ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-benefits-01.png)
@@ -72,5 +74,6 @@ This method is only recommended for technically skilled users. Core Client for T
 
 Take a look at purchase options and guidance 
 [How to buy ThreeFold tokens](/how_to_buy/README.md)
+
 
 
