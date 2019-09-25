@@ -2,20 +2,40 @@
 
 ThreeFold Token (TFT) is a decentralized digital currency  used to buy autonomous and decentralized Internet services (compute, storage, applications) on the ThreeFold Network – generated only when active capacity is added to the ThreeFold Grid.
 
-# Utility Driven 
+## Utility Driven 
 ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-benefits-01.png)
 
 TFTs are the exclusive medium of exchange, generated only when active capacity is added to the ThreeFold Grid. The ThreeFold Token represents a unit of reservation of autonomous Internet capacity.
+
+## Autonomous & Scalable 
+![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-benefits-05.png)
+
+ThreeFold’s Network utilizes an autonomous layer; comprised of decentralized and autonomous agents (3Bots) that act as a neutral and secure system admins to manage the network nodes and the execution of transactions. 
+
 
 ## Friendly to The Planet
 ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-benefits-02.png)
 
 The ThreeFold Token is only generated as a result of adding active internet capacity (Farming) to the network and is completely consensus-driven (no mining).
 
-## Autonomous & Scalable 
-![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-benefits-05.png)
+## Fast & Scalable 
 
-ThreeFold’s Network utilizes an autonomous layer; comprised of decentralized and autonomous agents (3Bots) that act as a neutral and secure system admins to manage the network nodes and the execution of transactions. 
+![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-util-01.png)
+
+High transaction volumes including a capacity to support microtransactions without compromising speed and performance.
+
+## Low Fees & Liquid
+
+![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-util-02.png)
+
+Low network fees along with high liquidity availability to help your initiative thrive, min fee 0.01 USD (1 cent).
+
+## Valuable Ecosystem
+
+![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-util-03.png)
+
+Dedicated decentralized nodes power the ThreeFold Token and it is supported by actual physical internet infrastructure.
+
 
 
 # How to buy and store ThreeFold Tokens
@@ -53,20 +73,4 @@ This method is only recommended for technically skilled users. Core Client for T
 Take a look at purchase options and guidance 
 [How to buy ThreeFold tokens](/how_to_buy/README.md)
 
-## Fast & Scalable 
 
-![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-util-01.png)
-
-High transaction volumes including a capacity to support microtransactions without compromising speed and performance.
-
-## Low Fees & Liquid
-
-![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-util-02.png)
-
-Low network fees along with high liquidity availability to help your initiative thrive, min fee 0.01 USD (1 cent).
-
-## Secure & Valuable
-
-![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-util-03.png)
-
-Dedicated decentralized nodes power the ThreeFold Token and it is backed by internet capacity.
