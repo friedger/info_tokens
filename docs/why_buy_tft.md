@@ -18,7 +18,7 @@ ThreeFold’s Network utilizes an autonomous layer; comprised of decentralized a
 
 The ThreeFold Token is only generated as a result of adding active internet capacity (Farming) to the network and is completely consensus-driven (no mining).
 
-## Fast & Scalable 
+## Fast 
 
 ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-util-01.png)
 
