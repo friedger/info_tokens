@@ -1,10 +1,8 @@
-# What are ThreeFold Tokens?
+![](https://github.com/threefoldfoundation/info_tokens/blob/master/docs/img/Token%20Wiki.png)
 
-> ThreeFold Token (TFT) is a digital currency used to buy autonomous and decentralized Internet services (compute, storage, and application) on the ThreeFold Network.
+# What are ThreeFold Tokens (TFT)?
 
-> A TFT represents a unit of reservation of autonomous Internet capacity on the ThreeFold Network. 
-
-> The TFT economy is supported by the fastest growing commodity in the world, the internet.
+ThreeFold Token (TFT) is a decentralized digital currency used to buy autonomous and decentralized Internet services (compute, storage, and application) on the ThreeFold Network. A TFT represents a unit of reservation of autonomous Internet capacity on the ThreeFold Network. The TFT is supported by the fastest growing commodity in the world, the Internet.
 
 Watch the YouTube video on ThreeFold Tokens:
 
