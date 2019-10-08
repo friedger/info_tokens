@@ -1,4 +1,5 @@
 
+![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/development/docs/img/Screen Title Truly Decentralized.png)
 
 # ThreeFold Token
 
