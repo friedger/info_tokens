@@ -1,3 +1,5 @@
+
+
 # ThreeFold Token
 
 ThreeFold Token (TFT) is a decentralized digital currency used to buy autonomous and decentralized Internet services (compute, storage, and application) on the ThreeFold Network. 
@@ -9,9 +11,6 @@ Internet capacity is the world's fastest growing commodity, and the TFT is suppo
 ### Where to get TFTs
 ThreeFold Tokens (TFT) can be bought from any of the ThreeFold Farmers, active digital currency exchanges or through users on our own native decentralized exchange (DEX). For more information please visit [threefold.io](threefold.io)
 
-### Origin Story  
-
-The ThreeFold Network launched live at the end of March 2018 and the first group of ThreeFold Founding Farmers, collectively agreed to sell tokens (TFT) at a price higher than the US $0.10 per token for the first month. This ensured a token launching price of $0.10 and a community driven, decentralized agreement of launch value.  
 
 ### Utility Driven
 
