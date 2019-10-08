@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/development/docs/img/Screen Title Truly Decentralized.png)
+![](https://github.com/threefoldfoundation/info_tokens/blob/master/docs/img/Screen%20Title%20Truly%20Decentralized.png)
 
 # ThreeFold Token
 
