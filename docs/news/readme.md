@@ -5,7 +5,7 @@ each news message is structured as follows
 ```toml
 author = ""
 date= "20/06/2019"
-header = "TF will launch ..."
+title = "TF will launch ..."
 detail = """
   the news text
   multiple lines
