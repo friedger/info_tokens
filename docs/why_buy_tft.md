@@ -15,11 +15,6 @@ ThreeFold Tokens (TFT) are a decentralized digital currency used to buy autonomo
 
 TFTs are the exclusive medium of exchange, generated only when active capacity is added to the ThreeFold Grid. The ThreeFold Token represents a unit of reservation of autonomous Internet capacity.
 
-## Autonomous & Scalable 
-![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-benefits-05.png)
-
-ThreeFold’s Network utilizes an autonomous layer; comprised of decentralized and autonomous agents (3Bots) that act as a neutral and secure system admins to manage the network nodes and the execution of transactions. 
-
 
 ## Fast 
 
