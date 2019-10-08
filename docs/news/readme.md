@@ -3,7 +3,7 @@
 each news message is structured as follows
 
 ```toml
-author = ""
+author = "kristof"
 date= "20/06/2019"
 title = "TF will launch ..."
 detail = """
