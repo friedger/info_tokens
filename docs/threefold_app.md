@@ -1,3 +1,7 @@
+
+!![](https://github.com/threefoldfoundation/info_tokens/blob/master/docs/img/Wallet%20Title%20Screen.png)
+
+
 # Using the ThreeFold App
 
 ThreeFold created a ThreeFold App, available for iOS and Android phones. This ThreeFold App includes a ThreeFold Wallet for safely keeping your ThreeFold Tokens offline, and receiving and sending ThreeFold Tokens from/to other offline and online wallets.  
