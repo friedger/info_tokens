@@ -1,4 +1,4 @@
-```toml
+
 author = "Sam"
 date= "01/10/2019"
 title = "We have signed on two agencies for support!"
@@ -8,4 +8,3 @@ detail = """
   strategic PR placements to exchange support & more, this will be a big
   help as we continue to navigate this space.
   """
-```
