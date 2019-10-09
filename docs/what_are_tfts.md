@@ -1,4 +1,4 @@
-![](https://github.com/threefoldfoundation/info_tokens/blob/master/docs/img/Token%20Wiki.png)
+![](img/tokenwiki.png)
 
 # What are ThreeFold Tokens (TFT)?
 
