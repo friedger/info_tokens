@@ -1,5 +1,5 @@
 
-!![](https://github.com/threefoldfoundation/info_tokens/blob/master/docs/img/Wallet%20Title%20Screen.png)
+!![](img/wallettitlescreen.png)
 
 
 # Using the ThreeFold App
