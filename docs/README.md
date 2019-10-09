@@ -1,5 +1,5 @@
 
-![](https://github.com/threefoldfoundation/info_tokens/blob/master/docs/img/Powering%20A%20Internet.png)
+![](img/powering-internet.png)
 
 
 # ThreeFold Tokens
