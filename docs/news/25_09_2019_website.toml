@@ -1,4 +1,4 @@
-```toml
+
 author = "Sam"
 date= "25/09/2019"
 title = "New website is live!"
@@ -7,4 +7,3 @@ detail = """
   and some new messaging. We think it helps us to simplify our story for
   new audiences. The ThreeFold Network is here!
   """
-```
