@@ -1,6 +1,6 @@
 
 
-![](/img/bitmeex-16-usd-exchange.png)
+![](/img/Title\ Slide\ Truly\ Decentralized.png)
 
 # Why buy ThreeFold Tokens (TFT)?
 
