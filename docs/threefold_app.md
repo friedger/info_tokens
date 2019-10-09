@@ -1,5 +1,5 @@
 
-!![](img/wallettitlescreen.png)
+![](img/wallettitlescreen.png)
 
 
 # Using the ThreeFold App
