@@ -12,7 +12,7 @@ ThreeFold Network is uniquely positioned to empower the cloud and blockchain mar
 ThreeFold Tokens (TFT) are a decentralized digital currency used to buy autonomous and decentralized Internet services (compute, storage, applications) on the ThreeFold Network – generated only when active capacity is added to the ThreeFold Gri.
 
 
-![](img/TFT\ Benefits\ Title.png)
+![](img/tftbenefitstitle.png)
 
 ### Additional Benefits
 
