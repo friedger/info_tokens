@@ -1,6 +1,6 @@
 
 
-![](/img/Title_Slide_Truly_Decentralized.png)
+![](/img/title-slide-truly-decentralized.png)
 
 # Why buy ThreeFold Tokens (TFT)?
 
