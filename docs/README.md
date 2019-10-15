@@ -4,7 +4,6 @@
 
 # ThreeFold Tokens
 
-![](img/tft.png)
  
 ## New to ThreeFold?
 
