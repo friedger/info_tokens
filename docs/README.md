@@ -2,8 +2,6 @@
 ![](img/powering-internet.png)
 
 
-# ThreeFold Tokens
-
  
 ## New to ThreeFold?
 
