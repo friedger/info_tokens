@@ -1,10 +1,14 @@
+
+![](img/wallettitlescreen.png)
+
+
 # Using the ThreeFold App
 
-ThreeFold created a ThreeFold app, available for iOS and Android phones. This ThreeFold app includes a ThreeFold wallet for safely keeping your ThreeFold tokens offline, and receiving and sending ThreeFold tokens from/to other offline and online wallets.  
+ThreeFold created a ThreeFold App, available for iOS and Android phones. This ThreeFold App includes a ThreeFold Wallet for safely keeping your ThreeFold Tokens offline, and receiving and sending ThreeFold Tokens from/to other offline and online wallets.  
 
-The ThreeFold app allows you to manage multiple ThreeFold wallets and addresses at the same time.
+The ThreeFold App allows you to manage multiple ThreeFold Wallets and addresses at the same time.
 
-Follow the steps below in order to setup your ThreeFold wallet, and receive and send your first ThreeFold tokens:
+Follow the steps below to set up your ThreeFold Wallet, and receive and send your first ThreeFold Tokens:
 
 - [Registration and login](#iyo)
 - [Set your PIN code](#pin)
@@ -18,14 +22,14 @@ Follow the steps below in order to setup your ThreeFold wallet, and receive and 
 
 ## Registration and login
 
-In order to use the ThreeFold app you simply need to download the ThreeFold app available in the Appstore or Google Play Store. Register using your email address 
+To use the ThreeFold App you simply need to download the ThreeFold App available in the Appstore or Google Play Store. Register using your email address 
 
 
 <a id='pin'><a>
 
 ## Set your PIN code
 
-After having registered on your ThreeFold app, your next step will be to set a PIN code, which you'll need later each time when you start the ThreeFold app, and access your ThreeFold wallet.
+After having registered on your ThreeFold App, your next step will be to set a PIN code, which you'll need later each time when you start the ThreeFold App, and access your ThreeFold Wallet.
 
 ![PIN](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-pin-300.jpg)
 
@@ -34,9 +38,9 @@ After having registered on your ThreeFold app, your next step will be to set a P
 
 ## Get your Private Key
 
-After having set your PIN code, a private key will be created for you. This key is a unique combination 24 words, also referred to as a **seed**. 
+After having set your PIN code, a private key will be created for you. This key is a unique combination of 24 words, also referred to as a **seed**. 
 
-In order to access your private key, click **Settings** in the app menu:
+To access your private key, click **Settings** in the app menu:
 
 ![Settings](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-settings.png)
 
@@ -54,72 +58,72 @@ We recommend making a screenshot of this screen, print it on paper and store it 
 
 > **ThreeFold does not have any access to or maintain records of your private key. It is your personal responsibility to keep your 24-word private key in a safe place.**
 
-> **Do not share your private key with anyone, it is strictly personal. Loosing your private key, means loosing access to your Wallet and all your ThreeFold tokens.**
+> **Do not share your private key with anyone, it is strictly personal. Losing your private key means losing access to your wallet and all your ThreeFold Tokens.**
 
 > **Anybody with access to your private key can take ownership of your ThreeFold wallet and ThreeFold tokens**
 
-> **In order to access your wallet from another wallet (on another phone or online) you will need your private key (seed), without this private key your account cannot be recovered on another device or online wallet.**
+> **To access your wallet from another wallet (on another phone or online) you will need your private key (seed), without this private key your account cannot be recovered on another device or online wallet.**
 
 
 <a id='receive'><a>
 
 ## Receive tokens
 
-In order to acquire ThreeFold tokens you have basically two options:
-- Buy them on a public cryptocurrency exchange, such as BTC-Alpha, as documented here below in [Buying ThreeFold tokens using BTC-Alpha](#btc-alpha), and then transfer them from your online TFT wallet at BTC-Alpha to your offline ThreeFold app TFT wallet
-- Or receive ThreeFold tokens from someone who sends them to you from their online or offline TFT wallet, as documented here below in [Send tokens](#send)
+To acquire ThreeFold Tokens you have two options:
+- Buy them on a public cryptocurrency exchange, such as BTC-Alpha, as documented here below in [Buying ThreeFold tokens using BTC-Alpha](#btc-alpha), and then transfer them from your online TFT wallet at BTC-Alpha to your offline ThreeFold App TFT wallet
+- Or receive ThreeFold Tokens from someone who sends them to you from their online or offline TFT wallet, as documented here below in [Send tokens](#send)
 
-For both cases you need your offline TFT wallet address, which you can lookup in the ThreeFold app by navigating to your wallet from the navigation menu, and then clicking the **Receive** button:
+For both cases you need your offline TFT wallet address, which you can look up in the ThreeFold App by navigating to your wallet from the navigation menu, and then clicking the **Receive** button:
 
 ![Receive](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-receive-300.jpg)
 
 Here you see the TFT wallet address in two formats:
 - As a QR code, which can be scanned from the wallet app of the sender, as documented here below in [Send tokens](#send) 
-- Or in full text format, which can be copied by clicking it, and then paste the address into a chat or email message. 
+- Or in full-text format, which can be copied by clicking it, and then paste the address into a chat or email message. 
 
 
 <a id='send'><a>
 
 ## Send tokens
 
-Also sending ThreeFold tokens is simple. First navigate to your wallet from the ThreeFold app navigation menu, and then click the **Send** button:
+Also sending ThreeFold Tokens is simple. First, navigate to your wallet from the ThreeFold App navigation menu, and then click the **Send** button:
 
 ![Send](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-send-300.jpg)
 
-In order to specify TFT wallet address of the receiving party you have two options:
+To specify TFT wallet address of the receiving party you have two options:
 - Either scan the QR code from the sender
-- Or enter (copy/paste) the full text address 
+- Or enter (copy/paste) the full-text address 
 
-Next to the recipient address, enter the amount to send, and you're ready to go. 
+Next, to the recipient address, enter the amount to send, and you're ready to go. 
 
-> Current transaction fee is 0.1 TFT.
+> The current transaction fee is 0.1 TFT.
 
 
 <a id='transactions'><a>
 
 ## Transactions
 
-Next to receiving en sending tokens, your TFT wallet also keeps track of all your transactions, and your balance of course.
+Next, to receiving en sending tokens, your TFT wallet also keeps track of all your transactions and your balance of course.
 
 To see your balance click **Transactions** in your wallet:
 
 ![Transactions List](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-list-300.jpg)
 
-Under the number of ThreeFold tokens you own (your balance) you see all (send and receive) transactions. Clicking any of the transactions will show you all details of the transaction: 
+Under the number of ThreeFold Tokens you own (your balance) you see all (send and receive) transactions. Clicking any of the transactions will show you all the details of the transaction: 
 
 ![Transaction](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-300.jpg)
 
 
 <a id='btc-alpha'><a>
 
-## Buying ThreeFold tokens using BTC-Alpha
+## Buying ThreeFold Tokens using BTC-Alpha
 
-Next to receiving ThreeFold tokens from other ThreeFold app users, as documented [above](#receive), you can of course also buy ThreeFold tokens on public cryptocurrency exchanges, such as BTC-Alpha, which is actual the first one that offers ThreeFold tokens. See [Using BTC-Alpha](/how_to_buy/btc-alpha.md) for instructions on how to use BTC-Alpha. 
+Next to receiving ThreeFold Tokens from other ThreeFold App users, as documented [above](#receive), you can of course also buy ThreeFold Tokens on public cryptocurrency exchanges, such as BTC-Alpha, which is actually the first one that offers ThreeFold Tokens. See [Using BTC-Alpha](/how_to_buy/btc-alpha.md) for instructions on how to use BTC-Alpha. 
 
-A list of all public cryptocurrency exchanges that offer ThreeFold is available from within the ThreeFold app. You can access this list by clicking **Exchanges** from the ThreeFold app navigation menu:
+A list of all public cryptocurrency exchanges that offer ThreeFold is available from within the ThreeFold App. You can access this list by clicking **Exchanges** from the ThreeFold App navigation menu:
 
 ![Exchanges](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-300.jpg)
 
-Selecting one of the listed exchanges will show you all details, for instance here for BTC-Alpha you get a full user manual documenting all steps to buy ThreeFold tokens:
+Selecting one of the listed exchanges will show you all details, for instance here for BTC-Alpha you get a full user manual documenting all steps to buy ThreeFold Tokens:
 
 ![Exchanges Manual](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-manual-300.jpg)
