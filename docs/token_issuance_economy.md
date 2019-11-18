@@ -1,4 +1,4 @@
-![](img/Title%20Slide%20Truly%20Decentralized.png)
+![](img/TrulyDecentralized.png)
 
 # ThreeFold Token
 
