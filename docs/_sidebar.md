@@ -3,7 +3,7 @@
 * [Why buy ThreeFold Tokens?](why_buy_tft.md)
 * [How to buy ThreeFold Tokens](how_to_buy/README.md)
 * [Using the ThreeFold App](threefold_app.md)
-* [Value of the Token](token_issuance_economy.md)
+* [Value of the Token](ThreeFold_Token_&_Token_Issuance_Economy.md)
 * [Token Properties](token_properties.md)
 * [Technology](technology/README.md)
 * [FAQ](faq/README.md)
