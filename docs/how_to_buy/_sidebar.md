@@ -1,8 +1,2 @@
 * [Home](/)
 * [How to buy ThreeFold tokens](/how_to_buy/README.md)
-    * [From Mazraa farm](/how_to_buy/mazraa.md)
-    * [Buy from an online exchange](/how_to_buy/buy_from_exchange.md)
-    * [Using BTC-Alpha](/how_to_buy/btc-alpha.md) 
-    * [Using BITMEEX](/how_to_buy/bitmeex.md)
-    * [Atomic swaps](/how_to_buy/atomicswapslink.md)
-    * [Buy directly from farmers](/how_to_buy/buy_from_farmer.md)
