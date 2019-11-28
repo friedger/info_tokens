@@ -1,4 +1,4 @@
-![LogIn](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/liquid.png)
+![Liquid Exchange](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/liquid.png)
 
 # REGISTERING FOR OUR IEO 
 ## On the Liquid Exchange
