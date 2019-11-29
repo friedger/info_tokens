@@ -15,7 +15,7 @@ Why Register With the ThreeFold Link?
 We are seeking 1,000 registrations as a showing of our community and our ability to drive meaningful participation in the IEO. The IEO won’t happen until we hit this number, so this is super important. **Please note you are not fully registered until you verify your account.**
 
 ### How to Register
-1. [Click on this link](https://www.liquid.com?affiliate=kmOSQysu714987).
+1. [Click on this link](https://www.liquid.com?affiliate=kmOSQysu714987) (Please only use this refferal link to register). 
 *Note: You will be taken directly to Liquid’s main page. Don’t worry, the ThreeFold unique referral code is embedded in the URL (web address bar). Here’s a [video](https://vimeo.com/375504192/5ff16ed9dc) of what you’ll see.*
 2. Click on “Sign Up” in the top-right corner & follow the instructions.
 
