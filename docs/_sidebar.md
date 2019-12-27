@@ -5,7 +5,7 @@
 * [Wallet Options](wallet_options.md)
 * [Wallet: 3Bot App Version]()
 * [Wallet: ThreeFold App Version](threefold_app.md)
-* [Wallet: Desktop Version]()
+* [Wallet: Desktop Version](threefold-wallet-electron/blob/master/README.md)
 * [Wallet: Developer Version]()
 * [Value of the Token](token_issuance_economy.md)
 * [Token Properties](token_properties.md)
