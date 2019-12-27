@@ -2,7 +2,7 @@
 * [What are ThreeFold Tokens?](what_are_tfts.md)
 * [Why buy ThreeFold Tokens?](why_buy_tft.md)
 * [How to buy ThreeFold Tokens](how_to_buy/README.md)
-* [Wallet Options]()
+* [Wallet Options](wallet_options.md)
 * [Wallet: 3Bot App Version]()
 * [Wallet: ThreeFold App Version](threefold_app.md)
 * [Wallet: Desktop Version]()
