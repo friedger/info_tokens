@@ -10,11 +10,10 @@ Follow the steps below to set up your 3Bot Connect wallet, and receive and send 
 
 - [Registration and login](#st-1)
 - [Home page](#hp)
-- [Get your Private Key](#seed)
-- [Receive tokens](#receive)
-- [Send tokens](#send)
-- [Transactions](#transactions)
-- [Buying ThreeFold tokens using BTC-Alpha](#btc-alpha)
+- [Wallet](#wallet)
+- [Social](#social)
+- [Support](#support)
+- [settings](#settings)
 
 <a id='st-1'><a>
   
@@ -41,3 +40,29 @@ Finish this steps and choose your new pin, then confirm it and confirm your e-ma
 ## Home Page
 
 <a id='hp'><a>
+
+This is the Home Page of your 3Bot Connect App. Here you can re-direct to ["Social"](#social) to main ThreeFold social pages in "My space".
+
+![](img/3Bot_Home_Page.jpg)
+
+## Wallet
+
+<a id='wallet'><a>
+
+
+In this tab you can check your wallets balance of ThreeFold Tokens. By button in right side you can: recieve ThreeFold Tokens or send them:
+
+![](img/3But_wallet_1.jpg)
+
+### Recieve
+
+To recieve your ThreeFold Tokens you have to fill next fields:
+
+![](img/3But_wallet_2.jpg)
+
+1) To - choose wallet that get transaction
+2) Amount - amount of TFT to get
+3) Message - message to transaction
+4) Generate QR - this button generate QR that you have to show
+
+![](img/3But_wallet_3.jpg)
