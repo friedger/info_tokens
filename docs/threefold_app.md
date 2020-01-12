@@ -16,7 +16,6 @@ Follow the steps below to set up your ThreeFold Wallet, and receive and send you
 - [Receive tokens](#receive)
 - [Send tokens](#send)
 - [Transactions](#transactions)
-- [Buying ThreeFold tokens using BTC-Alpha](#btc-alpha)
 
 <a id='iyo'><a>
 
@@ -112,18 +111,3 @@ To see your balance click **Transactions** in your wallet:
 Under the number of ThreeFold Tokens you own (your balance) you see all (send and receive) transactions. Clicking any of the transactions will show you all the details of the transaction: 
 
 ![Transaction](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-transaction-300.jpg)
-
-
-<a id='btc-alpha'><a>
-
-## Buying ThreeFold Tokens using BTC-Alpha
-
-Next to receiving ThreeFold Tokens from other ThreeFold App users, as documented [above](#receive), you can of course also buy ThreeFold Tokens on public cryptocurrency exchanges, such as BTC-Alpha, which is actually the first one that offers ThreeFold Tokens. See [Using BTC-Alpha](/how_to_buy/btc-alpha.md) for instructions on how to use BTC-Alpha. 
-
-A list of all public cryptocurrency exchanges that offer ThreeFold is available from within the ThreeFold App. You can access this list by clicking **Exchanges** from the ThreeFold App navigation menu:
-
-![Exchanges](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-300.jpg)
-
-Selecting one of the listed exchanges will show you all details, for instance here for BTC-Alpha you get a full user manual documenting all steps to buy ThreeFold Tokens:
-
-![Exchanges Manual](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-exchanges-manual-300.jpg)
