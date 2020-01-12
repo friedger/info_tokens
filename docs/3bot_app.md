@@ -97,4 +97,4 @@ Here you can write to our support specialists to solve your problems with 3Bot C
 
 <a id='settings'><a>
   
-In that tab you can check your Secret Phrase ( by tapping to appropriate line ), change your pin code or remoove your account in Advanced Settings tab
+In that tab you can check your Secret Phrase ( by tapping to appropriate line ), change your pin code or remove your account in Advanced Settings tab
