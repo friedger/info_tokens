@@ -13,7 +13,7 @@ Follow the steps below to set up your 3Bot Connect wallet, and receive and send 
 - [Wallet](#wallet)
 - [Social](#social)
 - [Support](#support)
-- [settings](#settings)
+- [Settings](#settings)
 
 <a id='st-1'><a>
   
@@ -66,3 +66,35 @@ To recieve your ThreeFold Tokens you have to fill next fields:
 4) Generate QR - this button generate QR that you have to show
 
 ![](img/3But_wallet_3.jpg)
+
+### Send
+
+![](img/3But_wallet_4.jpg)
+
+1) From - choose your wallet with TFT to make transaction
+2) To - paste the reciever wallet adress
+3) Amount - amount of TFT to send
+4) Message - message to transaction
+5) SCAN QR - or just scan QR and this fields will be filled autromaticly
+
+## Social
+
+<a id='social'><a>
+  
+In social tab you can join to our My Space social network, get actual news from official pages of ThreeFold. Actually you can create your own My Space page for your own community.
+  
+![](img/3But_social.jpg)
+
+To choose My Space that you wanna to read tap "My Spaces" -> and choose My Space Page ftom list you wanna to check
+
+## Support
+
+<a id='support'><a>
+
+Here you can write to our support specialists to solve your problems with 3Bot Connect App. Just write a message.
+
+## Settings
+
+<a id='settings'><a>
+  
+In that tab you can check your Secret Phrase ( by tapping to appropriate line ), change your pin code or remoove your account in Advanced Settings tab
