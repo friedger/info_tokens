@@ -17,6 +17,7 @@ No, registering on Liquid will make it possible to send and receive ThreeFold To
 1. To buy tokens when the IEO starts
 2. To trade ThreeFold tokens when the IEO has ended
 3. To help ThreeFold reach their next milestones
+4. To go in and out TFT > other currencies after the IEO
 
 **Where can I register for the IEO**
 You can register through this link for the IEO, make sure to follow this link when actually signing up to make sure you are using the ThreeFold referral code.
