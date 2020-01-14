@@ -2,6 +2,7 @@
 * [What are ThreeFold Tokens?](what_are_tfts.md)
 * [Why buy ThreeFold Tokens?](why_buy_tft.md)
 * [How to buy ThreeFold Tokens](how_to_buy/README.md)
+* [IEO FAQ](ieo-faq/ieo-faq.md)
 * [Using the ThreeFold App](threefold_app.md)
 * [Value of the Token](token_issuance_economy.md)
 * [Token Properties](token_properties.md)
