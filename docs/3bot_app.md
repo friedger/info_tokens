@@ -2,12 +2,15 @@
 ![](img/3bot.png)
 
 
-# Using the 3Bot Connect App
+# Using the [3Bot Connect App](https://3bot.org/)
 
-## Desc of 3bot
+
+
+## Description of 3bot
 
 Follow the steps below to set up your 3Bot Connect wallet, and receive and send your first ThreeFold Tokens:
 
+- [Download](#download)
 - [Registration and login](#st-1)
 - [Home page](#hp)
 - [Wallet](#wallet)
@@ -15,8 +18,11 @@ Follow the steps below to set up your 3Bot Connect wallet, and receive and send 
 - [Support](#support)
 - [Settings](#settings)
 
-<a id='st-1'><a>
+  <a id='download'></a>
+  ## Download
+  Download 3Bot from [3Bot.org website](https://3bot.org/3bot.html)
   
+  <a id='st-1'></a>
   ## Registration and login
   
   To use the 3Bot Connect App you simply need to download the 3Bot Connect App available in the Appstore or Google Play Store. Folow the steps and register using your email address.
@@ -24,7 +30,8 @@ Follow the steps below to set up your 3Bot Connect wallet, and receive and send 
 
 ![](img/3Bot_Seed_Phrase.jpg)
 
-We recommend making a screenshot of this screen, print it on paper and store it safely offline.
+Seed Phrase allows you to access and recover your wallet from any device. 
+We highly recommend write down your seed key on a paper and store it safely offline.
 
 > **3Bot does not have any access to or maintain records of your private key. It is your personal responsibility to keep your 24-word private key in a safe place.**
 
@@ -34,29 +41,27 @@ We recommend making a screenshot of this screen, print it on paper and store it 
 
 > **To access your wallet from another wallet (on another phone or online) you will need your private key (seed), without this private key your account cannot be recovered on another device or online wallet.**
 
-
 Finish this steps and choose your new pin, then confirm it and confirm your e-mail adress.
 
 ## Home Page
 
-<a id='hp'><a>
+<a id='hp'></a>
 
-This is the Home Page of your 3Bot Connect App. Here you can re-direct to ["Social"](#social) to main ThreeFold social pages in "My space".
+This is the Home Page of your 3Bot Connect App. From here you can open ["Social"](#social) - [FreeFlow Pages](https://freeflowpages.com/) - open source social network hosted on ThreeFold decentralizde capacity. 
 
 ![](img/3Bot_Home_Page.jpg)
 
 ## Wallet
 
-<a id='wallet'><a>
+<a id='wallet'></a>
 
-
-In this tab you can check your wallets balance of ThreeFold Tokens. By button in right side you can: recieve ThreeFold Tokens or send them:
+In this tab you can check your ThreeFold Tokens wallets and balances. You can copy your wallet address using the green "Copy" buttons for each specific wallet. Using the button in the bottom right side you can send or generate QR code to receive ThreeFold Tokens:
 
 ![](img/3But_wallet_1.jpg)
 
-### Recieve
+### Generate QR Code to receive ThreeFold Tokens
 
-To recieve your ThreeFold Tokens you have to fill next fields:
+To recieve your ThreeFold Tokens you can copy your button or you have to fill next fields:
 
 ![](img/3But_wallet_2.jpg)
 
@@ -79,22 +84,22 @@ To recieve your ThreeFold Tokens you have to fill next fields:
 
 ## Social
 
-<a id='social'><a>
+<a id='social'></a>
   
-In social tab you can join to our My Space social network, get actual news from official pages of ThreeFold. Actually you can create your own My Space page for your own community.
+In social tab you can join to our FreeFlow network, get actual news from official pages of ThreeFold communities. You can also create your own communities. Home page contains links to the specific ThreeFold communities. 
   
 ![](img/3But_social.jpg)
 
-To choose My Space that you wanna to read tap "My Spaces" -> and choose My Space Page ftom list you wanna to check
+You can find available circles by pressing "My Spaces" -> and start typing a name or select from the proposed list.
 
 ## Support
 
-<a id='support'><a>
+<a id='support'></a>
 
-Here you can write to our support specialists to solve your problems with 3Bot Connect App. Just write a message.
+Here you can receive support on any questions related to the ThreeFold Network.
 
 ## Settings
 
-<a id='settings'><a>
+<a id='settings'></a>
   
-In that tab you can check your Secret Phrase ( by tapping to appropriate line ), change your pin code or remove your account in Advanced Settings tab
+In that tab you can check your Secret Phrase, change your pin code or remove your account in Advanced Settings tab.
