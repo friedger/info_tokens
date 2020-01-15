@@ -26,7 +26,7 @@ Follow the steps below to set up your 3Bot Connect wallet, and receive and send 
   ## Registration and login
   
   To use the 3Bot Connect App you simply need to download the 3Bot Connect App available in the Appstore or Google Play Store. Folow the steps and register using your email address.
- ### Save the seed phrase oin safety place. In the future, it is necessary to restore your wallet.
+ ### Save the seed phrase in a safe place. In the future, it may help to restore your wallet in case your devise is lost.
 
 ![](img/3Bot_Seed_Phrase.jpg)
 
@@ -102,4 +102,4 @@ Here you can receive support on any questions related to the ThreeFold Network.
 
 <a id='settings'></a>
   
-In that tab you can check your Secret Phrase, change your pin code or remove your account in Advanced Settings tab.
+You can check your Secret Phrase here, change your pin code or remove your account in Advanced Settings tab.
