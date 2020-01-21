@@ -4,7 +4,7 @@
 ## On the Liquid Exchange
 
 ### What’s Happening?
-As you know, ThreeFold is running an IEO set for late January with exchange partner Liquid! Prior to the IEO, we are looking for 1,000 registrations through our link (below). Soon, we will have an IEO-focused landing page on Liquid’s website. For now, we are sharing the referral code.
+As you know, ThreeFold is running an IEO set for the first half of 2020 with exchange partner Liquid! Prior to the IEO, we are looking for 1,000 registrations through our link (below). Soon, we will have an IEO-focused landing page on Liquid’s website. For now, we are sharing the referral code.
 
 ### What is an IEO?
 An IEO is an Initial Exchange Offering, basically, a public token sale conducted through a verified exchange.
@@ -38,4 +38,4 @@ Please note there is a mobile application called “liquid” which might be eas
 
 Here is the [ThreeFold referral link](https://www.liquid.com?affiliate=kmOSQysu714987). Please share it (or this page) with anybody you think would be interested in participating in the IEO. We can really use your support to generate awareness & excitement. If you are looking for additional materials on ThreeFold, please get in touch with Sam T. or Adnan.
 
-Once your registered wait for the market to open at the end of January, & let’s get this party started!
+Once your registered, follow news to join the IEO & let’s get this party started!
