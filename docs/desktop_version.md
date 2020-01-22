@@ -1,3 +1,5 @@
+!!!include("https://raw.githubusercontent.com/threefoldtech/threefold-wallet-electron/master/README.md")
+
 # Threefold Desktop wallet
 
 The Threefold desktop wallet is a full blown wallet implemented as a light client, meaning all keys and private data are stored locally but the blockchain explorers are used to access the blockchain information, the blockchain is not synced locally.
