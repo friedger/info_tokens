@@ -1,4 +1,4 @@
-!!!include("https://raw.githubusercontent.com/threefoldtech/threefold-wallet-electron/master/README.md")
+!!!include("https://github.com/threefoldtech/threefold-wallet-electron/blob/master/README.md")
 
 # Threefold Desktop wallet
 
