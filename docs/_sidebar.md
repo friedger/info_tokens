@@ -6,7 +6,7 @@
 * [Wallet Options](wallet_options.md)
 * [Wallet: 3Bot App Version](3bot_app.md)
 * [Wallet: ThreeFold App Version](threefold_app.md)
-* [Wallet: Desktop Version](desktop_version.md)
+* [Wallet: Desktop Version](https://github.com/threefoldtech/threefold-wallet-electron)
 * [Wallet: Developer Version](https://github.com/threefoldfoundation/tfchain)
 * [Value of the Token](token_issuance_economy.md)
 * [Token Properties](token_properties.md)
