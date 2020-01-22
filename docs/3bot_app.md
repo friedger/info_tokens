@@ -2,11 +2,11 @@
 ![](img/3bot.png)
 
 
-# Using the [3Bot Connect App](https://3bot.org/)
+# [3Bot Connect App](https://3bot.org/)
 
+## Introduction
 
-
-## Description of 3bot
+3Bot is a revolutionary digital avatar that will execute your digital needs. It is an unprecedented leap in digital privacy and comes with all the functionalities you need to interact and exchange on the new Internet. With 3Bot, everything changes.
 
 Follow the steps below to set up your 3Bot Connect wallet, and receive and send your first ThreeFold Tokens:
 
