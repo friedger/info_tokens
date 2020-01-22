@@ -8,7 +8,7 @@ Wallet included in the 3Bot app. Basic features. For iOS and Android.
 
 The standard wallet for TFT so far. Simple intuitive wallet for iOS and Andriod.
 
-### 3. [TF Desktop Wallet](desktop_version.md)
+### 3. [TF Desktop Wallet](https://github.com/threefoldtech/threefold-wallet-electron)
 
 Desktop wallet for the advanced user. Including multisignature wallet functionality that allows for example companies to add multiple signatures for TFT transactions.
 
