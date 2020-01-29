@@ -1,18 +1,18 @@
 ![Liquid Exchange](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/liquid.png)
 
-# REGISTERING FOR OUR IEO 
+# REGISTERING FOR OUR TOKEN LAUNCH 
 ## On the Liquid Exchange
 
 ### What’s Happening?
-As you know, ThreeFold is running an IEO set for the first half of 2020 with exchange partner Liquid! Prior to the IEO, we are looking for 1,000 registrations through our link (below). Soon, we will have an IEO-focused landing page on Liquid’s website. For now, we are sharing the referral code.
+As you know, ThreeFold is running an Token Launch Event set for the first half of 2020 with exchange partner Liquid! Prior to the Token Launch. We are sharing the referral code for the Liquid exchange that will help ThreeFold Network successfull launch. 
 
-### What is an IEO?
-An IEO is an Initial Exchange Offering, basically, a public token sale conducted through a verified exchange.
+### What is an Token Launch Event?
+An Token Launch Event (TLE), basically, a launch of the public trading of ThreeFold Tokens on a trusted and reputable exchange.
 
-### Why are we running an IEO?
+### Why are we doing a TLE?
 In order to generate awareness and funds (to further awareness) for the ThreeFold Network.
 Why Register With the ThreeFold Link?
-We are seeking 1,000 registrations as a showing of our community and our ability to drive meaningful participation in the IEO. The IEO won’t happen until we hit this number, so this is super important. **Please note you are not fully registered until you verify your account.**
+We are seeking 1,000 registrations as a showing of our community and our ability to drive meaningful participation in the market after TLE. **Please note you are not fully registered until you verify your account.**
 
 ### How to Register
 1. [Click on this link](https://www.liquid.com?affiliate=kmOSQysu714987) (Please only use this referral link to register). 
@@ -34,8 +34,8 @@ Please note there is a mobile application called “liquid” which might be eas
 **Again, please note you are not fully registered until you verify your account.**
 
 ### What now?
-### Now you are IEO ready!
+### Now you are ready for ThreeFold Token Launch!
 
-Here is the [ThreeFold referral link](https://www.liquid.com?affiliate=kmOSQysu714987). Please share it (or this page) with anybody you think would be interested in participating in the IEO. We can really use your support to generate awareness & excitement. If you are looking for additional materials on ThreeFold, please get in touch with Sam T. or Adnan.
+Here is the [ThreeFold referral link](https://www.liquid.com?affiliate=kmOSQysu714987). Please share it (or this page) with anybody you think would be interested in participating in the TLE. We can really use your support to generate awareness & excitement. If you are looking for additional materials on ThreeFold, please get in touch with Sam T. or Adnan.
 
 Once your registered, follow news to join the IEO & let’s get this party started!
