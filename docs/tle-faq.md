@@ -1,7 +1,7 @@
 # TLE FAQ
 
 **What is a TLE?**
-A: An Token Launch Event (TLE) is a launch of the token makret on an exchange. Token trading after the launch is available exclusively to the exchange's users. Token trading on a public exchange will allow anyone who need ThreeFold tokens in order to access ThreeFold Grid's capacity to purchase them.  
+A: An Token Listing Event (TLE) is a listing of the token makret on an exchange. Token trading after the listing is available exclusively to the exchange's users. Token trading on a public exchange will allow anyone who need ThreeFold tokens in order to access ThreeFold Grid's capacity to purchase them.  
 
 **When is the start of the TLE**
 The ThreeFold TLE date will be announced later. It depends on some preliminary milestones.  
