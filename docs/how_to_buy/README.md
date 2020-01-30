@@ -4,10 +4,10 @@
 ## On the Liquid Exchange
 
 ### What’s Happening?
-As you know, ThreeFold is running an Token Listing Event set for the first half of 2020 with exchange partner Liquid! Prior to the Token Launch. We are sharing the referral code for the Liquid exchange that will help ThreeFold Network successfull launch. 
+As you know, ThreeFold is running an Token Listing Event set for the first half of 2020 with exchange partner Liquid! Prior to the Token Listing. We are sharing the referral code for the Liquid exchange that will help ThreeFold Network successfull listing. 
 
 ### What is an Token Listing Event?
-An Token Listing Event (TLE), basically, a launch of the public trading of ThreeFold Tokens on a trusted and reputable exchange.
+An Token Listing Event (TLE), basically, a listing of the public trading of ThreeFold Tokens on a trusted and reputable exchange.
 
 ### Why are we doing a TLE?
 In order to generate awareness and funds (to further awareness) for the ThreeFold Network.
