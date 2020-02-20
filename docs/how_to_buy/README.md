@@ -27,7 +27,7 @@ We are seeking 1,000 registrations as a showing of our community and our ability
 
 *Note: If you’re not given the option to verify via video but would like to do so, follow the instructions [here](https://help.liquid.com/en/articles/3104816-video-call-kyc-verification). If you choose to verify via the website, [here is a full explanation](https://help.liquid.com/en/articles/2273305-how-do-i-verify-kyc-my-liquid-account) of how to do so & what you will need.*
 
-If anything is still unclear here, please contact an admin on the ThreeFold Network Telegram channel.
+If anything is still unclear here, please contact an admin on the [ThreeFold Forum](https://forums.threefold.io/).
 
 Please note there is a mobile application called “liquid” which might be easier to do you verification. It will  use your phone camera to “capture” your selfie, passport and proof of residency information.
 
